@@ -1,0 +1,34 @@
+key,year,batch,ch_protocol,energy_model,sink,datasheet_sim,bound_or_optimum,idle_listening_modelled,direct_baseline,note
+PMC10649466,2023,1,1,FO,edge,0,0,0,0,EEDC; 50 pJ/bit/m2 amplifier form; BS at top
+PMC10536519,2023,1,1,FO,edge,0,0,0,0,EPOA-CHS; full Heinzelman table; BS upper centre
+PMC8380017,2022,1,1,FO,centre,0,0,0,0,DEEC-ET
+PMC13168505,2026,1,1,FO,centre,0,0,1,0,UWSN MPA-HGSO; FO constants plus idle term; BS centre and corner scenarios
+PMC12569079,2025,1,1,FO,unstated,0,0,0,0,QACGA agricultural clustering
+PMC11836451,2025,1,1,FO,unstated,0,0,0,0,cluster-based compressive sensing; first order plus two-ray
+PMC13538490,2026,1,1,FO,edge,0,0,0,0,QIHOR; extended FO; BS (50;100)
+PMC13259293,2026,1,1,FO,centre,0,0,0,0,EB-LEACH; FO in simulation; field power test of 10 nodes separately
+PMC10038984,2023,1,1,FO,centre,0,0,0,0,CRSN multi-hop clustering
+PMC11680772,2024,1,1,FO,unstated,0,0,0,0,QCA clustering; 50 nJ/bit TX and RX; ns-3
+PMC9028294,2022,1,1,FO,unstated,0,0,0,0,UWSN CSRO-MHDT; kEe + kEa d2
+PMC11541757,2024,1,1,FO,centre,0,0,0,0,NN-ILEACH; BS (100;100) in 200 m field
+PMC7913184,2021,1,1,FO,centre,0,0,0,1,EZ-SEP; direct transmission among baselines
+PMC11697443,2025,1,1,FO,centre,0,0,0,0,secure routing fuzzy; sink (200;200) in 400 m field
+PMC13611697,2026,1,1,FO,edge,0,0,0,0,SMA-WSN; BS at border (100;0); NS-3; ESP32 testbed planned only
+PMC12623812,2025,2,1,FO,centre,0,0,0,0,mobile WSN clustering; claims constants match Mica2dot
+PMC12030853,2025,2,1,FO,centre,0,0,0,0,KDE clustering; sink (50;50)
+PMC13307351,2026,2,1,OTHER,edge,0,0,0,0,surface-deployed; normalised energy units
+PMC10205006,2023,2,1,FO,centre,0,0,0,0,blockchain clustering
+PMC11244581,2024,2,1,FO,centre,0,0,0,0,CGA-GWO; BS (90;90)
+PMC9860737,2023,2,1,FO,unstated,0,0,0,0,cluster-based object tracking
+PMC10574951,2023,2,1,FO,centre,0,0,0,0,fuzzy routing; sink (100;100)
+PMC8942282,2022,2,1,OTHER,centre,0,0,0,0,BFO routing; NS-2 802.15.4 default energy
+PMC12804670,2026,2,1,FO,unstated,0,0,0,0,K-means LEACH
+PMC10422204,2023,2,1,FO,unstated,0,0,0,0,distributed PSO fuzzy clustering
+PMC12559384,2025,2,1,FO,centre,0,0,0,0,modified zebra optimisation; BS (60;60) and (75;75)
+PMC13490517,2026,2,1,FO,outside,0,0,0,0,dominating set and bandit scheduling; sink (50;150)
+PMC11543684,2024,2,1,FO,edge,0,0,0,0,IWSN Gaussian-mutation clustering; BS inside and at edge
+PMC13365567,2026,2,1,NONE,centre,0,0,0,0,RL clustering; no energy model stated
+PMC10935161,2024,2,1,NONE,unstated,0,0,0,0,hybrid CH; no energy model stated
+PMC12031156,2025,2,1,NONE,unstated,0,0,0,0,TEAHR trust routing; no energy model stated
+PMC11612405,2024,2,1,NONE,unstated,0,0,0,0,lion swarm secure clustering; no energy model stated
+PMC12473466,2025,2,1,NONE,unstated,0,0,0,0,drift-aware clustering; no energy model stated

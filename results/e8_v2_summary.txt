@@ -1,0 +1,13 @@
+radio        sink   n  DIRECT  LEACH   KMRE   PSOC  best   best/UB (min-max)  PSOC/UB  LB/UB
+CC2420       centre 3     58     88    290    310  PSOC   0.634 (0.62-0.65)    0.634   0.981
+nRF52840v3   centre 3   1628   1389    889    961  DIRECT 0.873 (0.82-0.90)    0.515   0.952
+FO           centre 3   1323   1298   1041   1109  DIRECT 0.768 (0.75-0.78)    0.644   0.981
+CC1101-868   centre 3    104     20     44     41  DIRECT 0.970 (0.96-0.98)    0.385   0.962
+CC2420       edge   3     27     60    251    295  PSOC   0.770 (0.76-0.79)    0.770   0.977
+nRF52840v3   edge   3    636    651    883    954  PSOC   0.683 (0.67-0.69)    0.683   0.968
+FO           edge   3    570    598   1022   1098  PSOC   0.814 (0.80-0.83)    0.814   0.981
+CC1101-868   edge   3     96     20     45     40  DIRECT 0.938 (0.92-0.97)    0.394   0.945
+CC2420       far    3  infeasible: sink out of range of every node
+nRF52840v3   far    3     52    112    745    645  KMRE   0.776 (0.74-0.82)    0.671   0.982
+FO           far    2     92    156    762    957  PSOC   0.938 (0.94-0.94)    0.938   0.981
+CC1101-868   far    3     96     20     44     42  DIRECT 1.000 (1.00-1.00)    0.438   0.992

@@ -1,0 +1,656 @@
+key,year,venue,title,chars,e_elec,e_fs,e_mp,fo_words,sink_far,sink_centre,field100,listen,datasheet,testbed,sim,bounds,fo_const,baselines,gain_max
+PMC10004472,2022,Sensors (Basel),Energy and Environment-Aware Path Planning in Wireless Sensor Networks with Mobile Sink.,109583,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;PSO;ACO,
+PMC10007087,2023,Sensors (Basel),Energy-Efficient Clustering and Routing Using ASFO and a Cross-Layer-Based Expedient Routing Protocol for Wireless Senso,36115,0,0,0,0,0,0,0,0,0,0,1,1,0,HEED;WOA,
+PMC10007377,2023,Sensors (Basel),Distributed Relative Localization Algorithms for Multi-Robot Networks: A Survey.,79459,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC10007446,2023,Sensors (Basel),Machine Learning Analytic-Based Two-Staged Data Management Framework for Internet of Things.,70601,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10007498,2023,Sensors (Basel),Current Status and Prospects of Research on Sensor Fault Diagnosis of Agricultural Internet of Things.,72231,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10027254,2023,Soft comput,Fuzzy-based cluster routing in wireless sensor network.,28452,0,1,1,0,1,0,1,0,0,0,1,0,0,LEACH;PSO,
+PMC10038984,2023,Sci Rep,An imperfect spectrum sensing-based multi-hop clustering routing protocol for cognitive radio sensor networks.,57656,1,1,0,0,0,0,0,0,0,0,1,0,1,PSO,
+PMC10043837,2023,J Cloud Comput (Heidelb),Data transmission reduction formalization for cloud offloading-based IoT systems.,51430,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10051907,2023,Sensors (Basel),Energy Harvesting and Task-Aware Multi-Robot Task Allocation in Robotic Wireless Sensor Networks.,46618,0,0,0,0,0,0,0,0,0,0,0,1,0,GA,100.0
+PMC10056912,2023,Sensors (Basel),VORTEX: Network-Driven Opportunistic Routing for Ad Hoc Networks.,62116,0,0,0,0,0,0,0,1,0,0,0,0,0,GA,10.2
+PMC10058844,2023,Sensors (Basel),Deep Reinforcement Learning-Based One-to-Multiple Cooperative Computing in Large-Scale Event-Driven Wireless Sensor Netw,77936,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED,
+PMC10059010,2023,Sensors (Basel),Energy-Efficient LoRa Routing for Smart Grids.,55340,1,1,1,0,0,0,1,1,0,0,1,0,1,LEACH;SEP;DEEC;PSO,
+PMC10098659,2023,Sensors (Basel),Analysis of the Improvement of Engineering Mechanics Experimental Methods Based on IoT and Machine Learning.,48224,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+PMC10099215,2023,Sensors (Basel),Multi-Boundary Empirical Path Loss Model for 433 MHz WSN in Agriculture Areas Using Fuzzy Linear Regression.,43563,0,0,0,0,0,0,0,0,0,0,0,1,0,,
+PMC10123753,2023,Biomimetics (Basel),A Novel Topology Optimization Protocol Based on an Improved Crow Search Algorithm for the Perception Layer of the Intern,60658,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GWO;WOA,
+PMC10131528,2023,J Supercomput,Blockchain-enabled secure and efficient data sharing scheme for trust management in healthcare smartphone network.,130530,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10140898,2023,Sensors (Basel),Binary Chimp Optimization Algorithm with ML Based Intrusion Detection for Secure IoT-Assisted Wireless Sensor Networks.,34967,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,
+PMC10144673,2023,Sensors (Basel),A Dynamic Trust-Related Attack Detection Model for IoT Devices and Services Based on the Deep Long Short-Term Memory Tec,53045,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10146312,2023,Sensors (Basel),Fast and Low-Overhead Time Synchronization for Industrial Wireless Sensor Networks with Mesh-Star Architecture.,42120,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC10169185,2023,J Supercomput,Composition of caching and classification in edge computing based on quality optimization for SDN-based IoT healthcare s,103439,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO,
+PMC10205006,2023,PLoS One,New approach to improve power consumption associated with blockchain in WSNs.,94151,1,1,1,0,0,0,1,0,0,1,1,1,1,GWO,
+PMC10221780,2023,Sensors (Basel),Hybrid Cooperative Cache Based on Temporal Convolutional Networks in Vehicular Edge Network.,40082,0,0,0,0,0,0,0,0,0,0,0,0,0,,16.0
+PMC10222487,2023,Life (Basel),Efficient Secure Communication in Zigbee Network Using the DNA Sequence Encryption Technique.,40301,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10224381,2023,Sensors (Basel),Underwater Wireless Sensor Networks Performance Comparison Utilizing Telnet and Superframe.,53801,0,0,0,0,0,0,0,1,0,0,0,0,0,,
+PMC10241578,2023,Comput Intell Neurosci,Swarm Intelligence to Face IoT Challenges.,56234,0,0,0,0,0,0,0,1,0,0,0,0,0,LEACH;PSO;GWO;ACO;ABC,
+PMC10241612,2023,Multimed Tools Appl,A nomadic multi-agent based privacy metrics for e-health care: a deep learning approach.,60563,0,0,0,0,0,0,0,0,0,0,0,1,0,ABC,
+PMC10245365,2023,Arch Comput Methods Eng,A Comprehensive Survey on Aquila Optimizer.,112968,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GWO;WOA;GA;ACO;ABC,
+PMC10255433,2023,Sensors (Basel),Energy Aware Software Defined Network Model for Communication of Sensors Deployed in Precision Agriculture.,47344,1,0,0,0,0,0,1,1,0,0,0,0,0,LEACH;SEP;DEEC;GWO,14.0
+PMC10255534,2023,Sensors (Basel),Smart Flood Detection with AI and Blockchain Integration in Saudi Arabia Using Drones.,80219,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC10255642,2023,Sensors (Basel),A Hybrid Scheme for Disaster-Monitoring Applications in Wireless Sensor Networks.,80826,1,1,1,0,0,0,0,1,0,1,1,1,1,LEACH;SEP;DEEC,
+PMC10255958,2023,Sensors (Basel),SDAA: Secure Data Aggregation and Authentication Using Multiple Sinks in Cluster-Based Underwater Vehicular Wireless Sen,57891,0,0,0,0,0,0,0,0,0,0,1,0,0,,24.1
+PMC10256013,2023,Sensors (Basel),Load Balancing Using Artificial Intelligence for Cloud-Enabled Internet of Everything in Healthcare Domain.,61031,0,0,0,0,0,0,0,0,1,1,1,0,0,WOA;GA;ABC,
+PMC10270333,2023,PLoS One,A fuzzy model for content-centric routing in Zigbee-based wireless sensor networks (WSNs).,70049,0,0,1,0,0,1,0,0,0,0,1,0,0,LEACH;PSO;GA;ACO,88.1
+PMC10300937,2023,Sensors (Basel),Unsupervised Learning-Based WSN Clustering for Efficient Environmental Pollution Monitoring.,37250,1,1,1,0,0,0,1,0,0,0,0,0,1,LEACH,
+PMC10301651,2023,Sensors (Basel),Energy-Efficient Data Transmission for Underwater Wireless Sensor Networks: A Novel Hierarchical Underwater Wireless Sen,49920,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10302200,2023,Sensors (Basel),Variable-Length Multiobjective Social Class Optimization for Trust-Aware Data Gathering in Wireless Sensor Networks.,68585,0,0,0,0,0,0,1,0,0,0,1,1,0,,
+PMC10303816,2023,Sensors (Basel),Heterogeneous Algorithm for Efficient-Path Detection and Congestion Avoidance for a Vehicular-Management System.,78685,0,0,0,0,0,0,0,0,0,1,1,1,0,LEACH;PSO;ACO;ABC,
+PMC10303990,2023,Sensors (Basel),Non-Uniform Clustering Algorithm for UWSNs Based on Energy Equalization.,42822,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;DEEC,
+PMC10305020,2023,Sensors (Basel),An Innovative Clustering Hierarchical Protocol for Data Collection from Remote Wireless Sensor Networks Based Internet o,68503,0,0,1,0,0,0,1,1,0,0,1,0,0,LEACH;SEP,
+PMC10319787,2023,Sci Rep,Underwater wireless sensor network-based multihop data transmission using hybrid cat cheetah optimization algorithm.,59208,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH,
+PMC10329716,2023,Sci Rep,A fuzzy logic-based secure hierarchical routing scheme using firefly algorithm in Internet of Things for healthcare.,68796,1,1,1,0,0,1,1,0,0,0,1,0,1,GA,
+PMC10346249,2023,Sensors (Basel),Efficient Cluster Tree Topology Operation and Routing for IEEE 802.15.4-Based Smart Grid Networks.,56591,0,0,0,0,0,0,0,1,0,1,1,0,0,LEACH,
+PMC10347190,2023,Sensors (Basel),"ECKN: An Integrated Approach for Position Estimation, Packet Routing, and Sleep Scheduling in Wireless Sensor Networks.",69947,0,0,0,0,0,1,0,1,0,0,1,0,0,,
+PMC10383153,2023,Sensors (Basel),Optimized Back Propagation Neural Network Using Quasi-Oppositional Learning-Based African Vulture Optimization Algorithm,44542,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;WOA,
+PMC10384587,2023,Micromachines (Basel),Internet-of-Things-Based Multiple-Sensor Monitoring System for Soil Information Diagnosis Using a Smartphone.,47197,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC10384778,2023,Sensors (Basel),Contextual Cluster-Based Glow-Worm Swarm Optimization (GSO) Coupled Wireless Sensor Networks for Smart Cities.,63239,0,0,0,0,0,0,0,0,0,0,1,0,0,ACO,31.0
+PMC10384801,2023,Sensors (Basel),A Software Framework for Intelligent Security Measures Regarding Sensor Data in the Context of Ambient Assisted Technolo,47595,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+PMC10385448,2023,Sensors (Basel),An Asymmetric Encryption-Based Key Distribution Method for Wireless Sensor Networks.,38430,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10385739,2023,Sensors (Basel),A Cluster-Based Energy-Efficient Secure Optimal Path-Routing Protocol for Wireless Body-Area Sensor Networks.,48266,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH,
+PMC10386723,2023,Sensors (Basel),An Advanced Energy-Efficient Environmental Monitoring in Precision Agriculture Using LoRa-Based Wireless Sensor Networks,101100,0,0,0,0,0,0,0,1,1,1,0,0,0,,
+PMC10400296,2023,Comput Intell Neurosci,Neural Network Clustering and Swarm Intelligence-Based Routing Protocol for Wireless Sensor Networks: A Machine Learning,29002,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;GA,
+PMC10421948,2023,Sci Rep,A cluster-based trusted routing method using fire hawk optimizer (FHO) in wireless sensor networks (WSNs).,154616,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;HEED;PSO;GWO;WOA;GA,
+PMC10422204,2023,Sensors (Basel),A Distributed Particle-Swarm-Optimization-Based Fuzzy Clustering Protocol for Wireless Sensor Networks.,57790,0,0,1,1,0,1,1,0,0,0,1,0,1,LEACH;PSO;ABC,44.12
+PMC10422326,2023,Sensors (Basel),AODV-EOCW: An Energy-Optimized Combined Weighting AODV Protocol for Mobile Ad Hoc Networks.,43887,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10422435,2023,Sensors (Basel),Clustering-Based Energy-Efficient Self-Healing Strategy for WSNs Under Jamming Attacks.,67390,0,0,0,0,0,1,0,0,0,0,1,0,0,LEACH;HEED,
+PMC10422567,2023,Sensors (Basel),Probabilistic Detection of Indoor Events Using a Wireless Sensor Network-Based Mechanism.,74913,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10422629,2023,Sensors (Basel),Advanced Topics and Smart Systems for Wireless Communications and Networks.,12246,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10452281,2023,Biomimetics (Basel),"Bio-Inspired Internet of Things: Current Status, Benefits, Challenges, and Future Directions.",78563,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH;PSO;GWO;WOA;GA;ACO,
+PMC10456139,2023,PLoS One,Introducing a new routing method in the MANET using the symbionts search algorithm.,41319,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+PMC10458627,2023,Sensors (Basel),Innovative DMHS Algorithm Application in Wireless Sensor Networks for Efficient Routing in High-Risk Environments.,50568,0,0,0,0,0,0,0,1,0,0,1,0,0,,21.0
+PMC10459084,2023,Sensors (Basel),Wireless Sensor Network-Based Rockfall and Landslide Monitoring Systems: A Review.,53642,0,0,0,0,0,0,0,0,1,1,0,0,0,,
+PMC10468085,2023,PLoS One,New key management scheme lattice-based for clustered wireless sensor networks.,34317,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10479917,2023,PLoS One,Optimal path selection and secured data transmission in underwater acoustic sensor networks: LSTM-based energy predictio,66007,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GWO,30.0
+PMC10490580,2023,Sensors (Basel),Enhanced Dual-Selection Krill Herd Strategy for Optimizing Network Lifetime and Stability in Wireless Sensor Networks.,58146,0,0,1,0,1,0,1,0,0,1,1,0,0,LEACH;PSO;GA;ACO;ABC,17.64
+PMC10490593,2023,Sensors (Basel),Cluster Head Selection Method for Edge Computing WSN Based on Improved Sparrow Search Algorithm.,34268,0,0,1,0,0,0,0,0,0,0,1,0,0,LEACH;WOA,26.8
+PMC10490743,2023,Sensors (Basel),Energy-Saving Adaptive Routing for High-Speed Railway Monitoring Network Based on Improved Q Learning.,52719,1,1,1,0,0,0,0,0,0,0,1,0,1,HEED;DEEC,30.0
+PMC10491002,2023,PLoS One,A cluster-tree-based trusted routing algorithm using Grasshopper Optimization Algorithm (GOA) in Wireless Sensor Network,68266,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;PSO;GWO;GA;ACO;ABC,
+PMC10495966,2023,PeerJ Comput Sci,A wormhole attack detection method for tactical wireless sensor networks.,25076,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC10534412,2023,Sensors (Basel),Maximize Lifetime of Wireless Rechargeable Sensor Networks with Mobile Energy-Limited Charging Device.,55976,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10535244,2023,Sensors (Basel),Enhancing IoT Security: An Innovative Key Management System for Lightweight Block Ciphers.,81326,0,0,0,0,0,0,0,1,1,1,0,0,0,,
+PMC10535922,2023,Sensors (Basel),Fuzzy-Based Efficient Healthcare Data Collection and Analysis Mechanism Using Edge Nodes in the IoMT.,72235,0,0,0,0,0,1,0,0,0,0,1,0,0,LEACH;PSO;ACO;ABC,
+PMC10536325,2023,Sensors (Basel),An Intelligent Bio-Inspired Autonomous Surveillance System Using Underwater Sensor Networks.,45677,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10536519,2023,Sensors (Basel),Enhanced Pelican Optimization Algorithm for Cluster Head Selection in Heterogeneous Wireless Sensor Networks.,41243,1,0,1,1,0,1,1,0,0,0,1,1,1,SEP;DEEC;PSO;GWO,
+PMC10537842,2023,Sensors (Basel),DLSMR: Deep Learning-Based Secure Multicast Routing Protocol against Wormhole Attack in Flying Ad Hoc Networks with Cell,69985,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,
+PMC10537957,2023,Sensors (Basel),RETRACTED: Blockchain-Powered Healthcare Systems: Enhancing Scalability and Security with Hybrid Deep Learning.,84850,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC10545119,2023,PLoS One,A secure routing approach based on league championship algorithm for wireless body sensor networks in healthcare.,76404,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GA,
+PMC10558489,2023,Sci Rep,Performance enhancement in clustering cooperative spectrum sensing for cognitive radio network using metaheuristic algor,54556,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO,14.0
+PMC10574951,2023,Sensors (Basel),An Energy-Efficient Routing Algorithm for WSNs Using Fuzzy Logic.,27539,1,1,0,0,0,1,0,0,0,0,1,0,1,LEACH;PSO,
+PMC10577066,2023,MethodsX,A topology control algorithm for fusion networks based on link quality.,36791,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10590437,2023,Sci Rep,Secure routing in the Internet of Things (IoT) with intrusion detection capability based on software-defined networking ,77485,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO,
+PMC10611001,2023,Sensors (Basel),A Multi-Agent Prediction Method for Data Sampling and Transmission Reduction in Internet of Things Sensor Networks.,46538,0,0,0,0,0,0,0,0,0,0,0,1,0,,
+PMC10611032,2023,Sensors (Basel),Multiple Mobile Sinks for Quality of Service Improvement in Large-Scale Wireless Sensor Networks.,66345,0,0,0,0,1,0,0,1,1,1,1,0,0,LEACH;PSO;ACO,105.0
+PMC10611176,2023,Sensors (Basel),Multi-UAV Data Collection and Path Planning Method for Large-Scale Terminal Access.,48656,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO;GA,
+PMC10649080,2023,Sensors (Basel),Cluster-Disjoint Multipath Routing Protocol for Real-Time and Reliable Packet Transmission in Wireless Sensor Networks.,40233,0,0,0,0,0,0,0,0,1,0,1,0,0,,
+PMC10649466,2023,Sensors (Basel),EEDC: An Energy Efficient Data Communication Scheme Based on New Routing Approach in Wireless Sensor Networks for Future,38775,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED,38.0
+PMC10650775,2023,Sensors (Basel),CERP: Cooperative and Efficient Routing Protocol for Wireless Sensor Networks.,46121,0,0,0,0,0,0,0,0,1,1,1,0,0,LEACH,
+PMC10674239,2023,Sensors (Basel),A Fast Anti-Jamming Algorithm Based on Imitation Learning for WSN.,44764,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC10675808,2023,Sensors (Basel),Path Loss Characterization in an Outdoor Corridor Environment for IoT-5G in a Smart Campus University at 850 MHz and 3.5,24286,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10708744,2023,Sensors (Basel),Securing Smart Healthcare Cyber-Physical Systems against Blackhole and Greyhole Attacks Using a Blockchain-Enabled Gini ,120860,0,0,0,0,0,0,0,0,0,0,1,0,0,,11.97
+PMC10708815,2023,Sensors (Basel),"WiCHORD+: A Scalable, Sustainable, and P2P Chord-Based Ecosystem for Smart Agriculture Applications.",104532,0,0,0,0,0,0,0,0,1,0,1,0,0,,
+PMC10752518,2023,PLoS One,Energy efficient gateway based routing with maximized node coverage in a UAV assisted wireless sensor network.,70581,1,1,1,1,0,0,0,1,0,0,1,1,1,LEACH;ACO,
+PMC10762054,2024,Sci Rep,Firefly algorithm based WSN-IoT security enhancement with machine learning for intrusion detection.,55372,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO;GWO,
+PMC10781182,2023,Sensors (Basel),Semi-Supervised Clustering-Based DANA Algorithm for Data Gathering and Disease Detection in Healthcare Wireless Sensor N,110816,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH,
+PMC10781342,2024,Sensors (Basel),An Accuracy-Aware Energy-Efficient Multipath Routing Algorithm for WSNs.,60281,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;ACO,
+PMC10781696,2024,Sci Rep,A self-adaptive attraction and repulsion-based naked mole-rat algorithm for energy-efficient mobile wireless sensor netw,63826,1,0,0,1,0,1,1,0,0,0,1,1,1,LEACH;PSO;GWO;GA,
+PMC10798489,2024,PLoS One,AMDDLmodel: Android smartphones malware detection using deep learning model.,59435,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC10818593,2024,Sensors (Basel),"Improved LEACH Protocol Based on Underwater Energy Propagation Model, Parallel Transmission, and Replication Computing f",41727,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;DEEC,
+PMC10821423,2024,Sensors (Basel),"Special Issue ""Emerging AI+X-Based Sensor and Networking Technologies including Selected Papers from ICGHIT 2022-2023"".",15108,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO,
+PMC10858936,2024,Sci Rep,WHOOP<sup>H</sup>: whale optimization-based optimal placement of hub node within a WBAN.,50163,0,0,0,1,0,0,0,1,0,0,1,1,1,PSO;WOA,
+PMC10883932,2024,Sci Rep,Improved energy efficiency using adaptive ant colony distributed intelligent based clustering in wireless sensor network,56256,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;HEED;SEP;PSO;ACO,
+PMC10891593,2024,Sensors (Basel),Multi-Hop Clustering and Routing Protocol Based on Enhanced Snake Optimizer and Golden Jackal Optimization in WSNs.,44716,1,0,1,1,0,0,1,0,0,0,0,0,1,LEACH;PSO;ACO,
+PMC10925987,2024,Heliyon,Multi-factor optimized mobile sink data collection framework for hybrid WSN-LTE assisted IoT network.,45430,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO,54.0
+PMC10934097,2024,Sensors (Basel),Artificial Neural Network-Based Mechanism to Detect Security Threats in Wireless Sensor Networks.,59834,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH,31.26
+PMC10935161,2024,Sensors (Basel),A Hybrid Approach for Energy Consumption and Improvement in Sensor Network Lifespan in Wireless Sensor Networks.,36543,0,0,0,0,0,0,1,1,0,0,1,1,0,GA,1.2
+PMC10951613,2024,Heliyon,Micro energy harvesting for IoT platform: Review analysis toward future research opportunities.,83831,0,0,0,0,0,0,0,1,0,1,0,0,0,,90.0
+PMC10954624,2024,Sci Rep,Multi-hop clustering routing protocol design based on simultaneous wireless information and power transfer technology an,56789,0,1,1,0,0,1,0,0,0,0,1,0,0,,33.1
+PMC10975816,2024,Sensors (Basel),Security Enhancement for Deep Reinforcement Learning-Based Strategy in Energy-Efficient Wireless Sensor Networks.,41237,0,0,0,0,0,0,0,1,1,0,0,0,0,LEACH;DEEC,30.0
+PMC10975998,2024,Sensors (Basel),A Novel Bio-Inspired Bat Node Scheduling Algorithm for Dependable Safety-Critical Wireless Sensor Network Systems.,46572,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC10997138,2024,PLoS One,Efficient cluster-based routing protocol for wireless sensor networks by using collaborative-inspired Harris Hawk optimi,58507,0,0,0,1,1,1,0,0,0,0,1,0,1,LEACH;PSO;GWO,8.64
+PMC11006676,2024,Sci Rep,Traffic coordination by reducing jamming attackers in VANET using probabilistic Manhattan Grid Topology for automobile a,41518,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO,
+PMC11013963,2024,Sensors (Basel),Secure Data Aggregation Using Authentication and Authorization for Privacy Preservation in Wireless Sensor Networks.,72557,0,0,0,0,0,0,0,0,0,0,1,0,0,,89.0
+PMC11014082,2024,Sensors (Basel),Adaptive Spatial Scheduling for Event Traffic in LoRaWAN Networks.,71369,0,0,0,0,1,0,0,1,0,1,0,0,0,,
+PMC11014365,2024,Sensors (Basel),ACTOR: Adaptive Control of Transmission Power in RPL.,73373,0,0,0,0,0,0,1,1,1,1,1,1,0,,40.0
+PMC11023404,2024,PLoS One,RETRACTED: An effective hotspot mitigation system for Wireless Sensor Networks using hybridized prairie dog with Genetic,87238,1,1,1,0,0,0,0,0,0,0,0,0,1,LEACH;GA,
+PMC11041949,2024,PeerJ Comput Sci,Data aggregation algorithm for wireless sensor networks with different initial energy of nodes.,127847,1,0,1,1,0,0,1,0,0,1,1,0,1,LEACH,20.0
+PMC11064459,2024,Heliyon,Software defined wireless sensor load balancing routing for internet of things applications: Review of approaches.,98539,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO;GA;ACO;ABC,
+PMC11075610,2024,Sci Prog,Optimal topology control for grounding protection sensor networks in shipboard electrical systems.,42375,0,0,0,0,0,0,0,0,0,0,0,1,0,ACO,
+PMC11086150,2024,Sensors (Basel),An Adaptive Trust Evaluation Model for Detecting Abnormal Nodes in Underwater Acoustic Sensor Networks.,48028,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11086317,2024,Sensors (Basel),Evaluating Trust Management Frameworks for Wireless Sensor Networks.,74518,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11154361,2024,Sensors (Basel),ANN-Based Intelligent Secure Routing Protocol in Vehicular Ad Hoc Networks (VANETs) Using Enhanced AODV.,102588,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11154392,2024,Sensors (Basel),SWARAM: Osprey Optimization Algorithm-Based Energy-Efficient Cluster Head Selection for Wireless Sensor Network-Based In,44591,1,1,1,0,0,1,0,0,0,0,1,1,1,LEACH;PSO;WOA;GA;ACO;ABC,18.35
+PMC11157196,2023,F1000Res,A comprehensive review of energy efficient routing protocols for query driven wireless sensor networks.,147821,0,0,0,0,0,0,0,1,1,1,1,0,0,LEACH;HEED;SEP;DEEC;PSO;GA;ACO;ABC,50.0
+PMC11157571,2024,PeerJ Comput Sci,Energy optimization for wireless sensor network using minimum redundancy maximum relevance feature selection and classif,39451,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH;PSO;WOA;GA,
+PMC11157574,2024,PeerJ Comput Sci,Application of BukaGini algorithm for enhanced feature interaction analysis in intrusion detection systems.,71523,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC11174472,2024,Sensors (Basel),Energy-Efficient and Highly Reliable Geographic Routing Based on Link Detection and Node Collaborative Scheduling in WSN,65526,1,1,1,0,0,0,0,0,0,0,1,0,1,,
+PMC11189237,2024,PLoS One,An intelligent algorithm for energy efficiency optimization in software-defined wireless sensor networks for 5G communic,64893,1,0,1,0,0,1,1,0,0,0,1,0,1,LEACH;SEP;DEEC;PSO;GWO;GA;ABC,42.06
+PMC11232628,2024,PeerJ Comput Sci,Wireless optimization for sensor networks using IoT-based clustering and routing algorithms.,44966,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;SEP;DEEC,
+PMC11244488,2024,Sensors (Basel),A Secure Data Aggregation Algorithm Based on a Trust Mechanism.,50448,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11244538,2024,Sensors (Basel),"Energy-Efficient, Cluster-Based Routing Protocol for Wireless Sensor Networks Using Fuzzy Logic and Quantum Annealing Al",58037,0,0,1,1,0,1,1,0,0,0,1,0,1,GWO;GA;ACO,29.66
+PMC11244581,2024,Sensors (Basel),Clustered Routing Using Chaotic Genetic Algorithm with Grey Wolf Optimization to Enhance Energy Efficiency in Sensor Net,50576,1,0,0,1,0,0,1,0,1,0,1,1,1,LEACH;GWO;GA,30.0
+PMC11258131,2024,Sci Rep,FSRW: fuzzy logic-based whale optimization algorithm for trust-aware routing in IoT-based healthcare.,61672,0,0,0,0,0,1,1,0,0,0,1,0,0,LEACH;GWO;WOA,47.0
+PMC11263597,2024,Sci Rep,Energy efficient cluster-based routing protocol for WSN using multi-strategy fusion snake optimizer and minimum spanning,83052,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH;HEED;PSO;GWO;GA;ACO;ABC,400.15
+PMC11271549,2024,Sci Rep,GSHFA-HCP: a novel intelligent high-performance clustering protocol for agricultural IoT in fragrant pear production mon,60627,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH;GA,
+PMC11282243,2024,Sci Rep,Energy-efficient quad tree-based clustering using edge-assisted UAV-relay to enhance network lifetime in WSN.,66087,1,0,0,1,0,0,0,1,0,0,1,0,1,,
+PMC11305239,2024,Heliyon,"Improving wireless sensor network lifespan with optimized clustering probabilities, improved residual energy LEACH and e",64867,1,0,0,1,0,1,1,1,0,0,0,0,1,LEACH;HEED;PSO;GWO;GA;ACO;ABC,90.0
+PMC11314960,2024,Sensors (Basel),Enabling Seamless Connectivity: Networking Innovations in Wireless Sensor Networks for Industrial Application.,84741,0,0,0,0,0,0,1,1,1,1,1,0,0,LEACH;PSO,350.0
+PMC11316772,2024,Sci Rep,Energy efficient clustering and routing protocol based on quantum particle swarm optimization and fuzzy logic for wirele,99877,0,0,1,0,1,1,0,0,0,0,1,0,0,LEACH;PSO;GWO;GA,
+PMC11333487,2024,Sci Rep,A novel health monitoring system for vital signs using IoT.,35266,0,0,1,0,0,0,0,0,0,0,1,0,0,,
+PMC11359893,2024,Sensors (Basel),Energy-Efficient Clustering in Wireless Sensor Networks Using Grey Wolf Optimization and Enhanced CSMA/CA.,95389,1,0,0,1,0,0,1,1,0,0,1,0,1,LEACH;HEED;PSO;GWO;ACO,
+PMC11360583,2024,Sensors (Basel),Bio-Inspired Energy-Efficient Cluster-Based Routing Protocol for the IoT in Disaster Scenarios.,52949,0,1,1,1,0,1,0,0,0,0,1,0,1,LEACH;DEEC;PSO;GA;ACO;ABC,60.0
+PMC11385185,2024,Sci Rep,Energy and throughput aware adequate routing for wireless sensor networks using integrated game theory method.,52902,1,1,1,0,0,0,0,1,0,0,1,0,1,LEACH;HEED,100.0
+PMC11397731,2024,Sensors (Basel),Green Intrusion Detection Systems: A Comprehensive Review and Directions.,68449,0,0,0,0,0,0,0,1,1,1,0,0,0,LEACH,
+PMC11397933,2024,Sensors (Basel),Variational Autoencoders for Network Lifetime Enhancement in Wireless Sensors.,49737,0,0,0,0,0,0,0,1,1,0,1,0,0,LEACH,333.51
+PMC11397938,2024,Sensors (Basel),Improved Cell Allocation Strategies Using K-Means Clustering in Congested 6TiSCH Environments.,47240,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,25.97
+PMC11398111,2024,Sensors (Basel),Node Role Selection and Rotation Scheme for Energy Efficiency in Multi-Level IoT-Based Heterogeneous Wireless Sensor Net,70533,1,1,0,1,0,0,0,0,0,0,1,0,1,LEACH;HEED;SEP;DEEC,57.44
+PMC11398157,2024,Sensors (Basel),A Dynamic Topology Optimization Method for Tactical Edge Networks Based on Virtual Backbone Networks.,56400,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11398257,2024,Sensors (Basel),Optimizing Rule Weights to Improve FRBS Clustering in Wireless Sensor Networks.,57129,1,1,1,1,1,1,1,1,0,0,1,0,1,LEACH;PSO;ACO,
+PMC11402970,2024,Sci Rep,Integrating meta-heuristic with named data networking for secure edge computing in IoT enabled healthcare monitoring sys,99089,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11419650,2024,PeerJ Comput Sci,Wormhole attack detection and mitigation model for Internet of Things and WSN using machine learning.,43568,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC11419653,2024,PeerJ Comput Sci,Pairing algorithm for varying data in cluster based heterogeneous wireless sensor networks.,46444,0,0,0,0,0,0,1,1,0,0,1,0,0,LEACH;HEED;SEP;DEEC,21.73
+PMC11435453,2024,Sensors (Basel),Charging Scheduling Method for Wireless Rechargeable Sensor Networks Based on Energy Consumption Rate Prediction for Nod,74880,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11435593,2024,Sensors (Basel),Hardware Development and Evaluation of Multihop Cluster-Based Agricultural IoT Based on Bluetooth Low-Energy and LoRa Co,62185,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC11436210,2024,Sensors (Basel),The Potential of Deep Learning in Underwater Wireless Sensor Networks and Noise Canceling for the Effective Monitoring o,72418,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;GA,
+PMC11438972,2024,Sci Rep,Optimal parameter identification of solid oxide fuel cell using modified fire Hawk algorithm.,142075,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO;GWO;WOA;GA,
+PMC11478389,2024,Sensors (Basel),Improving Performance of Cluster Heads Selection in DEC Protocol Using K-Means Algorithm for WSN.,40607,1,1,1,0,0,1,1,0,0,0,1,0,1,LEACH;SEP;DEEC;PSO,17.5
+PMC11478692,2024,Sensors (Basel),Petri-Net-Based Charging Scheduling Optimization in Rechargeable Sensor Networks.,66759,0,0,0,0,0,1,0,0,0,0,0,1,0,ACO,27.9
+PMC11478801,2024,Sensors (Basel),An Enhanced Particle Swarm Optimization-Based Node Deployment and Coverage in Sensor Networks.,44603,0,0,0,0,0,1,1,0,0,0,1,1,0,PSO;GA;ACO,
+PMC11479060,2024,Sensors (Basel),The Intersection of Machine Learning and Wireless Sensor Network Security for Cyber-Attack Detection: A Detailed Analysi,133043,0,0,0,0,0,0,0,1,0,1,1,0,0,LEACH;PSO,97.0
+PMC11479251,2024,Sensors (Basel),Indeterministic Data Collection in UAV-Assisted Wide and Sparse Wireless Sensor Network.,37250,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11480313,2024,Sci Rep,IoT-based framework for optimizing energy efficiency and reliability in acoustic sensor networks using mobile sinks.,45224,1,0,1,0,0,0,0,1,0,0,1,0,1,PSO,35.0
+PMC11487392,2024,Sensors (Basel),A Novel Medium Access Policy Based on Reinforcement Learning in Energy-Harvesting Underwater Sensor Networks.,60157,0,0,0,0,0,0,0,1,0,1,1,1,0,LEACH,37.0
+PMC11511145,2024,Sensors (Basel),Self-Organizing and Routing Approach for Condition Monitoring of Railway Tunnels Based on Linear Wireless Sensor Network,46771,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;SEP,
+PMC11511546,2024,Sensors (Basel),High-Efficiency Clustering Routing Protocol in AUV-Assisted Underwater Sensor Networks.,32525,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH,
+PMC11534263,2024,PLoS One,An energy-aware protocol in wireless sensor networks using the scattered search algorithm and fuzzy logic.,64895,0,0,0,0,0,0,1,0,1,0,0,0,0,LEACH;GWO;ACO,0.21
+PMC11541757,2024,Sci Rep,An efficient neural network LEACH protocol to extended lifetime of wireless sensor networks.,75090,1,1,0,0,0,1,0,0,0,0,1,0,1,LEACH;PSO;GA,30.0
+PMC11543684,2024,Sci Rep,An improved energy saving clustering method for IWSN based on Gaussian mutation adaptive artificial fish swarm algorithm,117267,1,1,1,0,0,0,0,0,0,0,1,0,1,DEEC,15.68
+PMC11548553,2024,Sensors (Basel),Evaluation of Green Strategies for Prolonging the Lifespan of Linear Wireless Sensor Networks.,122886,0,0,0,0,0,0,0,1,0,1,0,0,0,,
+PMC11568123,2024,Sci Rep,Energy efficient mobile sink driven data collection in wireless sensor network with nonuniform data.,61107,1,1,0,0,0,0,0,0,0,0,0,0,1,GA;ACO,
+PMC11568181,2024,Sci Rep,A secure and lightweight trust evaluation model for enhancing decision-making in resource-constrained industrial WSNs.,132822,0,1,0,1,0,1,1,0,0,0,1,0,1,LEACH;PSO,12.55
+PMC11581226,2024,PLoS One,Towards efficient IoT communication for smart agriculture: A deep learning framework.,55767,0,0,0,0,0,0,0,0,0,0,1,0,0,,16.3
+PMC11589744,2024,Sci Rep,BS-SCRM: a novel approach to secure wireless sensor networks via blockchain and swarm intelligence techniques.,57204,1,0,1,1,1,0,1,0,0,0,1,0,1,LEACH;PSO;WOA;ABC,73.04
+PMC11597955,2024,Sensors (Basel),Intelligent Wireless Charging Path Optimization for Critical Nodes in Internet of Things-Integrated Renewable Sensor Net,39133,0,0,0,0,0,0,0,0,0,0,0,0,0,ACO,
+PMC11598582,2024,Sensors (Basel),A Blockchain of Things System for Managing Handcrafted Products in a Cultural Industry.,68501,0,0,0,0,0,0,0,0,0,1,0,0,0,LEACH,366.36
+PMC11598742,2024,Sensors (Basel),A Cross-Layer Secure and Energy-Efficient Framework for the Internet of Things: A Comprehensive Survey.,107378,0,0,0,0,0,0,0,1,0,1,1,0,0,LEACH;PSO;GA,50.0
+PMC11612405,2024,Sci Rep,Enhanced lion swarm optimization and elliptic curve cryptography scheme for secure cluster head selection and malware de,84426,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;ABC,8.0
+PMC11615257,2024,Sci Rep,Energy-efficient data routing using neuro-fuzzy based data routing mechanism for IoT-enabled WSNs.,54738,0,0,0,0,0,1,0,0,0,0,1,0,0,PSO,26.0
+PMC11615930,2024,MethodsX,A comprehensive study of fractal clustering and firefly algorithm for WSN Deployment: Implementation and outcomes.,47388,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;DEEC;PSO;GA;ACO,3.0
+PMC11623136,2024,PeerJ Comput Sci,A comprehensive review of sensor node deployment strategies for maximized coverage and energy efficiency in wireless sen,69688,0,0,0,0,0,0,1,0,0,1,1,0,0,LEACH;PSO;GWO;GA;ACO,
+PMC11623227,2024,PeerJ Comput Sci,Enhancing energy balance in wireless sensor networks through optimized minimum spanning tree.,60309,0,0,0,1,0,0,0,1,0,1,1,0,1,LEACH,
+PMC11644916,2024,Sensors (Basel),Routing Protocol for Underwater Wireless Sensor Networks Based on a Trust Model and Void-Avoided Algorithm.,46668,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11645032,2024,Sensors (Basel),K-Means Based Bee Colony Optimization for Clustering in Heterogeneous Sensor Network.,60163,0,0,0,0,0,1,0,0,0,0,1,0,0,LEACH;DEEC;ACO;ABC,
+PMC11679376,2024,Sensors (Basel),Enhanced Localization in Wireless Sensor Networks Using a Bat-Optimized Malicious Anchor Node Prediction Algorithm.,83441,0,0,0,0,0,0,0,0,0,1,1,1,0,PSO;GA,
+PMC11679557,2024,Sensors (Basel),Connectivity Recovery Based on Boundary Nodes and Spatial Triangle Fermat Points for Three-Dimensional Wireless Sensor N,63349,0,0,0,0,0,0,0,0,0,1,0,0,0,ABC,
+PMC11680687,2024,Sci Rep,Hybrid Mexican axolotl and bitterling fish optimization algorithm-based spectrum sensing multi‑hop clustering routing pr,61655,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;WOA,
+PMC11680772,2024,Sci Rep,Hybrid optimization for efficient 6G IoT traffic management and multi-routing strategy.,38431,1,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;ACO,19.0
+PMC11681077,2024,Sci Rep,Enhancing energy distribution through dynamic multi-hop for heterogeneous WSNs dedicated to IoT-enabled smart grids.,49119,1,0,1,0,0,0,1,0,0,0,0,0,1,LEACH;HEED,
+PMC11682067,2024,Sci Rep,An African vulture optimization algorithm based energy efficient clustering scheme in wireless sensor networks.,52511,1,1,1,0,0,1,1,0,0,0,1,1,1,PSO;WOA;GA;ABC,
+PMC11682207,2024,Sci Rep,Energy efficient group priority MAC protocol using hybrid Q-learning honey Badger Algorithm (QL-HBA) for IoT Networks.,47736,0,0,0,0,0,0,0,0,0,0,1,1,0,,29.0
+PMC11697443,2025,Sci Rep,A secure and energy-efficient routing using coupled ensemble selection approach and optimal type-2 fuzzy logic in WSN.,143835,1,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;ACO,80.0
+PMC11707333,2025,Sci Rep,Multi-level clustering and Prediction based energy efficient routing protocol to eliminate Hotspot problem in Wireless S,59055,0,0,1,0,0,0,0,0,0,1,1,0,0,LEACH,
+PMC11723447,2025,Sensors (Basel),An Innovative Linear Wireless Sensor Network Reliability Evaluation Algorithm.,34251,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11768515,2025,Sensors (Basel),Performance and Energy Consumption Analysis for UWSNs with Priority Scheduling Based on Access Probability and Wakeup Th,49776,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11769312,2025,Sensors (Basel),An Optimization Coverage Strategy for Wireless Sensor Network Nodes Based on Path Loss and False Alarm Probability.,47927,0,0,0,0,0,0,0,0,0,0,1,0,0,ACO,
+PMC11769373,2025,Sensors (Basel),Intelligent Wireless Sensor Network Sensor Selection and Clustering for Tracking Unmanned Aerial Vehicles.,64507,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11784817,2025,PeerJ Comput Sci,SAFE-CAST: secure AI-federated enumeration for clustering-based automated surveillance and trust in machine-to-machine c,113569,0,0,0,0,0,0,0,1,0,1,1,0,0,,15.3
+PMC11800097,2025,MethodsX,Enhancing network lifetime in WSNs through coot algorithm-based energy management model.,55265,0,0,0,0,0,0,1,0,0,1,1,0,0,LEACH;PSO;GA,
+PMC11833091,2025,Sci Rep,Research on rechargeable agricultural wireless sensor network based on ZigBee immune routing repair algorithm.,103163,0,0,0,0,0,0,0,0,0,0,1,0,0,ABC,
+PMC11836451,2025,Sci Rep,A novel Hadamard matrix based hybrid compressive sensing technique for enhancing energy efficiency and network longevity,81064,0,1,1,1,0,0,0,0,0,0,1,0,1,LEACH;PSO;GWO;ACO;ABC,9.0
+PMC11837279,2025,Vet Med Sci,Interpretable Artificial Intelligence for Analysing Changes in Gases in the Uterine Environment of Cows According to Phy,39808,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11854616,2025,Entropy (Basel),An Unequal Clustering and Multi-Hop Routing Protocol Based on Fuzzy Logic and Q-Learning in WSNs.,40333,1,0,1,0,1,1,0,0,0,0,1,0,1,GWO,285.4
+PMC11858824,2025,Sensors (Basel),Enhancing Clustering Efficiency in Heterogeneous Wireless Sensor Network Protocols Using the K-Nearest Neighbours Algori,73483,1,1,1,0,0,1,1,0,0,1,1,0,1,LEACH;HEED;SEP;DEEC;PSO;ACO,
+PMC11859680,2025,Sensors (Basel),Active RFID Wake-Up Receiver Subsystem for Freight Wagon Localization Devices.,43468,0,0,0,0,0,0,0,1,0,1,0,0,0,,
+PMC11860416,2025,Sensors (Basel),A Critical Analysis of Cooperative Caching in Ad Hoc Wireless Communication Technologies: Current Challenges and Future ,71076,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC11871231,2025,Sci Rep,Energy efficient hierarchical clustering based dynamic data fusion algorithm for wireless sensor networks in smart agric,86075,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH;DEEC;GWO,63.0
+PMC11888851,2025,PeerJ Comput Sci,Design and implementation of an intelligent sports management system (ISMS) using wireless sensor networks.,75217,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11888905,2025,PeerJ Comput Sci,"Atom Search Optimization: a comprehensive review of its variants, applications, and future directions.",172666,0,0,0,0,0,0,0,0,0,0,1,1,0,SEP;PSO;GWO;WOA;GA,98.0
+PMC11889203,2025,Sci Rep,Distributed blockchain assisted secure data aggregation scheme for risk-aware zone-based MANET.,67246,0,0,0,0,0,0,0,0,0,0,1,0,0,GA;ACO,15.0
+PMC11902375,2025,Sensors (Basel),Minimizing Redundancy in Wireless Sensor Networks Using Sparse Vectors.,45400,1,0,0,0,0,0,0,0,0,0,1,0,0,,1.137
+PMC11902659,2025,Sensors (Basel),Intelligent Energy Efficiency Maximization for Wirelessly-Powered UAV-Assisted Secure Sensor Network.,33373,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11913272,2025,PLoS One,An efficient detection of Sinkhole attacks using machine learning: Impact on energy and security.,109355,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;ACO;ABC,
+PMC11913310,2025,PLoS One,Cooperative longevity of interaction model for addressing paused handoff problem in smart city intelligent transportatio,47787,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC11941670,2025,Entropy (Basel),Slot Allocation Protocol for UAV Swarm Ad Hoc Networks: A Distributed Coalition Formation Game Approach.,57314,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC11946738,2025,Sensors (Basel),Adaptive Jamming Mitigation for Clustered Energy-Efficient LoRa-BLE Hybrid Wireless Sensor Networks.,93955,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC11990953,2025,Sensors (Basel),Reinforcement Q-Learning-Based Adaptive Encryption Model for Cyberthreat Mitigation in Wireless Sensor Networks.,94683,0,0,0,0,0,0,0,0,0,1,1,0,0,,90.0
+PMC11991497,2025,Sensors (Basel),Acoustic Source Localization Based on the Two-Level Data Aggregation Technology in a Wireless Sensor Network.,44122,1,1,0,0,0,0,1,1,0,0,0,0,1,PSO,
+PMC11992116,2025,Sci Rep,Low power energy balanced clustering routing scheme based on improved SSA and Multi-Hop transmission in IoT.,71752,1,1,1,1,1,0,1,0,0,0,1,0,1,LEACH;PSO;GWO;GA;ACO;ABC,
+PMC12003901,2025,Sci Rep,Artificial intelligence-driven cybersecurity system for internet of things using self-attention deep learning and metahe,61467,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC12006422,2025,Sci Rep,Improved security for IoT-based remote healthcare systems using deep learning with jellyfish search optimization algorit,103418,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GWO;GA;ABC,
+PMC12015296,2025,Sci Rep,Chameleon swarm algorithm with Morlet wavelet mutation for superior optimization performance.,171740,0,0,1,0,0,0,1,0,0,0,1,1,0,PSO;GWO;WOA;ACO;ABC,19.7
+PMC12030853,2025,Sensors (Basel),Intelligent Clustering and Adaptive Energy Management in Wireless Sensor Networks with KDE-Based Deployment.,41876,1,1,1,0,0,1,1,0,0,0,0,0,1,LEACH;HEED;SEP;PSO,35.0
+PMC12031156,2025,Sensors (Basel),Trusted Energy-Aware Hierarchical Routing (TEAHR) for Wireless Sensor Networks.,101419,0,0,0,0,0,0,0,0,0,1,0,0,0,LEACH,
+PMC12032045,2025,Sci Rep,Trust-driven approach to enhance early forest fire detection using machine learning.,90689,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC12032210,2025,Sci Rep,Intelligent and automatic irrigation system based on internet of things using fuzzy control technology.,109552,0,0,0,1,0,0,1,1,0,0,1,1,1,PSO,
+PMC12033330,2025,Sci Rep,A hybrid gazelle optimization and reptile search algorithm for optimal clustering in wireless sensor networks.,63911,1,1,0,0,1,1,0,0,0,1,1,0,1,PSO;GWO;GA;ACO,
+PMC12048543,2025,Sci Rep,Vigorous technique for augmented lifetime in WSNs.,86766,0,1,1,0,0,0,0,1,0,0,1,1,0,LEACH;GA,
+PMC12074482,2025,Sensors (Basel),HERMEES: A Holistic Evaluation and Ranking Model for Energy-Efficient Systems Applied to Selecting Optimal Lightweight C,53674,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC12103595,2025,Sci Rep,Network lifetime improvement in wireless sensor networks using energy-efficient bat-moth flame optimization technique.,35512,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;ACO,48.85
+PMC12114736,2025,Sensors (Basel),Security in Wireless Sensor Networks Using OMNET++: Literature Review.,57285,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;ABC,26.0
+PMC12116749,2025,Sci Rep,Federated stochastic gradient averaging ring homomorphism based learning for secure data aggregation in WSN.,66845,0,0,0,1,0,0,0,0,1,1,1,0,1,,37.0
+PMC12119870,2025,Sci Rep,Enhancing intrusion detection in wireless sensor networks using a Tabu search based optimized random forest.,48427,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO,10.0
+PMC12124535,2025,PLoS One,Advance zonal rectangular low energy adaptive clustering hierarchy algorithm for optimal routing in wireless sensors net,42182,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;HEED;SEP,47.42
+PMC12141722,2025,Sci Rep,Energy efficient trust aware secure routing algorithm with attribute based encryption for wireless sensor networks.,56087,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;ACO,
+PMC12158190,2025,Sensors (Basel),Smart Underwater Sensor Network GPRS Architecture for Marine Environments.,41180,0,0,0,0,0,0,0,0,1,1,0,0,0,,
+PMC12158193,2025,Sensors (Basel),A Cluster Head Selection Algorithm for Extending Last Node Lifetime in Wireless Sensor Networks.,72544,0,0,0,0,0,0,0,0,0,1,0,0,0,LEACH;HEED;SEP,
+PMC12173425,2025,PLoS One,WSNs data acquisition by combining expected network coverage and clustered compressed sensing.,40366,0,0,0,0,0,1,1,0,0,0,1,0,0,LEACH;GWO,
+PMC12190250,2025,PeerJ Comput Sci,Federated learning with LSTM for intrusion detection in IoT-based wireless sensor networks: a multi-dataset analysis.,63999,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH,
+PMC12190256,2025,PeerJ Comput Sci,A study of trust mining algorithms for beacon nodes in large-scale network environments.,93272,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC12192297,2025,PLoS One,Evaluation of agricultural products e-commerce logistics service capabilities in Heilongjiang Province based on entropy ,157070,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC12196809,2025,Sensors (Basel),Sensor Node Deployment Optimization for Continuous Coverage in WSNs.,76190,0,0,0,0,0,0,0,0,0,1,0,0,0,SEP;PSO;WOA;ACO;ABC,14.71
+PMC12215069,2025,Sci Rep,A hybrid Spatial Ant Lion optimization and utilitarian data transmission approach for intelligent optimization for energ,76408,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;DEEC;PSO;GA;ACO;ABC,3.18
+PMC12222644,2025,Sci Rep,Application of weighted centroid algorithm based on weight correction in node localization of wireless sensor networks.,52799,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO,26.7
+PMC12223062,2025,Sci Rep,An enhanced performance analysis of load based resource sharing framework for MIMO systems in 5G communication systems.,55764,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC12246056,2025,Sci Rep,A dual layer secure and energy-efficient model for border surveillance using sea lion inspired strategy in wireless sens,79605,0,0,0,1,0,0,0,1,0,0,1,0,1,LEACH;PSO;GA;ACO,73.0
+PMC12246112,2025,Sci Rep,Enhancing the effectiveness of wireless sensor networks through consensus estimation and universal coverage.,53870,0,0,0,0,0,1,1,1,0,0,1,0,0,LEACH,20.0
+PMC12246419,2025,Sci Rep,Optimizing security and energy efficiency in IoT-Based health monitoring systems for wireless body area networks.,67470,0,0,0,0,0,0,0,1,0,1,1,0,0,PSO,
+PMC12252436,2025,Sensors (Basel),Enhanced Distributed Energy-Efficient Clustering (DEEC) Protocol for Wireless Sensor Networks: A Modular Implementation ,55663,1,1,1,0,0,1,1,0,0,0,1,0,1,LEACH;HEED;SEP;DEEC,133.0
+PMC12252499,2025,Sensors (Basel),Coverage Hole Recovery in Hybrid Sensor Networks Based on Key Perceptual Intersections for Emergency Communications.,47610,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO,12.71
+PMC12274363,2025,Sci Rep,Wireless sensor network positioning technology based on improved sampling box and fuzzy reasoning.,75271,0,0,0,0,0,0,0,0,0,1,0,0,0,PSO,
+PMC12287403,2025,Sci Rep,Energy efficient multi hop clustering using Artificial Bee Colony metaheuristic in WSN.,95353,0,0,0,0,1,1,0,0,0,1,1,0,0,LEACH;PSO;GA;ABC,216.0
+PMC12297550,2025,Sci Rep,Redefining IoT networks for improving energy and memory efficiency through compressive sensing paradigm.,50462,1,1,1,1,0,0,1,0,0,1,1,0,1,LEACH;PSO;GWO;GA;ACO;ABC,78.0
+PMC12298606,2025,Sensors (Basel),Binary Secretary Bird Optimization Clustering by Novel Fitness Function Based on Voronoi Diagram in Wireless Sensor Netw,63159,1,1,1,0,0,1,1,1,0,0,1,1,1,GWO;WOA;ACO;ABC,
+PMC12299949,2025,Sensors (Basel),EDMR: An Enhanced Dynamic Multi-Hop Routing Protocol with a Novel Sleeping Mechanism for Wireless Sensor Networks.,63202,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH,
+PMC12319103,2025,Sci Rep,Deep reinforcement learning-based mechanism to improve the throughput of EH-WSNs.,53588,0,0,0,0,0,0,0,0,0,0,1,1,0,,11.79
+PMC12334004,2025,PLoS One,Augmented secretary bird optimization algorithm for wireless sensor network deployment and engineering problem.,90388,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GWO;WOA;GA;ACO,
+PMC12334637,2025,Sci Rep,Efficient node deployment for enhancing coverage and connectivity in Wireless Sensor Networks.,86497,0,0,0,1,0,1,1,0,0,1,1,0,1,LEACH;HEED;PSO;GA;ACO,
+PMC12349727,2025,PLoS One,A triple-layer authentication framework with elliptic curve cryptography for securing IoT-assisted wireless sensor netwo,78734,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH,98.9
+PMC12365303,2025,Sci Rep,A network recovery strategy based on boundary nodes and tetrahedral approximation fermat points in three-dimensional wir,50499,0,0,0,0,0,0,0,0,0,0,0,0,0,ABC,
+PMC12367163,2025,PLoS One,An efficient elliptic curve-based deterministic measurement matrix for micro-seismic data acquisition.,30908,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC12370893,2025,Sci Rep,Improving the functionality of wireless sensor networks through the use of reinforcement learning and metaheuristic base,70849,1,1,1,0,0,1,1,0,0,0,1,0,1,LEACH;PSO,77.5
+PMC12373845,2025,Sci Rep,Integrated intrusion detection design with discretion of leading agent using machine learning for efficient MANET system,111082,0,0,1,0,0,0,0,0,0,0,1,0,0,PSO;WOA,20.0
+PMC12431118,2025,Sensors (Basel),EEL-GA: An Evolutionary Clustering Framework for Energy-Efficient 3D Wireless Sensor Networks in Smart Forestry.,61618,1,1,1,1,0,1,0,1,0,1,1,0,1,LEACH;DEEC;PSO;GWO;GA;ABC,
+PMC12473234,2025,Sensors (Basel),Non-Uniform Deployment of LWSN for Automated Railway Track Fastener Maintenance Robot and GA-LEACH Optimization.,70282,1,1,1,1,0,0,0,0,0,1,1,0,1,LEACH;WOA;GA,40.0
+PMC12473431,2025,Sensors (Basel),QSEER-Quantum-Enhanced Secure and Energy-Efficient Routing Protocol for Wireless Sensor Networks (WSNs).,58693,1,0,1,0,0,0,0,0,0,1,0,0,1,LEACH;PSO;WOA;GA;ACO,47.6
+PMC12473466,2025,Sensors (Basel),A Drift-Aware Clustering and Recovery Strategy for Surface-Deployed Wireless Sensor Networks in Ocean Environments.,56248,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,4.0
+PMC12473488,2025,Sensors (Basel),Implementation and Performance Evaluation of Quantum-Inspired Clustering Scheme for Energy-Efficient WSNs.,59924,1,0,0,1,0,0,1,0,0,1,1,0,1,LEACH;HEED;PSO;GA,50.0
+PMC12475022,2025,Sci Rep,Intelligent unequal clustering in wireless sensor networks using a game theoretic and evolutionary strategy.,59228,1,1,1,1,0,1,0,0,0,1,1,0,1,LEACH;SEP;PSO;GA;ACO,
+PMC12475414,2025,Sci Rep,"HDLCA: hunger driven lion clustering algorithm, a novel energy efficient and scalable clustering approach for underwater",73357,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;PSO,
+PMC12480829,2025,Sci Rep,MultiNet-IDS: an ensemble of DRL and LSTM for improved intrusion detection in wireless sensor networks.,86489,0,0,0,0,0,0,0,0,0,1,1,0,0,,15.0
+PMC12484965,2025,Sci Rep,Study on charging strategy of wireless rechargeable sensor networks based on dynamic inhomogeneous clustering.,75624,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,
+PMC12489041,2025,Sci Rep,An energy efficient hierarchical routing approach for UWSNs using biology inspired intelligent optimization.,83985,1,1,1,1,0,0,0,1,0,1,1,0,1,LEACH;HEED;GWO,36.3
+PMC12494732,2025,Sci Rep,Energy-efficient clustering and routing for IoT-enabled healthcare using adaptive fuzzy logic and hybrid optimization.,84257,1,0,0,0,0,1,0,0,0,1,1,0,0,LEACH;DEEC;PSO;GA,
+PMC12508445,2025,Sci Rep,Smart pareto-optimized genetic algorithm for energy-efficient clustering and routing in wireless sensor networks.,65673,1,1,0,0,0,0,0,0,0,0,1,0,1,PSO;GA;ACO,20.0
+PMC12514238,2025,Sci Rep,EECH HEED an adaptive hybrid clustering protocol for energy efficient soil monitoring in heterogeneous wireless sensor n,106706,1,1,1,1,0,1,1,0,0,1,1,0,1,LEACH;HEED;PSO,50.0
+PMC12514263,2025,Sci Rep,Energy efficient clustering in industrial Iot using a quantum informed artificial hummingbird optimization algorithm.,83838,1,1,1,1,1,1,0,0,0,0,1,0,1,LEACH;PSO;WOA;GA;ACO;ABC,35.62
+PMC12519131,2025,MethodsX,The AI-DRM protocol to enhance the lifetime of wireless sensor network.,56901,0,0,0,0,0,0,1,1,1,1,1,0,0,LEACH;HEED;PSO;ABC,5.0
+PMC12521643,2025,Sci Rep,Machine learning based dynamic trust estimation framework for Securing wireless sensor networks.,92825,0,0,0,0,0,0,1,0,0,1,1,0,0,,15.0
+PMC12528717,2025,Sci Rep,FLPSO-AMPS: an optimized WSN model for air quality monitoring in tier-2 smart cities.,97099,0,0,0,0,0,0,0,1,1,1,1,1,0,SEP;PSO;GA;ACO,30.0
+PMC12534463,2025,Sci Rep,Cyber resilient framework with energy efficient swarm routing and ensemble threat detection in fog assisted wireless sen,65670,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GA;ACO,
+PMC12546718,2025,Sci Rep,A novel multi objective energy efficient clustering optimization scheme based on heuristic intelligence for wireless sen,47996,1,0,0,0,0,0,0,0,0,0,1,0,0,WOA,
+PMC12546741,2025,Sci Rep,Machine learning driven aggregation aware bitmap MAC protocol for energy efficient data transmission in WSNs.,64806,0,0,0,0,0,0,0,1,1,0,0,0,0,PSO;GWO,
+PMC12550056,2025,Sci Rep,IEEE 802.11af-enabled scalable cognitive radio sensor networks with adaptive priority management for early forest fire f,55451,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC12559384,2025,Sci Rep,Optimized energy efficient clustering in WSNs through modified zebra optimization.,47261,1,1,1,0,0,0,0,1,0,0,1,1,1,LEACH;HEED;SEP,129.03
+PMC12569079,2025,Sci Rep,Quantum adaptive clonal genetic algorithm for low-energy clustering in agricultural WSNs.,61346,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH;HEED;DEEC;PSO;WOA,
+PMC12589583,2025,Sci Rep,Enhanced clustering approach for efficient relay vehicle selection in vehicular ad hoc networks.,129122,0,0,0,0,0,0,0,1,0,0,1,1,0,,25.0
+PMC12603095,2025,Sci Rep,A lightweight trusted framework for secure data exchange and threat mitigation in IoT-enabled healthcare environments.,101957,1,0,0,1,0,0,1,0,0,1,1,0,1,,20.0
+PMC12623812,2025,Sci Rep,Adaptive and scalable energy aware clustering for mobile wireless sensor networks using a density driven approach.,67251,0,1,1,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;ABC,88.0
+PMC12624021,2025,Sci Rep,"A comprehensive survey on securing the social internet of things: protocols, threat mitigation, technological integratio",298913,0,0,1,0,0,0,0,0,1,1,1,1,0,PSO;WOA;GA;ABC,46.0
+PMC12627611,2025,Sci Rep,An energy aware routing protocol using mayfly optimization (ERPMO) and TDMA scheduling in wireless sensor networks.,46349,0,0,0,0,0,0,0,1,0,0,0,0,0,LEACH;PSO;GA;ACO,56.7
+PMC12627707,2025,Sci Rep,"Improved Weighted Quantum Whale Optimization with vision transformer for intrusion detection, atmospheric monitoring and",66646,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC12635347,2025,Sci Rep,Next generation AI powered framework for autonomous energy optimization and real time anomaly detection in IoT driven wi,108721,0,0,0,0,0,1,0,0,0,1,1,0,0,LEACH;PSO;GWO;GA,99.0
+PMC12660690,2025,Sci Rep,Enhancing the LEACH protocol and lightweight chaotic cryptography for secure data transmission in wireless sensor networ,75128,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;PSO;GWO;WOA;GA;ACO,30.0
+PMC12673114,2025,Sci Rep,Enhancing IIoT security through blockchain-enabled workload analysis in fog computing environments.,77843,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO,
+PMC12673115,2025,Sci Rep,ChainShieldML an intelligent decentralized security framework for next generation wireless sensor networks.,56540,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;GA,
+PMC12693877,2025,Sensors (Basel),Deployment Challenges in Electromagnetic Wireless Nanosensor Networks.,86794,0,0,0,0,0,0,0,0,0,1,0,0,0,PSO,
+PMC12694100,2025,Sensors (Basel),Improving Data Aggregation in IoT Sensor Networks Using Self-Organizing Maps and Firefly Optimization Algorithm.,58726,0,1,1,0,0,0,0,0,1,0,1,0,0,LEACH;PSO;ACO,40.0
+PMC12700862,2025,Sci Rep,Smart weather aware drone sink SWADS for reliable and energy efficient agricultural wireless sensor networks.,43370,0,0,0,1,0,0,1,0,0,0,1,0,1,LEACH;HEED;PSO;GWO;WOA;GA;ACO,35.0
+PMC12737059,2025,Sensors (Basel),AI-Driven Energy-Efficient Routing in IoT-Based Wireless Sensor Networks: A Comprehensive Review.,114241,0,0,0,0,0,0,1,0,0,1,1,0,0,LEACH;HEED;PSO;GWO;GA;ACO;ABC,
+PMC12749177,2025,Sci Rep,Osprey optimization algorithm integrated with graph neural networks for intrusion detection in wireless sensor networks.,64701,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;GA,
+PMC12749258,2025,Sci Rep,Compressive sensing techniques based on secure data aggregation in WSNs.,79572,0,0,0,0,0,1,0,0,0,0,0,0,0,GA,
+PMC12749963,2025,Sci Rep,Energy-efficient priority encoding strategies using machine learning based hybrid MAC protocol for wireless sensor netwo,81181,0,0,0,0,0,0,0,0,1,0,1,0,0,,
+PMC12764596,2025,Sci Rep,An intelligent algorithm based optimized clustering method for energy harvesting WSN.,76322,1,0,1,1,1,1,0,1,0,1,1,1,1,PSO;GA;ABC,
+PMC12764949,2025,Sci Rep,A multi-objective grey wolf optimization algorithm for energy-efficient cluster-based routing in IoT-enabled WSNs.,54120,0,1,1,0,0,1,0,0,0,0,1,1,0,LEACH;DEEC;PSO;GWO;ABC,18.0
+PMC12783620,2025,Sci Rep,Sleep-wakeup based secure multipath routing in wsn using fennec fox optimized deep learning framework.,88963,0,0,0,0,0,0,0,1,0,1,1,0,0,LEACH;SEP;DEEC;PSO;GWO;GA;ACO,
+PMC12787841,2025,Sensors (Basel),Adaptive Localization-Free Secure Routing Protocol for Underwater Sensor Networks.,52119,0,0,0,0,0,0,0,1,0,1,0,1,0,,
+PMC12788216,2025,Sensors (Basel),Routing Protocols for Wireless Body Area Networks: Recent Advances and Open Challenges.,62019,0,0,0,0,0,0,0,1,0,1,0,0,0,GWO;ACO;ABC,
+PMC12788220,2025,Sensors (Basel),A Federated Hierarchical DQN-Based Distributed Intelligent Anti-Jamming Method for UAVs.,64428,0,0,0,0,0,0,0,0,0,0,1,0,0,,1.0
+PMC12788276,2025,Sensors (Basel),Research on LEACH Protocol Based on Dynamic Clustering and Routing Optimization.,58111,0,0,1,1,0,1,0,0,0,0,1,0,1,LEACH;PSO,
+PMC12789678,2025,Sci Rep,Integrated energy optimization and emulation attack mitigation technique for CRSN under Rayleigh fading channel.,49172,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC12804670,2026,Sci Rep,Energy-driven K-means-based LEACH routing protocol for enhanced lifetime in wireless sensor networks.,144183,1,1,1,1,0,0,1,1,0,0,0,0,1,LEACH;HEED;DEEC;PSO;GA,16.98
+PMC12804679,2025,Sci Rep,Centralized two tier clustering method for wireless sensor networks based on a coupled cascaded fuzzy system.,60670,1,1,1,1,0,1,0,0,0,0,1,0,1,LEACH;PSO;ACO,
+PMC12804940,2025,Sci Rep,Energy efficient UAV-assisted two layer hierarchical bit-mapping access based MAC protocol.,53981,0,0,0,0,0,0,0,1,1,0,1,0,0,LEACH,31.0
+PMC12820355,2026,Sci Rep,Dynamic energy-based multilayer routing framework for scalable and reliable IoT networks.,99050,0,0,1,1,0,0,0,0,0,0,1,0,1,HEED;PSO,0.5
+PMC12830677,2025,Sci Rep,"An adaptive, energy-efficient and secure routing protocol for zone-related mobile Ad-hoc networks using reinforcement le",129037,0,0,0,0,0,0,0,0,0,1,1,0,0,ACO,
+PMC12839319,2026,Biomimetics (Basel),A New Ant Colony Optimization-Based Dynamic Path Planning and Energy Optimization Model in Wireless Sensor Networks for ,54429,1,1,1,0,0,0,1,0,0,1,1,1,1,LEACH;WOA;ACO,
+PMC12839605,2026,Entropy (Basel),Wireless Communications: Signal Processing Perspectives.,39208,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC12845569,2026,Sensors (Basel),AoI-Aware Data Collection in Heterogeneous UAV-Assisted WSNs: Strong-Agent Coordinated Coverage and Vicsek-Driven Weak-S,74013,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO,
+PMC12845853,2026,Sensors (Basel),Multi-Factor Cost Function-Based Interference-Aware Clustering with Voronoi Cell Partitioning for Dense WSNs.,40300,1,1,1,1,1,0,1,0,0,0,1,0,1,LEACH;HEED;PSO;WOA,62.5
+PMC12845974,2026,Sensors (Basel),A Systematic Review and Energy-Centric Taxonomy of Jamming Attacks and Countermeasures in Wireless Sensor Networks.,143967,0,0,0,0,0,0,0,1,1,1,1,0,0,LEACH,400.0
+PMC12846134,2026,Sensors (Basel),Hierarchical Data Fusion Algorithm for Multiple Wind Speed Sensors in Anemometer Tower.,65312,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO;WOA,
+PMC12846151,2026,Sensors (Basel),HAO-AVP: An Entropy-Gini Reinforcement Learning Assisted Hierarchical Void Repair Protocol for Underwater Wireless Senso,117338,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,
+PMC12846216,2026,Sensors (Basel),EMO-PEGASIS: A Dual-Phase Machine Learning Protocol for Energy Delay Optimisation in WSNs.,70215,1,1,1,1,0,0,1,0,1,1,1,0,1,LEACH;DEEC;PSO,313.0
+PMC12855959,2025,Sci Rep,A compressive sensing-driven data collection scheme for UAV-assisted wireless sensor networks.,168355,0,0,0,0,0,0,0,1,0,1,0,1,0,,28.0
+PMC12864882,2026,Sci Rep,A novel optimized fuzzy neural network for enhanced topology control in k-connected mobile adhoc networks.,47869,0,0,0,0,0,0,0,0,0,0,1,1,0,,
+PMC12881407,2026,Sci Rep,Smart irrigation-based internet of things and cloud computing technologies for sustainable farming.,82091,0,0,0,0,0,0,0,0,1,1,0,0,0,,
+PMC12899713,2026,Sensors (Basel),EQARO-ECS: Efficient Quantum ARO-Based Edge Computing and SDN Routing Protocol for IoT Communication to Avoid Desertific,58361,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;HEED;SEP;PSO;WOA;GA,
+PMC12900006,2026,Sensors (Basel),"Power Control in Wireless Body Area Networks: A Review of Mechanisms, Challenges, and Future Directions.",81974,0,0,0,0,0,0,0,1,1,0,0,0,0,PSO,47.0
+PMC12905441,2026,Sci Rep,Energy efficient clustering protocol in wireless sensor networks using an adaptive hybrid optimization algorithm.,54363,1,0,0,0,0,1,0,0,0,1,1,0,0,LEACH;SEP;WOA;GA,
+PMC12909812,2026,Sci Rep,SD-MAC protocol for wireless sensor network energy consumption.,50583,0,0,0,0,0,0,0,1,0,0,1,0,0,,58.0
+PMC12920497,2026,Front Artif Intell,A hybrid metaheuristic algorithm with machine learning for detecting denial-of-service attacks in wireless sensor networ,97357,0,0,0,0,0,0,0,0,0,1,1,1,0,LEACH;HEED;GWO;WOA;GA,
+PMC12938541,2026,Biomimetics (Basel),An Improved Mantis Search Algorithm for Solving Optimization Problems.,91996,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GWO;WOA;GA;ABC,
+PMC12944009,2026,Sensors (Basel),HEOCP: Hybrid Energy-Optimized Clustering Protocol for WSNs Using Analytical Modeling and Deep Learning Integration.,76054,1,1,1,0,0,0,0,0,0,1,1,0,1,LEACH;PSO;GWO;GA,4.1
+PMC12953576,2026,Sci Rep,Iterative localization method for multiple jammers in UAV collaborative jamming attacks.,66581,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GWO,
+PMC12957328,2026,Sci Rep,DQN-empowered energy optimization for wireless powered communication networks.,53010,1,1,0,0,0,0,1,1,1,1,1,0,1,,66.7
+PMC12987208,2026,Sensors (Basel),"A Review on Forest Fire Detection Techniques: Past, Present, and Sustainable Future.",68465,0,0,0,0,0,0,0,1,0,1,0,0,0,,
+PMC12987244,2026,Sensors (Basel),Soft-Centralized Spectrum Resource Management in UAV-Assisted MANETs from Aggregate Multi-Hop Information Efficiency.,62621,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GA,
+PMC12987304,2026,Sensors (Basel),Enhanced Secretary Bird Optimization Algorithm for Energy-Efficient Cluster Head Selection in Wireless Sensor Networks.,55856,1,1,1,1,0,1,1,0,0,1,1,1,1,PSO;ABC,13.0
+PMC13004878,2026,Sci Rep,Energy-efficient wireless sensor network for urban groundwater level monitoring using machine learning and sink mobility,120961,1,1,1,1,0,1,0,1,0,1,1,0,1,LEACH;PSO;GWO,95.0
+PMC13013947,2026,Sci Rep,Intelligent fire detection in agriculture using machine learning and embedded systems for risk prevention and improved s,77369,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC13018216,2026,Sci Rep,TTEA: designing a quantum-ready and energy-conscious encryption model for secure IoT environments.,64213,0,0,0,0,0,0,0,0,1,1,1,0,0,LEACH;HEED,52.0
+PMC13022210,2026,Sci Rep,Cluster based WSN routing with MOGA and LSA optimization.,55819,1,0,0,0,0,1,1,0,0,0,1,0,0,LEACH;PSO;GA;ACO;ABC,
+PMC13030592,2026,Sensors (Basel),A Lightweight IDS Based on Blockchain and Machine Learning for Detecting Physical Attacks in Wireless Sensor Networks.,63734,0,0,0,0,0,0,1,0,0,0,1,1,0,LEACH,67.0
+PMC13065733,2026,Sci Rep,Evolutionary reinforcement learning framework for energy-efficient fault resilience and topological stability in WSNs.,108545,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;SEP;DEEC;PSO;GA;ACO;ABC,
+PMC13075255,2026,Sensors (Basel),A Joint Framework of IMM-LSTM-C Tracking and IBPDO-Based Node Selection for Energy-Efficient Cooperative Tracking in Und,76832,0,0,0,0,0,0,0,0,0,1,1,1,0,PSO;WOA;GA,8.2
+PMC13075257,2026,Sensors (Basel),LEACH Protocol Evolution in WSN: A Review of Energy Consumption Optimization and Security Reinforcement.,79269,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH;SEP;PSO;WOA;GA;ABC,
+PMC13075308,2026,Sensors (Basel),Proposal for Computationally Efficient Fog Computing System for Coffee Berry Borer Detection via Optimized YOLOv26.,63593,0,0,0,0,0,0,0,0,1,0,0,0,0,GA,0.21
+PMC13075327,2026,Sensors (Basel),"Architectures, Protocols and Algorithms of Sensor Networks-Second Edition.",20244,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC13096207,2026,Sci Rep,Hybrid intelligence-powered secure clustering with trust-optimized routing for next-generation MANET communication.,109215,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;HEED;PSO;WOA;GA,38.7
+PMC13099986,2026,Sci Rep,Energy optimized scheduling in wireless sensor networks (WSNs) using hybrid bio-inspired reinforcement learning approach,73504,0,0,1,0,0,0,1,0,0,0,0,0,0,PSO;GA;ACO;ABC,
+PMC13120062,2026,Sensors (Basel),Energy-Efficient Optimization in Wireless Sensor Networks Using a Hybrid Bat-Artificial Bee Colony Algorithm.,89181,0,0,0,1,0,1,0,1,0,1,1,0,1,PSO;GA;ACO;ABC,25.0
+PMC13120500,2026,Sensors (Basel),Multi-Probing Opportunistic Routing in Buffer-Constrained Wireless Sensor Networks.,65700,0,0,0,0,0,0,0,1,0,0,0,1,0,,
+PMC13128906,2026,Sci Rep,Blockchain-driven trust management and AI computing for sensor networks optimization.,59083,0,0,0,0,0,0,0,0,0,1,1,0,0,GWO,
+PMC13129086,2026,Sci Rep,An efficient prediction based data collection method for wireless sensor networks using hybrid fuzzy clustering and opti,102997,1,0,1,0,0,0,0,0,0,0,0,0,1,PSO;ACO,
+PMC13165802,2026,Sensors (Basel),An Optimized Clustering Routing Algorithm for Wireless Sensor Networks Based on Spotted Hyena and Improved Energy-Effici,56193,0,0,1,1,0,0,0,0,0,0,1,0,1,LEACH;PSO;GWO,
+PMC13165864,2026,Sensors (Basel),EACCO: Optimizing the Computation and Communication in Resource-Constrained IoT Devices for Energy-Efficient Swarm Robot,76102,0,0,0,0,0,0,0,1,1,1,1,0,0,HEED,17.0
+PMC13168356,2026,Sci Rep,Multi-point collaborative mobile replica node detection protocol based on key negotiation.,66878,0,0,0,0,0,0,1,0,0,0,1,0,0,,
+PMC13168505,2026,Sci Rep,Intelligent power underwater wireless sensor networks for marine environmental monitoring using a hybrid marine predator,113612,0,0,1,0,0,0,0,1,0,1,1,1,0,LEACH;PSO;GWO,
+PMC13204721,2026,Biomimetics (Basel),Bio-Inspired Energy-Efficient Routing for Wireless Sensor Networks Based on Honeybee Foraging Behavior and MDP-Driven Ad,65852,1,1,1,1,0,1,1,1,0,0,1,1,1,PSO;GA;ACO,
+PMC13230730,2026,Sci Rep,SQUID-COMM: a Colossal Squid-inspired distributed communication framework for real-time multi-node aquaculture monitorin,158967,0,0,0,0,0,0,0,1,1,1,1,0,0,,340.0
+PMC13234195,2026,Sci Rep,Hybrid ECCMGO-MPCOA framework with ASTRA-based trust and intrusion detection for secure and energy-efficient MANET commu,102105,0,0,0,0,0,0,1,1,0,0,1,1,0,PSO;GWO;ACO,3.5
+PMC13243573,2026,Sci Rep,Optimized cluster based routing protocol for IoT enabled healthcare data networks.,59436,0,0,0,1,0,0,0,0,0,0,1,0,1,GWO,24.0
+PMC13259293,2026,Sensors (Basel),Optimization of the ZigBee Routing Algorithm for the Beidou Sugar Beet Environmental Monitoring System.,68248,0,0,0,1,0,1,1,0,0,0,1,0,1,LEACH,
+PMC13259361,2026,Sensors (Basel),"A Comprehensive and Unified Survey on Blockchain-Enabled SDN Cybersecurity: Industry Use Cases, Threat Landscapes, Defen",189851,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC13259384,2026,Sensors (Basel),Safety-Constrained Reinforcement Learning for Energy-Aware Transmission Scheduling in Seismic Wireless Sensor Networks.,81391,0,0,0,0,0,0,0,1,1,1,1,1,0,LEACH,89.5
+PMC13272966,2026,Sci Rep,Uncertainty-resilient control of large-scale industrial IoT networks via learning-guided fuzzy intelligence.,90714,0,0,1,0,0,0,0,0,0,1,1,1,0,,15.0
+PMC13279827,2026,Sci Rep,Analysis and comparison of two selected machine learning algorithms for enhancing wireless sensor network protocols.,59725,1,1,1,1,0,1,1,0,0,0,1,0,1,LEACH;SEP;PSO;GA;ACO,11.17
+PMC13287761,2026,Sci Rep,Enhancing network longevity in WSNs via a two-layer hierarchical routing protocol with dual-hexagonal topology.,56095,1,1,1,1,0,0,1,0,0,0,1,0,1,LEACH;GWO,24.7
+PMC13287780,2026,Sci Rep,An intelligent IoT-machine learning framework for wildfire detection and prediction using a hybrid RF-XGB model.,62044,0,0,0,0,0,0,0,1,0,1,0,0,0,,4.6
+PMC13297565,2026,Biomimetics (Basel),"A Systematic Taxonomy of the Sunflower Optimization Algorithm: Variants, Hybridization Strategies, Applications, and Res",131559,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH;PSO;GWO;WOA;GA,
+PMC13306518,2026,Sensors (Basel),Adjusted Rand Index-Guided DPSO for Clustering and Data Routing in Wireless Sensor Networks.,83552,1,1,0,1,0,0,0,0,0,0,0,0,1,LEACH;PSO;GWO;GA;ACO,
+PMC13307351,2026,Sensors (Basel),An Event-Driven Self-Healing Routing and Topology Maintenance Mechanism for Surface-Deployed Wireless Sensor Networks in,133867,0,0,0,1,0,0,1,0,0,0,0,1,1,LEACH;HEED;DEEC,13.9
+PMC13315731,2026,Sci Rep,HTO-UWSN: a hierarchical task offloading protocol for underwater wireless sensor networks in aquatic sports monitoring s,137771,0,0,0,0,0,0,0,0,1,1,1,0,0,,
+PMC13338071,2026,Sci Rep,Quantum-resistant hybrid encryption framework for secure and intelligent Vehicle-to-Vehicle communication using deep rep,57827,0,0,0,0,0,0,0,1,0,1,1,0,0,GWO;WOA,
+PMC13338195,2026,Sci Rep,Optimizing energy efficiency in wireless sensor networks through advanced cluster-based routing protocols.,58164,1,0,1,1,0,0,1,0,0,0,1,0,1,LEACH;SEP;DEEC,
+PMC13338211,2026,Sci Rep,Lightweight deep learning models for real-time IoT data analysis in resource-constrained environments.,95367,0,0,0,0,0,0,0,1,1,1,1,0,0,,45.0
+PMC13350729,2026,Sci Rep,Deep reinforcement learning based neurosense scheme for energy-efficient and secure wireless sensor networks.,67728,0,0,0,0,0,0,0,0,1,0,1,0,0,LEACH;HEED;SEP;DEEC,
+PMC13357590,2026,Sci Rep,Elephant herd clustering with adaptive optimization for secure routing protocol in IoT network.,168940,0,0,0,0,0,0,0,1,0,1,1,0,0,PSO;GA;ACO,68.0
+PMC13363902,2026,Sensors (Basel),Topology Control in Spherical 3D Sensor Networks.,75506,0,0,0,0,0,0,0,0,0,1,0,1,0,LEACH;HEED,
+PMC13364363,2026,Sensors (Basel),A Multi-Hop Cluster Routing Algorithm for Wireless Sensor Networks Targeting Narrow Space Monitoring.,66097,0,0,1,1,0,0,0,1,0,1,1,1,1,LEACH;PSO;GA;ACO,24.0
+PMC13365567,2026,Sci Rep,Adaptive tree-reinforced clustering using hierarchical social relations and Q-learning in dynamic data environments.,96150,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,13.0
+PMC13377191,2026,Sci Rep,An improved human memory algorithm with multi-directional and chaotic approaches for global optimization and energy-effi,185801,1,0,1,1,0,1,1,0,0,1,1,1,1,LEACH;PSO;GWO;WOA;ACO;ABC,209.0
+PMC13379385,2026,Sci Rep,Hybrid African vulture and Aquila optimizer based efficient clustering approach for enhancing network longevity in wirel,159244,0,0,0,0,0,0,0,1,0,1,1,1,0,PSO;WOA;ACO,
+PMC13392275,2026,Sci Rep,Fuzzy multi-criteria selection of sensor architectures for coastal pollution monitoring.,63019,0,0,0,0,0,0,0,0,0,1,1,1,0,,
+PMC13395385,2026,PLoS One,An energy- aware algorithm for optimizing dynamic zone monitoring and multiple cluster head selection with routing in bo,83172,0,0,0,0,0,0,0,1,0,0,1,1,0,LEACH;SEP;PSO;GWO;WOA;GA;ACO;ABC,18.92
+PMC13406437,2026,Biomimetics (Basel),A Learning-Guided Meta-Heuristic Approach for Task Offloading in Four-Tier IoT Networks: A Hybrid UCB-ACO Algorithm.,166238,0,0,0,0,0,0,0,0,1,1,1,1,0,PSO;GWO;GA;ACO,34.0
+PMC13434459,2026,Sci Rep,Spatio-temporal multi-fault and severity aware diagnosis in WSN via GNN transformers.,95832,0,0,0,0,0,0,0,0,1,1,1,0,0,,
+PMC13457587,2026,Sci Rep,Deep hybrid architecture for multi-class detection of network layer attacks in WSN.,59445,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;ACO,
+PMC13469875,2026,Sensors (Basel),Adaptive MARL-Assisted Hybrid Bat-Artificial Bee Colony Optimization for Energy-Efficient Clustering and Routing in IoT-,112236,0,0,1,1,1,0,0,1,0,1,1,0,1,LEACH;HEED;PSO;GWO;ACO;ABC,
+PMC13473499,2026,Sci Rep,ENCORE: an energy-efficient cluster-based multi-hop routing framework for WNSNs in IoNT.,70149,0,0,0,0,0,0,0,1,0,0,1,0,0,PSO,15.0
+PMC13475880,2026,PLoS One,Reservoir computing for network intrusion classification.,85889,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GWO;WOA;ACO,10.0
+PMC13478534,2026,Sci Rep,Multi-objective node placement optimization in multiplex 6G wireless networks using quantum-inspired evolutionary algori,86232,0,0,0,0,0,0,0,0,0,1,1,1,0,PSO;GA,
+PMC13482308,2026,Sci Rep,Energy-efficient secure routing in wireless sensor networks using fuzzy inference clustering and attention-based multi-s,92661,0,0,0,0,0,0,1,1,0,1,1,1,0,LEACH;HEED;SEP;DEEC;PSO;GWO;WOA;GA;ACO;ABC,71.95
+PMC13490517,2026,Sci Rep,Size- and lifetime-aware disjoint dominating set formation and multi-armed-bandit-based scheduling for energy-efficient ,130831,1,1,1,1,1,1,0,1,0,0,1,1,1,LEACH;DEEC,110.0
+PMC13493822,2026,Sci Rep,Energy-efficient wireless sensor networks using unequal clustering and cluster head rotation optimization.,91246,1,1,1,1,0,1,0,0,0,0,1,0,1,LEACH;HEED,
+PMC13503672,2026,Sci Rep,An intelligent reinforcement learning enhanced improved LEACH protocol for prolonging wireless sensor network lifetime.,61099,0,0,1,1,0,0,0,0,0,1,1,0,1,LEACH,108.0
+PMC13521379,2026,PLoS One,EZS-SEP: A hybrid efficient zonal stable election routing protocol with SOM-based node deployment for heterogeneous wire,99949,1,1,1,1,0,1,1,0,0,1,1,0,1,LEACH;HEED;SEP;DEEC,174.0
+PMC13522607,2026,Sci Rep,A reinforcement learning-enhanced discrete zebra optimization algorithm for solving the traveling salesman problem.,121209,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO;WOA;GA;ACO;ABC,7.13
+PMC13538407,2026,Sci Rep,Density-aware and energy-gradient based relay selection for enhanced routing in mobile sink wireless sensor networks.,57763,1,1,1,1,0,1,1,0,0,1,1,0,1,LEACH;PSO,
+PMC13538490,2026,Sci Rep,Quantum-inspired hybrid optimization framework for energy-efficient clustering and routing in wireless sensor networks.,117287,1,1,1,1,0,1,1,0,0,1,1,0,1,LEACH;HEED;SEP;DEEC;PSO;GWO;GA;ACO,47.3
+PMC13554268,2026,Sci Rep,Reinforcement learning enabled hybrid optimisation for energy-efficient multipath routing in wireless sensor networks.,127762,1,1,1,0,0,1,0,1,0,0,1,0,1,LEACH;SEP;DEEC;PSO;GWO;WOA;GA;ACO;ABC,76.3
+PMC13562678,2026,Sci Rep,An energy-trust balanced and attack-resilient cluster head election scheme for resource-constrained wireless sensor netw,126279,1,0,0,0,1,0,1,1,0,0,1,0,0,LEACH;HEED;SEP;DEEC,
+PMC13568028,2026,Sensors (Basel),EARDC: Energy-Aware Reaction-Diffusion-Based Clustering for Area Coverage in Wireless Sensor Networks.,136081,1,1,0,1,0,1,1,0,0,1,1,0,1,LEACH;HEED;PSO;GA;ACO;ABC,
+PMC13568042,2026,Sensors (Basel),TA-BI: A Formal Observation-to-Decision Architecture for Trust-Aware Routing Support in Wireless and Mobile Wireless Sen,122848,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH,
+PMC13611088,2026,Sensors (Basel),A Provenance-Driven Trust Framework with Physics-Consistent Validation for Secure Wireless Sensor Networks.,103224,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC13611697,2026,Sensors (Basel),SMA-WSN: Failure-Aware Slime-Mold-Inspired Clustering and Per-Hop Versus End-to-End Delivery Analysis in Agricultural Wi,100073,1,1,0,1,0,0,1,1,1,1,1,0,1,LEACH;HEED;PSO;GWO;ACO;ABC,
+PMC13703682,2026,Entropy (Basel),Clone-Node Detection in Wireless Sensor Networks Using Behavioral Analysis and Machine Learning.,71265,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC13708764,2026,Sensors (Basel),FlowerSec: An AI-Enhanced Security Framework for Clustered Wireless Sensor Networks.,81289,0,0,0,1,0,0,0,0,1,1,1,0,1,LEACH;HEED;PSO,
+PMC13709133,2026,Sensors (Basel),TrajGNN-RL: Adaptive Mobile Sink Intelligence for Lifetime-Aware Wireless Sensor Networks.,195296,1,1,1,1,0,0,0,1,1,1,1,0,1,LEACH;HEED;PSO;GWO;GA;ACO;ABC,60.0
+PMC7778405,2021,J Ambient Intell Humaniz Comput,A survey on healthcare data security in wireless body area networks.,53783,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC7796200,2021,Sensors (Basel),A Byzantine Sensing Network Based on Majority-Consensus Data Aggregation Mechanism.,37666,1,0,0,1,0,1,1,0,0,0,1,0,1,LEACH;HEED;SEP;DEEC,
+PMC7825674,2021,Sensors (Basel),Hyperledger Fabric Blockchain for Securing the Edge Internet of Things.,80161,0,0,0,0,0,0,0,0,0,1,0,0,0,,30.0
+PMC7828529,2021,Sensors (Basel),Energy-Efficient Hybrid Routing Protocol for IoT Communication Systems in 5G and Beyond.,48552,1,1,1,0,1,0,0,0,0,0,1,0,1,LEACH;PSO,
+PMC7828785,2021,Sensors (Basel),Energy-Aware System Design for Autonomous Wireless Sensor Nodes: A Comprehensive Review.,67711,0,0,0,0,0,0,0,1,0,0,0,0,0,,
+PMC7831061,2021,Sensors (Basel),Energy-Efficient Clustering Multi-Hop Routing Protocol in a UWSN.,45825,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH,
+PMC7865231,2021,Sensors (Basel),MWCSGA-Multi Weight Chicken Swarm Based Genetic Algorithm for Energy Efficient Clustered Wireless Sensor Network.,43390,1,1,0,0,0,0,0,0,0,1,1,1,1,LEACH;HEED;SEP;GA,
+PMC7865640,2021,Sensors (Basel),Multi-Layer Blockchain-Based Security Architecture for Internet of Things.,70401,1,0,0,1,0,0,0,0,0,1,1,0,1,GA,
+PMC7865702,2021,Sensors (Basel),How Can Wake-up Radio Reduce LoRa Downlink Latency for Energy Harvesting Sensor Nodes?,42677,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC7866149,2021,Sensors (Basel),Energy-Efficient Wireless Sensor Network with an Unequal Clustering Protocol Based on a Balanced Energy Method (EEUCB).,103791,0,1,1,0,1,0,0,0,0,0,1,0,0,LEACH;HEED;DEEC,
+PMC7913118,2021,Sensors (Basel),Efficient Anomaly Detection for Smart Hospital IoT Systems.,55028,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC7913184,2021,Sensors (Basel),EZ-SEP: Extended Z-SEP Routing Protocol with Hierarchical Clustering Approach for Wireless Heterogeneous Sensor Network.,51425,0,1,1,0,0,1,1,0,0,0,1,0,0,LEACH;HEED;SEP;DEEC,5.0
+PMC7915737,2021,Sensors (Basel),A Low-Cost Jamming Detection Approach Using Performance Metrics in Cluster-Based Wireless Sensor Networks.,72967,0,0,0,0,0,0,0,0,1,1,0,0,0,LEACH,19.0
+PMC7919376,2021,Sensors (Basel),An Uneven Node Self-Deployment Optimization Algorithm for Maximized Coverage and Energy Balance in Underwater Wireless S,64669,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO,
+PMC7956325,2021,Sensors (Basel),State-of-the-Art Software-Based Remote Attestation: Opportunities and Open Issues for Internet of Things.,80859,0,0,0,0,0,0,0,0,0,0,0,1,0,,
+PMC7961515,2021,Sensors (Basel),Centralized Multi-Hop Routing Based on Multi-Start Minimum Spanning Forest Algorithm in the Wireless Sensor Networks.,40772,1,1,1,0,0,1,1,0,0,0,1,0,1,LEACH;HEED,
+PMC7990533,2021,Comput Intell Neurosci,A Novel Coverage Optimization Strategy Based on Grey Wolf Algorithm Optimized by Simulated Annealing for Wireless Sensor,41941,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;PSO;GWO;ABC,
+PMC7999408,2021,Entropy (Basel),Mobile Clustering Scheme for Pedestrian Contact Tracing: The COVID-19 Case Study.,72766,0,0,0,0,0,0,0,0,1,0,0,0,0,SEP,
+PMC8038497,2021,Sensors (Basel),A Cluster-Based Energy Optimization Algorithm in Wireless Sensor Networks with Mobile Sink.,36858,1,1,1,1,0,0,0,0,0,0,1,0,1,LEACH;HEED;SEP,
+PMC8049130,2021,PeerJ Comput Sci,Deterministic clustering based compressive sensing scheme for fog-supported heterogeneous wireless sensor networks.,60996,1,1,0,0,0,0,1,0,0,0,1,0,1,,
+PMC8059977,2021,PLoS One,An intelligent cluster optimization algorithm based on Whale Optimization Algorithm for VANETs (WOACNET).,49781,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO;WOA;GA;ACO,46.0
+PMC8069356,2021,Sensors (Basel),Spectrum Based Power Management for Congested IoT Networks.,35743,0,0,0,0,0,0,0,0,0,1,0,0,0,,30.0
+PMC8073567,2021,Sensors (Basel),Hybrid Path Planning for Efficient Data Collection in UAV-Aided WSNs for Emergency Applications.,56165,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GA;ACO;ABC,
+PMC8073593,2021,Sensors (Basel),Sink-Type-Dependent Data-Gathering Frameworks in Wireless Sensor Networks: A Comparative Study.,79450,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;HEED;PSO,
+PMC8122349,2021,Sensors (Basel),An Algorithm to Minimize Energy Consumption and Elapsed Time for IoT Workloads in a Hybrid Architecture.,51918,0,0,0,0,0,0,0,0,0,0,1,1,0,SEP,
+PMC8122431,2021,Sensors (Basel),Energy Efficient Probabilistic Switching ON-OFF Operation in Multiantenna Cooperative Wireless Sensor Networks.,41445,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC8122501,2021,Sensors (Basel),A Joint Energy Replenishment and Data Collection Strategy in Heterogeneous Wireless Rechargeable Sensor Networks.,68037,0,0,0,0,0,1,0,0,0,0,1,0,0,,
+PMC8123114,2021,Sensors (Basel),Investigating Master-Slave Architecture for Underwater Wireless Sensor Network.,72428,0,0,0,0,1,0,0,0,0,0,1,0,0,,
+PMC8124991,2021,Sensors (Basel),A Dense Neural Network Approach for Detecting Clone ID Attacks on the RPL Protocol of the IoT.,61395,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC8125132,2021,Sensors (Basel),A Systematic Review of Location Aware Schemes in the Internet of Things.,47638,0,0,0,0,0,0,0,1,0,0,1,0,0,PSO,90.0
+PMC8125913,2021,Sensors (Basel),Systematic Review of Fault Tolerant Techniques in Underwater Sensor Networks.,48402,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,
+PMC8143440,2021,Int J Inf Technol,Editorial.,18956,0,0,0,0,0,0,0,0,0,0,0,1,0,,
+PMC8196584,2021,Sensors (Basel),ECS-NL: An Enhanced Cuckoo Search Algorithm for Node Localisation in Wireless Sensor Networks.,36340,0,0,0,0,0,0,1,0,0,0,0,0,0,PSO;GA,
+PMC8196991,2021,Sensors (Basel),Intelligent Mobile Wireless Network for Toxic Gas Cloud Monitoring and Tracking.,61392,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC8197927,2021,Sensors (Basel),Model of a Device-Level Combined Wireless Network Based on NB-IoT and IEEE 802.15.4 Standards for Low-Power Applications,58065,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC8199512,2021,Sensors (Basel),Link-Correlation-Aware Opportunistic Routing in Low-Duty-Cycle Wireless Networks.,49108,0,0,0,0,0,0,0,1,1,1,1,0,0,ACO,13.0
+PMC8232606,2021,Sensors (Basel),A Reinforcement Learning Routing Protocol for UAV Aided Public Safety Networks.,47152,1,0,0,0,0,0,1,0,0,0,1,0,0,LEACH,90.0
+PMC8264963,2021,Wirel Pers Commun,Seamless Health Monitoring Using 5G NR for Internet of Medical Things.,78480,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8271436,2021,Sensors (Basel),Compression-Aware Aggregation and Energy-Aware Routing in IoT-Fog-Enabled Forest Environment.,44785,0,0,0,0,0,0,0,1,1,0,1,0,0,LEACH,
+PMC8271602,2021,Sensors (Basel),Adaptive Node Clustering for Underwater Sensor Networks.,42112,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;PSO;GWO;ACO,30.0
+PMC8271789,2021,Sensors (Basel),Current Trends on Green Wireless Sensor Networks.,98440,0,0,0,0,0,0,0,1,0,0,0,0,0,LEACH;HEED;PSO;GA;ACO;ABC,
+PMC8271866,2021,Sensors (Basel),Energy-Efficient Packet Forwarding Scheme Based on Fuzzy Decision-Making in Underwater Sensor Networks.,40646,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8271913,2021,Sensors (Basel),Communication Interface Manager for Improving Performance of Heterogeneous UAV Networks.,77474,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8272019,2021,Sensors (Basel),Pair Nodes Clock Synchronization Algorithm Based on Kalman Filter for Underwater Wireless Sensor Networks.,40597,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8292053,2021,Comput Intell Neurosci,Neural Network Optimal Routing Algorithm Based on Genetic Ant Colony in IPv6 Environment.,28525,0,0,0,0,0,0,0,0,0,0,1,1,0,,
+PMC8309742,2021,Sensors (Basel),A Novel Multi-Agent Model for Robustness with Component Failure and Malware Propagation in Wireless Sensor Networks.,58367,0,0,0,0,0,0,0,1,0,0,0,0,0,,
+PMC8309769,2021,Sensors (Basel),Feature-Selection and Mutual-Clustering Approaches to Improve DoS Detection and Maintain WSNs' Lifetime.,69203,1,1,1,0,0,0,0,0,0,1,1,0,1,LEACH;PSO;GA,3.0
+PMC8347344,2021,Sensors (Basel),Lightweight and Efficient Dynamic Cluster Head Election Routing Protocol for Wireless Sensor Networks.,74677,1,0,0,0,0,0,1,0,0,0,0,0,0,LEACH;HEED;GA,
+PMC8347904,2021,Sensors (Basel),CIDF-WSN: A Collaborative Interest and Data Forwarding Strategy for Named Data Wireless Sensor Networks.,58751,0,0,0,0,0,0,1,1,0,0,1,0,0,,
+PMC8348614,2021,Sensors (Basel),DAMAC: A Delay-Aware MAC Protocol for Ad Hoc Underwater Acoustic Sensor Networks.,68109,0,0,0,0,0,0,0,1,0,0,1,1,0,,
+PMC8380017,2022,Wirel Pers Commun,Performance Evaluation of Multilayer Clustering Network Using Distributed Energy Efficient Clustering with Enhanced Thre,42218,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;HEED;SEP;DEEC,
+PMC8394203,2021,Entropy (Basel),Modelling and Analysis of the Epidemic Model under Pulse Charging in Wireless Rechargeable Sensor Networks.,38394,0,0,0,0,0,0,0,1,0,0,1,0,0,GA,
+PMC8433768,2021,Sensors (Basel),Smart Sensor Technologies for IoT.,14138,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC8459781,2021,PeerJ Comput Sci,Malware propagation model for cluster-based wireless sensor networks using epidemiological theory.,74359,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8467806,2021,Sensors (Basel),Dimensioning of Wide-Area Alternate Wetting and Drying (AWD) System for IoT-Based Automation.,56867,0,0,0,0,0,0,0,0,1,1,1,0,0,,
+PMC8490025,2021,J Healthc Eng,Design and Research of Remote Monitoring System for Sports Injury Rehabilitation Training.,22460,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8494558,2021,Comput Intell Neurosci,A Data Collection Strategy for Heterogeneous Wireless Sensor Networks Based on Energy Efficiency and Collaborative Optim,51774,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH;PSO;GWO,
+PMC8507477,2021,PeerJ Comput Sci,A survey of Sybil attack countermeasures in IoT-based wireless sensor networks.,57743,0,0,0,0,0,0,0,0,1,1,1,0,0,PSO;GA;ACO,16.0
+PMC8512204,2021,Sensors (Basel),"GIS-Based Forest Fire Susceptibility Zonation with IoT Sensor Network Support, Case Study-Nature Park Golija, Serbia.",83717,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8512296,2021,Sensors (Basel),"Software-Defined Networking Solutions, Architecture and Controllers for the Industrial Internet of Things: A Review.",61271,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC8540287,2021,Sensors (Basel),Adaptive Strategy to Change Firing Phases of Collided Nodes in Extended-Desync TDMA-Based MANETs.,52124,0,0,0,0,0,0,0,0,0,0,0,0,0,,8.4
+PMC8541273,2021,Sensors (Basel),Highly Efficient Spatial-Temporal Correlation Basis for 5G IoT Networks.,60509,0,0,0,0,0,0,0,0,1,1,1,1,0,,
+PMC8541403,2021,Sensors (Basel),In-Network Data Aggregation for Ad Hoc Clustered Cognitive Radio Wireless Sensor Network.,52487,1,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,
+PMC8564571,2021,Heliyon,Collaborative beamforming in wireless sensor networks using a novel particle swarm optimization algorithm variant.,56758,0,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GA,
+PMC8587082,2021,Sensors (Basel),Data Transmission Reduction in Wireless Sensor Network for Spatial Event Detection.,56343,0,0,0,0,0,0,0,0,1,1,0,0,0,,
+PMC8587205,2021,Sensors (Basel),An Optimization Model with Network Edges for Multimedia Sensors Using Artificial Intelligence of Things.,33678,0,0,0,0,0,0,0,0,0,1,1,0,0,GA,
+PMC8587664,2021,Sensors (Basel),Energy Efficient Routing Protocol in Sensor Networks Using Genetic Algorithm.,44965,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;GA,
+PMC8587686,2021,Sensors (Basel),A Wireless Sensor Network Deployment for Soil Moisture Monitoring in Precision Agriculture.,58994,0,0,0,0,0,0,0,1,1,1,0,0,0,,
+PMC8588308,2021,Sensors (Basel),Evaluation of Deep Learning Methods in a Dual Prediction Scheme to Reduce Transmission Data in a WSN.,53911,0,0,0,0,0,0,0,0,1,0,0,0,0,,
+PMC8588549,2021,Sensors (Basel),Reliable Route Selection for Wireless Sensor Networks with Connection Failure Uncertainties.,70286,0,0,0,0,0,0,0,0,0,0,0,1,0,LEACH,
+PMC8619343,2021,Sensors (Basel),Edge Computing Driven Data Sensing Strategy in the Entire Crop Lifecycle for Smart Agriculture.,43274,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8619464,2021,Sensors (Basel),Reliability Analysis of Wireless Sensor Network for Smart Farming Applications.,42231,0,0,0,0,0,0,0,1,1,1,0,0,0,,
+PMC8621105,2021,Sensors (Basel),Dynamic Bargain Game Theory in the Internet of Things for Data Trustworthiness.,56392,1,0,0,0,0,0,0,1,0,0,1,0,0,PSO,
+PMC8623445,2021,Sensors (Basel),An Open-Source Wireless Sensor Node Platform with Active Node-Level Reliability for Monitoring Applications.,135044,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC8623548,2021,Sensors (Basel),Network Lifetime Improvement through Energy-Efficient Hybrid Routing Protocol for IoT Applications.,57074,1,1,1,1,0,1,1,0,0,0,0,0,1,LEACH;PSO;GA,9.0
+PMC8625206,2021,Sensors (Basel),"Dragonfly Algorithm and Its Hybrids: A Survey on Performance, Objectives and Applications.",91198,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO;WOA;GA;ACO;ABC,
+PMC8625786,2021,Sensors (Basel),An Efficient Content Store-Based Forwarding Scheme for Internet of Things.,34595,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC8627235,2021,PeerJ Comput Sci,MAC protocol with grouping awareness GMAC for large scale Internet-of-Things network.,59117,0,0,0,1,0,0,0,0,0,0,1,0,1,,
+PMC8659524,2021,Sensors (Basel),Lightweight Anomaly Detection Scheme Using Incremental Principal Component Analysis and Support Vector Machine.,60366,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8659854,2021,Sensors (Basel),Blockchain-Based Authentication in Internet of Vehicles: A Survey.,136926,0,0,0,0,0,0,0,0,1,1,1,0,0,,
+PMC8662396,2021,Sensors (Basel),A Survey of Recent Indoor Localization Scenarios and Methodologies.,83605,0,0,0,0,0,0,0,0,0,1,0,0,0,SEP,
+PMC8675701,2021,PLoS One,Compressive sensing based secure data aggregation scheme for IoT based WSN applications.,98296,0,0,0,0,0,1,1,0,0,0,0,0,0,,
+PMC8705826,2021,Sensors (Basel),An Efficient and Reliable Algorithm for Wireless Sensor Network.,46098,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC8706400,2021,Sensors (Basel),"A Systematic Review on Recent Trends, Challenges, Privacy and Security Issues of Underwater Internet of Things.",61913,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8706630,2021,Sensors (Basel),Energy Efficient UAV Flight Path Model for Cluster Head Selection in Next-Generation Wireless Sensor Networks.,45206,1,1,1,1,0,0,1,0,0,0,1,0,1,LEACH;PSO,
+PMC8707898,2021,Sensors (Basel),Collision-Aware Routing Using Multi-Objective Seagull Optimization Algorithm for WSN-Based IoT.,42982,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8733441,2022,Environ Dev Sustain,A modified social spider algorithm for an efficient data dissemination in VANET.,79551,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GA;ACO,
+PMC8741831,2022,Sci Rep,Forest fire detection system using wireless sensor networks and machine learning.,29573,0,0,0,0,0,0,0,1,1,0,0,0,0,,
+PMC8747286,2021,Sensors (Basel),Trajectory Design for UAV-Based Data Collection Using Clustering Model in Smart Farming.,51491,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;PSO;GA,
+PMC8749673,2021,Sensors (Basel),Robust and Secure Data Transmission Using Artificial Intelligence Techniques in Ad-Hoc Networks.,52520,0,0,0,0,0,0,0,0,0,0,1,0,0,ABC,
+PMC8749684,2021,Sensors (Basel),Towards Hybrid Energy-Efficient Power Management in Wireless Sensor Networks.,40871,0,0,0,0,0,0,0,1,0,0,0,1,0,,
+PMC8759841,2022,Comput Intell Neurosci,Smart Garden Planning and Design Based on the Agricultural Internet of Things.,29190,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH;GWO,
+PMC8779834,2022,Sensors (Basel),Game Theory-Based Energy-Efficient Clustering Algorithm for Wireless Sensor Networks.,50754,0,0,1,0,0,1,1,1,0,0,1,0,0,LEACH;DEEC,
+PMC8779958,2022,Sensors (Basel),An Efficient Metaheuristic-Based Clustering with Routing Protocol for Underwater Wireless Sensor Networks.,41116,0,0,0,0,0,0,0,0,0,0,0,1,0,LEACH;PSO;ACO,
+PMC8791701,2022,Soft comput,Deep learning approaches for detecting DDoS attacks: a systematic review.,183594,0,0,0,0,0,0,0,0,0,0,1,0,0,,31.0
+PMC8802789,2022,PeerJ Comput Sci,Hybrid state analysis with improved firefly optimized linear congestion models of WSNs for DDOS & CRA attacks.,47804,0,0,0,0,0,0,1,0,0,1,1,0,0,LEACH;SEP;DEEC;GA;ACO,
+PMC8802792,2022,PeerJ Comput Sci,A multiplayer game model to detect insiders in wireless sensor networks.,72611,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8818399,2022,Contrast Media Mol Imaging,Smart Spider Monkey Optimization (SSMO) for Energy-Based Cluster-Head Selection Adapted for Biomedical Engineering Appli,48686,1,1,1,0,1,1,1,0,0,1,1,0,1,LEACH;PSO;GWO,
+PMC8820603,2022,PLoS One,Algorithm for wireless sensor networks in ginseng field in precision agriculture.,69179,1,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO,
+PMC8820626,2022,PLoS One,Improvement of DBR routing protocol in underwater wireless sensor networks using fuzzy logic and bloom filter.,38697,0,0,0,0,0,0,1,0,0,0,1,0,0,,
+PMC8839449,2022,Sensors (Basel),A Comprehensive Survey on Signcryption Security Mechanisms in Wireless Body Area Networks.,101191,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC8847033,2022,Comput Intell Neurosci,Data Collection Strategy Based on OSELM and Gray Wolf Optimization Algorithm for Wireless Sensor Networks.,59890,0,0,0,0,0,0,0,0,0,0,1,0,0,SEP;PSO;GWO;ACO,
+PMC8849806,2022,Comput Intell Neurosci,Smart City + IoT Standardization Application Practice Model and Realization of Key Technologies.,33682,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,
+PMC8876173,2022,Sensors (Basel),Improved Metaheuristics-Based Clustering with Multihop Routing Protocol for Underwater Wireless Sensor Networks.,33934,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;GA,
+PMC8877279,2022,Sensors (Basel),Forwarding in Energy-Constrained Wireless Information Centric Networks.,57005,0,0,1,0,0,0,0,1,0,0,1,0,0,,1.5
+PMC8877631,2022,Sensors (Basel),A Novel Adaptive Cluster Based Routing Protocol for Energy-Harvesting Wireless Sensor Networks.,44570,1,1,1,0,0,1,0,0,0,0,1,0,1,LEACH;SEP;PSO,
+PMC8878411,2022,Sensors (Basel),An Energy-Efficient Routing Algorithm Based on Greedy Strategy for Energy Harvesting Wireless Sensor Networks.,61486,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;ACO,
+PMC8879152,2022,Sensors (Basel),Novel Scoring for Energy-Efficient Routing in Multi-Sensored Networks.,49505,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH,
+PMC8912138,2022,PLoS One,Prioritized Shortest Path Computation Mechanism (PSPCM) for wireless sensor networks.,112098,0,0,0,1,0,0,0,1,1,0,1,0,1,,
+PMC8914824,2022,Sensors (Basel),Performance Analysis of Public Safety Cognitive Radio MANET for Diversified Traffic.,64970,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8915007,2022,Sensors (Basel),An Efficient Dynamic Solution for the Detection and Prevention of Black Hole Attack in VANETs.,63062,0,0,0,0,0,0,0,0,0,0,1,0,0,,3.0
+PMC8915121,2022,Sensors (Basel),Multi Swarm Optimization Based Clustering with Tabu Search in Wireless Sensor Network.,34029,0,0,1,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;PSO;GA,38.0
+PMC8930218,2022,Comput Intell Neurosci,New Progress in Artificial Intelligence Algorithm Research Based on Big Data Processing of IOT Systems on Intelligent Pr,40980,1,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC8942282,2022,PLoS One,Provide energy-aware routing protocol in wireless sensor networks using bacterial foraging optimization algorithm and mo,109543,0,0,0,0,0,1,1,0,0,0,0,0,0,LEACH,
+PMC8947909,2022,Comput Intell Neurosci,Towards Energy-Efficient and Delay-Optimized Opportunistic Routing in Underwater Acoustic Sensor Networks for IoUT Platf,63752,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC8950606,2022,Sensors (Basel),Predictive Energy-Aware Routing Solution for Industrial IoT Evaluated on a WSN Hardware Platform.,62862,0,0,0,0,0,0,0,0,0,1,0,0,0,LEACH,10.0
+PMC8950945,2022,Sensors (Basel),Applications of Wireless Sensor Networks and Internet of Things Frameworks in the Industry Revolution 4.0: A Systematic ,95149,0,0,0,0,0,0,0,1,0,0,0,0,0,SEP;PSO;GA;ACO,
+PMC8954068,2022,Sensors (Basel),Device-to-Device (D2D) Multi-Criteria Learning Algorithm Using Secured Sensors.,45613,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC8955616,2022,Sensors (Basel),Conceptual Framework for Future WSN-MAC Protocol to Achieve Energy Consumption Enhancement.,46218,0,0,0,0,0,0,0,1,0,1,0,1,0,PSO;ACO,
+PMC8956448,2022,Comput Intell Neurosci,IoT Architecture-Based Mechanism for Digital Transmission of Key Aspects of the Enterprise.,37036,0,0,0,0,0,1,0,0,0,0,1,0,0,,
+PMC8963048,2022,Sensors (Basel),Symmetric-Key-Based Authentication among the Nodes in a Wireless Sensor and Actuator Network.,35035,0,0,0,0,0,0,0,1,1,0,0,0,0,,
+PMC8970907,2022,Comput Intell Neurosci,An Optimized Artificial Intelligence System Using IoT Biosensors Networking for Healthcare Problems.,43647,0,1,1,0,0,0,1,0,0,0,1,0,0,LEACH;HEED;GA;ACO,
+PMC8971547,2022,Front Neurorobot,LEACH Protocol Optimization Based on Weighting Strategy and the Improved Ant Colony Algorithm.,36541,1,1,1,0,0,1,0,0,0,0,1,0,1,LEACH;HEED;PSO;ACO,
+PMC8975674,2022,Biomed Res Int,Energy-Efficient and Secure Opportunistic Routing Protocol for WSN: Performance Analysis with Nature-Inspired Algorithms,40189,1,0,0,0,0,1,0,0,0,0,1,0,0,PSO;ACO;ABC,
+PMC9002776,2022,Sensors (Basel),Data Gathering Techniques in WSN: A Cross-Layer View.,149815,0,0,0,0,0,0,0,1,0,1,1,1,0,LEACH;PSO,
+PMC9003194,2022,Sensors (Basel),Blockchain-Based Security Mechanisms for IoMT Edge Networks in IoMT-Based Healthcare Monitoring Systems.,83924,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9005267,2022,Comput Intell Neurosci,Energy-Efficient Cluster Formation in IoT-Enabled Wireless Body Area Network.,31802,0,0,0,0,0,0,1,1,0,0,1,0,0,,
+PMC9014405,2023,Cluster Comput,Floating Fog: extending fog computing to vast waters for aerial users.,62458,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9017543,2022,Comput Intell Neurosci,A Neighborhood and Machine Learning-Enabled Information Fusion Approach for the WSNs and Internet of Medical Things.,51012,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9019391,2022,Comput Intell Neurosci,Hybrid Block-Based Lightweight Machine Learning-Based Predictive Models for Quality Preserving in the Internet of Things,41925,0,0,0,0,0,0,0,1,0,1,1,0,0,,
+PMC9028011,2022,Sensors (Basel),An Adaptive Topology Management Scheme to Maintain Network Connectivity in Wireless Sensor Networks.,53300,0,0,0,0,0,0,0,1,1,0,1,0,0,LEACH,
+PMC9028294,2022,Sensors (Basel),Chaotic Search-and-Rescue-Optimization-Based Multi-Hop Data Transmission Protocol for Underwater Wireless Sensor Network,44725,0,0,0,0,0,0,0,0,0,1,0,0,0,LEACH;GWO;ACO,
+PMC9028440,2022,Sensors (Basel),K-Means Clustering-Based Safety System in Large-Scale Industrial Site Using Industrial Wireless Sensor Networks.,37794,0,0,0,0,0,1,0,0,0,0,0,0,0,,14.0
+PMC9042613,2022,Comput Intell Neurosci,Smart Healthcare System with Light-Weighted Blockchain System and Deep Learning Techniques.,41872,0,0,0,1,0,1,0,0,0,0,0,0,1,LEACH;SEP;DEEC,
+PMC9061018,2022,Comput Intell Neurosci,Multiscale Layout and Planning of Smart Gardens in the Environment of Agricultural Internet of Things.,43036,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH,
+PMC9099745,2022,Sensors (Basel),An Intelligent Traffic Surveillance System Using Integrated Wireless Sensor Network and Improved Phase Timing Optimizati,56167,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC9103688,2022,Sensors (Basel),A New RF Energy Harvesting System Based on Two Architectures to Enhance the DC Output Voltage for WSN Feeding.,66177,0,0,0,0,0,0,1,0,0,1,0,0,0,,
+PMC9104269,2022,Sensors (Basel),An Adaptive LoRaWAN MAC Protocol for Event Detection Applications.,48896,0,0,0,0,0,0,0,1,0,1,0,0,0,,
+PMC9105341,2022,Sensors (Basel),An Improved Weighted and Location-Based Clustering Scheme for Flying Ad Hoc Networks.,44215,1,0,0,1,0,0,0,0,0,0,0,0,1,LEACH;HEED;PSO;GWO;ACO,
+PMC9111998,2022,Heliyon,Design and analysis of a multiple collaborative beamforming scheme in the realm of Wireless Sensor Networks featuring 3-,44918,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO;GA,
+PMC9122693,2022,Comput Intell Neurosci,Swarm Intelligence with Adaptive Neuro-Fuzzy Inference System-Based Routing Protocol for Clustered Wireless Sensor Netwo,32198,0,0,1,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GWO;GA,
+PMC9126674,2022,Comput Intell Neurosci,Dynamic Allocation Method of Economic Information Integrated Data Based on Deep Learning Algorithm.,32517,0,0,0,0,0,0,1,0,0,0,0,0,0,LEACH,
+PMC9129927,2022,Comput Intell Neurosci,A Data Collection Method for Mobile Wireless Sensor Networks Based on Improved Dragonfly Algorithm.,55798,1,1,1,0,0,0,0,0,0,0,1,0,1,LEACH;PSO;GWO;ACO;ABC,
+PMC9142896,2022,Sensors (Basel),Green Communication in Internet of Things: A Hybrid Bio-Inspired Intelligent Approach.,45622,1,1,1,1,0,0,0,0,0,0,1,0,1,LEACH;PSO;GA,
+PMC9143513,2022,Sensors (Basel),"Intrusion Detection in Internet of Things Systems: A Review on Design Approaches Leveraging Multi-Access Edge Computing,",83227,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC9144256,2022,Sensors (Basel),Energy and Distance Based Multi-Objective Red Fox Optimization Algorithm in Wireless Sensor Network.,43321,0,0,0,1,0,0,0,0,0,0,1,0,1,GWO,
+PMC9167549,2022,Comput Electr Eng,A secure energy-efficient routing protocol for disease data transmission using IoMT.,73624,1,1,1,1,0,0,1,0,0,0,1,0,1,LEACH;SEP;DEEC;GA,66.95
+PMC9173962,2022,Comput Intell Neurosci,System Resource Allocation and Rural Industry Revitalization Based on Max-Min Algorithm.,39875,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9183145,2022,Sensors (Basel),Trust-Based Intelligent Routing Protocol with Q-Learning for Mission-Critical Wireless Sensor Networks.,48204,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9185230,2022,Sensors (Basel),Blockchain for Future Wireless Networks: A Decade Survey.,104873,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC9185460,2022,Sensors (Basel),Heuristic Routing Algorithms for Time-Sensitive Networks in Smart Factories.,62739,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;HEED;PSO;GWO;GA;ACO,
+PMC9186343,2021,Inf Fusion,SPICE-IT: Smart COVID-19 pandemic controlled eradication over NDN-IoT.,56910,0,0,0,0,0,0,0,0,0,1,1,0,0,GA,
+PMC9187435,2022,Comput Intell Neurosci,Design and Implementation of Online Meticulous Painting System Based on Mobile IoT Service.,36293,0,0,0,0,1,0,0,0,0,0,0,0,0,,
+PMC9189897,2022,Heliyon,Smart deployment of IoT-TelosB service care StreamRobot using software-defined reliability optimisation design.,77942,0,0,0,0,0,0,0,0,1,1,1,0,0,PSO,
+PMC9202624,2022,PeerJ Comput Sci,Quantum readout and gradient deep learning model for secure and sustainable data access in IWSN.,51780,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9217549,2022,Comput Intell Neurosci,Innovation of Tin Oxide Ceramic Manufacturing Process Based on WSN and Remote Visualization Technology.,31422,1,1,1,0,1,1,1,0,0,0,0,0,1,,
+PMC9227483,2022,Sensors (Basel),Multi-Mobile Agent Trust Framework for Mitigating Internal Attacks and Augmenting RPL Security.,67074,0,0,0,0,0,0,1,0,1,0,1,0,0,,25.84
+PMC9228907,2022,Sensors (Basel),A Novel Deep Learning-Based Cooperative Communication Channel Model for Wireless Underground Sensor Networks.,40079,0,0,0,0,0,0,1,0,0,1,0,0,0,,
+PMC9229870,2022,Sensors (Basel),Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks.,53683,0,0,0,0,0,0,0,1,0,0,1,0,0,,116.28
+PMC9252670,2022,Comput Intell Neurosci,Harris Hawk Optimization: A Survey onVariants and Applications.,75222,0,0,0,0,0,0,0,0,0,0,0,1,0,PSO;GWO;WOA,53.21
+PMC9256383,2022,Comput Intell Neurosci,A Neighborhood Grid Clustering Algorithm for Solving Localization Problem in WSN Using Genetic Algorithm.,47701,0,0,1,0,0,0,1,0,0,0,1,0,0,PSO;GA;ABC,
+PMC9269255,2022,Sensors (Basel),Machine Learning for Wireless Sensor Networks Security: An Overview of Challenges and Issues.,93333,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH;PSO;GA,
+PMC9269858,2022,Sensors (Basel),QoS-Aware Cost Minimization Strategy for AMI Applications in Smart Grid Using Cloud Computing.,78841,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9270149,2022,Comput Intell Neurosci,Application of Wireless Sensor Network Technology in Multipoint Control in Music Performance Management System.,38993,0,0,0,0,0,0,0,1,0,0,0,0,0,LEACH,
+PMC9270172,2022,Comput Intell Neurosci,Neural Network-Based Routing Energy-Saving Algorithm for Wireless Sensor Networks.,34428,1,0,0,0,1,0,0,0,0,0,0,0,0,LEACH;PSO,
+PMC9287000,2022,Comput Intell Neurosci,Design and Analysis of Intelligent Robot Based on Internet of Things Technology.,21587,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9299966,2022,Telecommun Syst,Blockchain-envisioned access control for internet of things applications: a comprehensive survey and future directions.,201104,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9308532,2022,Comput Intell Neurosci,Secure Clustering Strategy Based on Improved Particle Swarm Optimization Algorithm in Internet of Things.,35018,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO,
+PMC9315616,2022,Sensors (Basel),Time-Constrained Node Visit Planning for Collaborative UAV-WSN Distributed Applications.,37343,0,0,0,0,0,1,0,0,0,0,1,1,0,GA,39.13
+PMC9317050,2022,Sensors (Basel),Deployment Optimization Algorithms in Wireless Sensor Networks for Smart Cities: A Systematic Mapping Study.,70348,0,0,0,0,0,0,0,0,0,1,1,1,0,PSO;GA;ACO,
+PMC9317238,2022,Entropy (Basel),Energy-Efficient Clustering Mechanism of Routing Protocol for Heterogeneous Wireless Sensor Network Based on Bamboo Fore,63628,1,0,1,1,0,1,1,0,0,0,0,0,1,LEACH;HEED;SEP;DEEC;PSO;GWO;GA,
+PMC9321793,2022,Sensors (Basel),Development of Wireless Sensor Network for Environment Monitoring and Its Implementation Using SSAIL Technology.,49264,0,0,0,0,0,0,0,1,1,1,1,0,0,LEACH;DEEC,
+PMC9322603,2022,Sensors (Basel),A Novel Routing Protocol Based on Elliptical Shaped Movement of Autonomous Underwater Vehicles in Data Gathering Process,38190,0,0,0,0,0,1,0,0,0,0,1,1,0,,11.0
+PMC9325669,2023,Arch Comput Methods Eng,Review of Protocol Stack Development of Flying Ad-hoc Networks for Disaster Monitoring Applications.,122178,0,0,0,0,0,0,0,1,0,1,1,0,0,PSO;ACO;ABC,
+PMC9331321,2022,Sensors (Basel),Hybrid Clustering and Routing Algorithm with Threshold-Based Data Collection for Heterogeneous Wireless Sensor Networks.,58211,1,0,0,1,0,1,1,0,0,0,0,0,1,LEACH;SEP;ACO,20.0
+PMC9331325,2022,Sensors (Basel),"Software-Defined Networking: Categories, Analysis, and Future Directions.",147576,0,0,0,0,0,0,0,1,0,1,1,1,0,,58.0
+PMC9351592,2022,Front Med (Lausanne),SecAODV: A Secure Healthcare Routing Scheme Based on Hybrid Cryptography in Wireless Body Sensor Networks.,46195,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;ACO,
+PMC9370863,2022,Sensors (Basel),Sensors Energy Optimization for Renewable Energy-Based WBANs on Sporadic Elder Movements.,47080,0,0,0,0,0,0,0,0,0,1,1,0,0,PSO,
+PMC9370946,2022,Sensors (Basel),An Underwater Cooperative Spectrum Sharing Protocol for a Centralized Underwater Cognitive Acoustic Network.,67516,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC9370958,2022,Sensors (Basel),Completion Time Minimization for UAV-UGV-Enabled Data Collection.,37533,0,0,0,0,0,0,0,1,0,0,0,1,0,,
+PMC9371144,2022,Sensors (Basel),An Energy-Efficient Clustering Method for Target Tracking Based on Tracking Anchors in Wireless Sensor Networks.,51729,0,0,1,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GA,
+PMC9371163,2022,Sensors (Basel),A Hybrid Price Auction-Based Secure Routing Protocol Using Advanced Speed and Cosine Similarity-Based Clustering against,53523,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9371229,2022,Sensors (Basel),Key Challenges and Emerging Technologies in Industrial IoT Architectures: A Review.,86479,0,0,0,0,0,0,0,0,0,1,1,0,0,,8.0
+PMC9376892,2022,J Grid Comput,An Authentication-Based Secure Data Aggregation Method in Internet of Things.,3811,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9381252,2022,Comput Intell Neurosci,An Energy Efficient and Reliable Multipath Transmission Strategy for Mobile Wireless Sensor Networks.,57819,1,1,1,0,0,0,0,1,0,0,1,0,1,PSO,
+PMC9392616,2022,Comput Intell Neurosci,Optimization of Leach Protocol in Wireless Sensor Network Using Machine Learning.,27572,1,1,1,0,0,1,0,0,0,0,0,0,1,LEACH,
+PMC9395821,2023,Arch Comput Methods Eng,Advances in Sparrow Search Algorithm: A Comprehensive Survey.,79668,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;PSO;GWO;WOA;GA;ACO;ABC,
+PMC9408693,2022,Int J Environ Res Public Health,Statistical Study of User Perception of Smart Homes during Vital Signal Monitoring with an Energy-Saving Algorithm.,70538,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9414207,2022,Sensors (Basel),Metaheuristics-Based Optimization of a Robust GAPID Adaptive Control Applied to a DC Motor-Driven Rotating Beam with Var,48773,0,0,0,0,0,0,0,0,0,0,1,1,0,PSO;WOA;GA;ABC,
+PMC9415276,2022,Sensors (Basel),"Fault Tolerance Structures in Wireless Sensor Networks (WSNs): Survey, Classification, and Future Directions.",87414,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;GWO,
+PMC9415999,2022,Sensors (Basel),ESEERP: Enhanced Smart Energy Efficient Routing Protocol for Internet of Things in Wireless Sensor Nodes.,37687,0,0,0,0,0,0,1,0,0,0,1,0,0,LEACH;SEP;PSO;GA,
+PMC9436523,2022,Comput Intell Neurosci,Optimization and Application of Communication Resource Allocation Algorithm for Urban Rail Transit Planning.,35596,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9440053,2022,Sci Rep,Dimension learning based chimp optimizer for energy efficient wireless sensor networks.,117782,0,0,0,0,0,1,1,0,0,0,1,0,0,LEACH;HEED;SEP;DEEC;PSO;GWO;WOA;GA;ACO;ABC,188.0
+PMC9440774,2022,Comput Intell Neurosci,New Energy Utilization Rate and Coal Energy Economic Development Based on the Fuzzy Network Algorithm.,38498,0,0,0,0,0,0,0,0,0,0,0,0,0,,1.66
+PMC9445403,2022,Simulation,A grid-shaped cellular modeling approach for wireless sensor networks.,65478,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH,
+PMC9455049,2022,PeerJ Comput Sci,A genetic algorithm-based energy-aware multi-hop clustering scheme for heterogeneous wireless sensor networks.,118932,0,0,1,0,1,0,0,1,0,0,1,1,0,HEED;GA,27.13
+PMC9455269,2022,PeerJ Comput Sci,Systematic review on modification to the <i>ad-hoc</i> on-demand distance vector routing discovery mechanics.,87607,0,0,0,0,0,0,0,0,0,1,1,0,0,ACO,13.0
+PMC9460624,2022,Sensors (Basel),A Hybrid Mayfly-Aquila Optimization Algorithm Based Energy-Efficient Clustering Routing Protocol for Wireless Sensor Net,60844,1,0,0,0,0,0,0,0,0,0,1,0,0,PSO;GA;ACO;ABC,
+PMC9481306,2022,Comput Intell Neurosci,Visual Teaching System Design of University Political Video Course Based on Network Node Algorithm.,36130,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,
+PMC9483278,2023,J Supercomput,IoT-fog-based healthcare 4.0 system using blockchain technology.,43184,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9490733,2023,Arch Comput Methods Eng,"A Comprehensive Review of Bat Inspired Algorithm: Variants, Applications, and Hybridization.",140062,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;HEED;PSO;GWO;WOA;GA;ACO;ABC,14.0
+PMC9499756,2022,Comput Intell Neurosci,Remote Monitoring of COVID-19 Patients Using Multisensor Body Area Network Innovative System.,41876,0,0,0,0,0,0,0,0,0,1,1,0,0,,
+PMC9500809,2022,Sensors (Basel),PINE: Post-Quantum Based Incentive Technique for Non-Cooperating Nodes in Internet of Everything.,83809,0,0,0,0,0,0,0,1,1,0,1,0,0,,
+PMC9504683,2022,Sensors (Basel),An Improved Q-Learning-Based Sensor-Scheduling Algorithm for Multi-Target Tracking.,49289,1,1,1,1,0,1,1,0,0,0,1,0,1,PSO;GA;ACO,
+PMC9535975,2022,Comput Commun,Cluster head selection method of multiple UAVs under COVID-19 situation.,31904,1,0,0,0,0,0,1,0,0,0,1,0,0,LEACH,
+PMC9571095,2022,Sensors (Basel),GWLBC: Gray Wolf Optimization Based Load Balanced Clustering for Sustainable WSNs in Smart City Environment.,52444,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GWO;GA;ACO;ABC,
+PMC9579606,2023,Wirel Pers Commun,A Study on Different Deep Learning Algorithms Used in Deep Neural Nets: MLP SOM and DBN.,43809,0,0,0,0,0,0,0,0,0,1,0,1,0,PSO,
+PMC9606965,2022,Sensors (Basel),Semantic Interconnection Scheme for Industrial Wireless Sensor Networks and Industrial Internet with OPC UA Pub/Sub.,40026,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9607056,2022,Sensors (Basel),A Formal Energy Consumption Analysis to Secure Cluster-Based WSN: A Case Study of Multi-Hop Clustering Algorithm Based o,32309,1,1,1,0,0,0,0,0,1,0,1,0,1,LEACH;HEED,
+PMC9607191,2022,Sensors (Basel),IACRA: Lifetime Optimization by Invulnerability-Aware Clustering Routing Algorithm Using Game-Theoretic Approach for Wsn,52993,1,1,1,0,0,0,0,0,0,0,0,0,1,LEACH,35.06
+PMC9611236,2022,Sensors (Basel),Dingo Optimization Based Cluster Based Routing in Internet of Things.,41948,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;HEED;GWO,
+PMC9611913,2022,Sensors (Basel),Sustainable Data-Driven Secured Optimization Using Dynamic Programming for Green Internet of Things.,35447,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9632574,2023,Arch Comput Methods Eng,"Recent Advances in Butterfly Optimization Algorithm, Its Versions and Applications.",77641,0,0,1,0,0,0,0,0,0,0,1,0,0,PSO;GWO;WOA;GA;ACO;ABC,
+PMC9639829,2022,PLoS One,Enhancement of the performance of wireless sensor networks using the multihop multiantenna power beacon path selection m,57448,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9654926,2022,Sensors (Basel),rSEM: System-Entropy-Measure-Guided Routing Algorithm for Industrial Wireless Sensor Networks.,28216,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH,5.0
+PMC9656534,2022,Sensors (Basel),Wireless Body Area Sensor Networks: Survey of MAC and Routing Protocols for Patient Monitoring under IEEE 802.15.4 and I,71818,0,0,0,0,0,0,0,1,1,1,0,0,0,LEACH;GA,
+PMC9656685,2022,Sensors (Basel),A Secure LEACH-PRO Protocol Based on Blockchain.,62993,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,50.0
+PMC9656712,2022,Sensors (Basel),Radiofrequency Energy Harvesting Systems for Internet of Things Applications: A Comprehensive Overview of Design Issues.,100450,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH,9.25
+PMC9680872,2022,PeerJ Comput Sci,A review on recent studies utilizing artificial intelligence methods for solving routing challenges in wireless sensor n,103358,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH;PSO;GWO;GA;ACO;ABC,
+PMC9690694,2022,Healthcare (Basel),Multipath Routing in Wireless Body Area Sensor Network for Healthcare Monitoring.,36396,0,0,0,0,0,0,0,1,0,0,1,0,0,LEACH;DEEC,47.0
+PMC9692849,2022,Sensors (Basel),ERCP: Energy-Efficient and Reliable-Aware Clustering Protocol for Wireless Sensor Networks.,48481,0,0,0,0,0,0,0,0,0,0,1,0,0,LEACH;SEP;PSO;GA,
+PMC9694288,2022,Sensors (Basel),Problem Characteristics and Dynamic Search Balance-Based Artificial Bee Colony for the Optimization of Two-Tiered WSN Li,41751,0,0,0,0,0,1,1,0,0,0,0,1,0,GWO;WOA;GA;ABC,54.54
+PMC9695523,2022,Sensors (Basel),Novel Modification of the Collective Dynamic Routing Method for Sensors' Communication in Wi-Fi Public Networks.,57881,0,0,0,0,0,0,0,0,1,0,0,1,0,,
+PMC9696347,2022,Sensors (Basel),Energy-Efficient Routing Protocol for Selecting Relay Nodes in Underwater Sensor Networks Based on Fuzzy Analytical Hier,54166,0,0,0,0,0,0,0,1,0,0,1,1,0,LEACH,
+PMC9736296,2022,Sensors (Basel),Modeling Real-Life Urban Sensor Networks Based on Open Data.,81030,0,0,0,0,0,0,0,1,0,1,1,0,0,,10.0
+PMC9737998,2022,Sensors (Basel),Heuristic Resource Reservation Policies for Public Clouds in the IoT Era.,41920,0,0,0,0,0,0,0,0,0,0,1,1,0,,
+PMC9738663,2022,Sensors (Basel),"Resource Management for Massive Internet of Things in IEEE 802.11ah WLAN: Potentials, Current Solutions, and Open Challe",88314,0,0,0,0,0,0,0,0,0,1,1,0,0,LEACH,50.0
+PMC9739648,2022,Sensors (Basel),Ensemble of RNN Classifiers for Activity Detection Using a Smartphone and Supporting Nodes.,51010,0,0,0,0,0,0,0,0,0,1,0,0,0,,
+PMC9781055,2022,Sensors (Basel),Optimal Cluster Head Selection in WSN with Convolutional Neural Network-Based Energy Level Prediction.,56001,1,0,1,0,0,1,1,0,0,0,1,0,1,LEACH;PSO;GWO;ACO,
+PMC9781808,2022,Sensors (Basel),Research on Smart Tourism Oriented Sensor Network Construction and Information Service Mode.,49947,0,0,1,0,0,0,1,0,0,0,1,0,0,,
+PMC9784440,2022,Sensors (Basel),A Dual Cluster-Head Energy-Efficient Routing Algorithm Based on Canopy Optimization and K-Means for WSN.,64258,1,0,1,0,1,0,1,0,0,0,0,0,1,LEACH;PSO;GA;ACO,306.0
+PMC9812543,2023,Cluster Comput,Cloud-edge load balancing distributed protocol for IoE services using swarm intelligence.,35542,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO,
+PMC9823523,2022,Sensors (Basel),Machine Learning-Enabled Smart Industrial Automation Systems Using Internet of Things.,50922,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+PMC9824676,2022,Sensors (Basel),A Deep Learning Based Data Recovery Approach for Missing and Erroneous Data of IoT Nodes.,41251,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9824737,2022,Sensors (Basel),Dual Cluster Head Optimization of Wireless Sensor Networks Based on Multi-Objective Particle Swarm Optimization.,37033,1,1,1,0,0,0,1,0,0,0,1,0,1,LEACH;PSO;ACO,
+PMC9860603,2023,Sensors (Basel),A Low-Cost Hardware Architecture for EV Battery Cell Characterization Using an IoT-Based Platform.,42725,0,0,0,0,0,0,0,1,0,1,0,0,0,ABC,
+PMC9860737,2023,Sensors (Basel),Energy-Efficient Object Detection and Tracking Framework for Wireless Sensor Network.,82796,0,0,1,0,0,0,0,0,0,0,1,0,0,LEACH;PSO;GWO;GA,
+PMC9861319,2023,Sensors (Basel),Prioritization-Driven Congestion Control in Networks for the Internet of Medical Things: A Cross-Layer Proposal.,70932,0,0,0,0,0,0,0,1,0,0,1,0,0,,86.5
+PMC9864004,2023,Sensors (Basel),Energy Optimization of Wireless Sensor Embedded Cloud Computing Data Monitoring System in 6G Environment.,56787,0,0,0,0,0,0,0,1,0,0,1,0,0,,
+PMC9867322,2023,Sensors (Basel),Leveraging Blockchain Technology for Ensuring Security and Privacy Aspects in Internet of Things: A Systematic Literatur,140177,0,0,0,0,0,0,0,1,1,1,1,0,0,,
+PMC9895030,2023,Sci Rep,A secure and dependable trust assessment (SDTS) scheme for industrial communication networks.,60522,0,0,0,0,0,0,0,0,0,0,1,1,0,,12.5
+PMC9902258,2023,Arch Comput Methods Eng,Recent Versions and Applications of Sparrow Search Algorithm.,99765,0,0,0,0,0,0,1,0,0,0,1,1,0,PSO;GWO;WOA;GA;ACO;ABC,
+PMC9919555,2023,Sensors (Basel),A Survey on Optimization Techniques for Edge Artificial Intelligence (AI).,86798,0,0,0,0,0,0,0,0,0,0,1,0,0,,
+PMC9920579,2023,Sensors (Basel),Swarm Intelligence in Internet of Medical Things: A Review.,70257,0,0,0,0,0,0,0,0,0,0,0,0,0,PSO;WOA;GA;ACO;ABC,
+PMC9960758,2023,Sensors (Basel),A Novel Technique to Mitigate the Data Redundancy and to Improvise Network Lifetime Using Fuzzy Criminal Search Ebola Op,53101,0,0,0,0,0,0,1,0,0,0,1,0,0,,
+PMC9961315,2023,Sensors (Basel),Effects of Particle Swarm Optimisation on a Hybrid Load Balancing Approach for Resource Optimisation in Internet of Thin,64726,0,0,0,0,0,0,0,0,0,0,1,1,0,LEACH;HEED;SEP;PSO;GA,
+PMC9966037,2023,Sensors (Basel),Sensor Clustering Using a <i>K</i>-Means Algorithm in Combination with Optimized Unmanned Aerial Vehicle Trajectory in W,60687,0,0,0,0,0,0,0,0,0,0,0,0,0,LEACH,
+PMC9968155,2023,Sensors (Basel),An Energy-Efficient T-Based Routing Topology for Target Tracking in Battery Operated Mobile Wireless Sensor Networks.,48992,1,1,1,0,0,0,1,0,0,1,1,0,1,LEACH;PSO,16.63
