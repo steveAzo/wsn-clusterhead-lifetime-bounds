@@ -166,7 +166,8 @@ def fig_alive():
             xmax = max(xmax, tr[-1, 0])
         k = (rad, s, 0)
         ax.axvline(e8[k][1], color=INK, lw=0.9, ls="--")
-        ax.annotate("LB on FND", (e8[k][1], 50), xytext=(3, 0), textcoords="offset points", fontsize=7, color=INK)
+        ax.annotate("LB on FND", (e8[k][1], 30), xytext=(3, 0), textcoords="offset points", fontsize=7, color=INK,
+                    bbox={"boxstyle": "square,pad=0.15", "fc": "white", "ec": "none"})
         if k in lp:
             ax.plot([lp[k]], [99.5], marker=MK["LP"], ms=7, color=C["LP"], mec=INK, mew=0.6, ls="none",
                     label="LP schedule (FND)")
@@ -210,7 +211,7 @@ def fig_cg():
         ax.plot(tr[:, 0], tr[:, 1], color=C["DIRECT"], label="Lower bound (LB)")
         ax.set_xlabel("Column-generation iteration"); ax.set_title(title, loc="left", color=INK)
         ax.set_ylim(tr[:, 1].min() * 0.95, tr[:, 2].max() * 1.05)
-        ax.annotate(f"final LB/UB = {tr[-1, 1] / tr[-1, 2]:.3f}", (tr[-1, 0], tr[-1, 1]), xytext=(-5, -16),
+        ax.annotate(f"final LB/UB = {tr[-1, 1] / tr[-1, 2]:.3f}", (1.0, 0.04), xycoords="axes fraction", xytext=(0, 0),
                     textcoords="offset points", ha="right", fontsize=7, color=INK)
     axs[0].set_ylabel("Rounds to FND")
     h, lab = axs[0].get_legend_handles_labels()

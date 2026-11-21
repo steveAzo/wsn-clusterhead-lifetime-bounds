@@ -67,7 +67,55 @@ def jobs_heavy():
                 J.append((f"verify_{m}_{s}_{seed}", out, re.escape(f"V2 {m} {s} seed {seed} "),
                           ["src/scoping/e8_model_v2.py", m, s, str(seed), "--lp", "--no-sim", "--iters", "800"], "^V2"))
     J.append(("MARK", out, "VERIFY DONE", None, None))
+    return J + jobs_e13_main()
+
+
+SETTINGS13 = [("FO", "centre"), ("CC2420", "centre"), ("nRF52840v3", "edge"), ("nRF52840v3", "centre"), ("FO", "edge"),
+              ("CC2420", "edge"), ("nRF52840v3", "far"), ("FO", "far"), ("CC1101-868", "centre"),
+              ("CC1101-868", "edge"), ("CC1101-868", "far")]
+
+
+def jobs_e13_main():
+    """Revision (2026-11-21): 20 layouts with integer lower bound, ordered by layout so partial results are usable."""
+    J = []
+    out = f"{RES}/e13_main.txt"
+    for seed in range(20):
+        for m, s in SETTINGS13:
+            J.append((f"e13_{m}_{s}_{seed}", out, re.escape(f"R13 {m} {s} seed {seed} n 100 adv one:"),
+                      ["src/scoping/e13_revision.py", m, s, str(seed), "--iters", "800"], "^R13"))
     return J
+
+
+def jobs_rev_light():
+    J = []
+    out = f"{RES}/e12_baselines.txt"
+    for c in ["FO centre", "CC2420 centre", "nRF52840v3 edge", "FO edge", "CC2420 edge", "nRF52840v3 far",
+              "FO far", "nRF52840v3 centre"]:
+        m, s = c.split()
+        J.append((f"e12_{m}_{s}_2", out, re.escape(f"M12 {m} {s} seed 2:"),
+                  ["src/scoping/e12_modern_baselines.py", m, s, "2"], "^M12"))
+    out = f"{RES}/e13_lpsched.txt"
+    for m, s in [("CC2420", "centre"), ("FO", "centre"), ("nRF52840v3", "edge"), ("nRF52840v3", "centre")]:
+        J.append((f"e13b_{m}_{s}_0_rc", out, re.escape(f"LPSCHED {m} {s} seed 0 replan 50 noise 0.0 report-cost:"),
+                  ["src/scoping/e10_lp_protocol.py", m, s, "0", "--iters", "600", "--reiters", "20", "--report-cost"],
+                  "^LPSCHED"))
+        J.append((f"e13b_{m}_{s}_0_real", out,
+                  re.escape(f"LPSCHED {m} {s} seed 0 replan 50 noise 0.1 report-cost delay miss 0.2:"),
+                  ["src/scoping/e10_lp_protocol.py", m, s, "0", "--iters", "600", "--reiters", "20", "--report-cost",
+                   "--delay", "--miss", "0.2", "--noise", "0.1"], "^LPSCHED"))
+    out = f"{RES}/e13_adv.txt"
+    for seed in range(3):
+        for m, s in SETTINGS13[:9]:
+            J.append((f"e13adv_{m}_{s}_{seed}", out, re.escape(f"R13 {m} {s} seed {seed} n 100 adv perch:"),
+                      ["src/scoping/e13_revision.py", m, s, str(seed), "--adv", "perch"], "^R13"))
+    out = f"{RES}/e13_density.txt"
+    for nn in (50, 200):
+        for seed in range(2):
+            for m, s in [("FO", "centre"), ("CC2420", "centre"), ("nRF52840v3", "edge")]:
+                J.append((f"e13n_{m}_{s}_{seed}_{nn}", out, re.escape(f"R13 {m} {s} seed {seed} n {nn} adv one:"),
+                          ["src/scoping/e13_revision.py", m, s, str(seed), "--n", str(nn)], "^R13"))
+    # then help the heavy lane with the main grid from the last layout backwards
+    return J + jobs_e13_main()[::-1]
 
 
 def jobs_e11():
@@ -102,7 +150,7 @@ def jobs_light():
     V = [j for j in jobs_heavy() if j[1].endswith("e8_v2_verify.txt")]
     # after verify, take E10 far-sink jobs from the end of the list (the heavy lane works from the start), 2026-11-21 10:45
     F = [j for j in jobs_heavy() if j[0].startswith("e10_") and "_far_" in j[0]][::-1]
-    return J + jobs_e11() + V + F
+    return J + jobs_e11() + V + F + jobs_rev_light()
 
 
 def avail_mb():
@@ -140,11 +188,22 @@ def main():
             continue
         if has(out, pat):
             continue
-        if lane == "light" and name.startswith(("e11_", "verify_", "e10_")):
+        if lane == "light" and name.startswith(("e11_", "verify_", "e10_", "e13", "e12_")):
             # memory guard: start an E11 job beside the heavy lane only when at least 250 MB is free (idle apps can page out)
             while avail_mb() < 250:
                 open(status, "w").write(f"{now()} waiting for memory before {name} ({avail_mb():.0f} MB free)\n")
                 time.sleep(60)
+        claim = os.path.join(RES, "claims", name)  # revision: the two lanes never run the same job twice
+        os.makedirs(os.path.dirname(claim), exist_ok=True)
+        if name.startswith("e13"):
+            if os.path.exists(claim):
+                try:
+                    other = int(open(claim).read().strip())
+                    if other != os.getpid() and pid_alive(other):
+                        continue
+                except Exception:
+                    pass
+            open(claim, "w").write(str(os.getpid()))
         log = os.path.join(LOGS, name + ".log")
         open(status, "w").write(f"{now()} running {name} (log {log})\n")
         t0 = time.time()

@@ -27,6 +27,9 @@ import e1_radio_model_gate as e1  # noqa: E402
 sys.stdout.reconfigure(encoding="utf-8")
 SINKS = {"far": (50.0, 175.0), "edge": (50.0, 100.0), "centre": (50.0, 50.0)}
 CTRL_BITS = 200  # 25-byte control frame
+ADV_MODE = "one"  # "one": each alive node receives one control frame per clustered round (paper default);
+# "perch": each node receives the advertisement of every CH within range (revision sensitivity, E13)
+PRICE_CALLS = [0, 0]  # [calls, calls not solved to proven optimality] (revision instrumentation)
 PRICE_TIME_LIMIT = 300  # s per pricing MILP; the UB uses the proven dual bound, so it stays valid if the limit binds
 # nRF52840 per the v3.0 product brief (0 dBm 6.40 mA, +8 dBm 16.40 mA, RX 6.26 mA, DC/DC 3 V); intermediate steps are the
 # v2.0 values scaled by 6.40/4.80 (approximate, to be replaced by the product specification table).
@@ -137,7 +140,11 @@ def charges(m, pos, sink, alive, chs, U):
         e[c] += m.agg
         e += U[c]
         e[c] += m.etx_ctrl
-    e[al] += m.erx_ctrl
+        if ADV_MODE == "perch":
+            hear = al[(np.linalg.norm(pos[al] - pos[c], axis=1) <= m.rmax) & (al != c)]
+            e[hear] += m.erx_ctrl
+    if ADV_MODE != "perch":
+        e[al] += m.erx_ctrl
     return e
 
 
@@ -198,6 +205,10 @@ def price_v2(y, m, pos, sink, U):
     c[n:n + na] = y[jj] * tmem[jj, ii] + y[ii] * (m.erx + m.agg)
     c[n + na:n + na + n] = up
     c[-1] = m.erx_ctrl * y.sum()
+    if ADV_MODE == "perch":  # opening CH i charges one reception to every other node within range of i
+        hearm = (d <= m.rmax) & ~np.eye(n, dtype=bool)
+        c[:n] += m.erx_ctrl * (hearm @ y)
+        c[-1] = 0.0
     rows, cols, vals = [], [], []
     r = 0
     # each j: o_j + sum_i a_ij + s_j = 1  (a node that is CH is not a member and not direct)
@@ -223,6 +234,9 @@ def price_v2(y, m, pos, sink, U):
     hi = np.r_[np.ones(eq), np.zeros(r - eq)]
     res = milp(c, constraints=LinearConstraint(M, lo, hi), integrality=np.ones(nv), bounds=Bounds(0, 1),
                options={"mip_rel_gap": 1e-6, "time_limit": PRICE_TIME_LIMIT})
+    PRICE_CALLS[0] += 1
+    if res.status != 0:
+        PRICE_CALLS[1] += 1
     if res.x is None:  # time limit without an incumbent: fall back to the all-direct column, keep the proven bound
         res_x = np.r_[np.zeros(n + na), np.ones(n), 0.0]
     else:
@@ -237,9 +251,11 @@ def price_v2(y, m, pos, sink, U):
     for i in np.flatnonzero(o):
         e += U[i]
         e[i] += m.agg + m.etx_ctrl
+        if ADV_MODE == "perch":
+            e[hearm[i]] += m.erx_ctrl
     for j in np.flatnonzero(x[n + na:n + na + n]):
         e += U[j]
-    if x[-1]:
+    if x[-1] and ADV_MODE != "perch":
         e += m.erx_ctrl
     # Return the solver's proven lower bound on the pricing minimum (equals res.fun when solved to optimality), so that
     # the Farley upper bound E0*sum(y)/value stays valid even if the time limit stops the MILP early.
