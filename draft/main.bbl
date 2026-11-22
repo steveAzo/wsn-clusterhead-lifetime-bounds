@@ -1,0 +1,316 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{Bhardwaj and
+  Chandrakasan(2002)}]{Bhardwaj_Bounding_Lifetime_INFOCOM_2002}
+\bibinfo{author}{Bhardwaj, M.}, \bibinfo{author}{Chandrakasan, A.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Bounding the lifetime of sensor networks via optimal
+  role assignments}, in: \bibinfo{booktitle}{Proceedings of IEEE INFOCOM 2002,
+  the Twenty-First Annual Joint Conference of the IEEE Computer and
+  Communications Societies}, \bibinfo{publisher}{IEEE}. pp.
+  \bibinfo{pages}{1587--1596}.
+\newblock \DOIprefix\doi{10.1109/infcom.2002.1019410}.
+%Type = Article
+\bibitem[{Casta{\~n}o et~al.(2018)Casta{\~n}o, Rossi, Sevaux and
+  Velasco}]{CG_Exact_Lifetime_General_WSN_InfSci}
+\bibinfo{author}{Casta{\~n}o, F.}, \bibinfo{author}{Rossi, A.},
+  \bibinfo{author}{Sevaux, M.}, \bibinfo{author}{Velasco, N.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{An exact approach to extend network lifetime in a
+  general class of wireless sensor networks}.
+\newblock \bibinfo{journal}{Information Sciences} \bibinfo{volume}{433-434},
+  \bibinfo{pages}{274--291}.
+\newblock \DOIprefix\doi{10.1016/j.ins.2017.12.028}.
+%Type = Article
+\bibitem[{Chang and
+  Tassiulas(2004)}]{Chang_Tassiulas_Max_Lifetime_Routing_ToN_2004}
+\bibinfo{author}{Chang, J.H.}, \bibinfo{author}{Tassiulas, L.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Maximum lifetime routing in wireless sensor
+  networks}.
+\newblock \bibinfo{journal}{IEEE/ACM Transactions on Networking}
+  \bibinfo{volume}{12}, \bibinfo{pages}{609--619}.
+\newblock \DOIprefix\doi{10.1109/tnet.2004.833122}.
+%Type = Article
+\bibitem[{Chaurasia et~al.(2023)Chaurasia, Kumar and
+  Kumar}]{EEM_CRP_Sensors_J_2023}
+\bibinfo{author}{Chaurasia, S.}, \bibinfo{author}{Kumar, K.},
+  \bibinfo{author}{Kumar, N.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Eem-crp: Energy-efficient meta-heuristic
+  cluster-based routing protocol for wsns}.
+\newblock \bibinfo{journal}{IEEE Sensors Journal} \bibinfo{volume}{23},
+  \bibinfo{pages}{29679--29693}.
+\newblock \DOIprefix\doi{10.1109/jsen.2023.3322631}.
+%Type = Article
+\bibitem[{Curry and Smith(2016)}]{Survey_Lifetime_Optimization_CIE_2016}
+\bibinfo{author}{Curry, R.M.}, \bibinfo{author}{Smith, J.C.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A survey of optimization algorithms for wireless
+  sensor network lifetime maximization}.
+\newblock \bibinfo{journal}{Computers \& Industrial Engineering}
+  \bibinfo{volume}{101}, \bibinfo{pages}{145--166}.
+\newblock \DOIprefix\doi{10.1016/j.cie.2016.08.028}.
+%Type = Article
+\bibitem[{Del-Valle-Soto et~al.(2023)Del-Valle-Soto, Rodr{\'i}guez and
+  Ascencio-Pi{\~n}a}]{Survey_Metaheuristic_Clustering_AIR_2023}
+\bibinfo{author}{Del-Valle-Soto, C.}, \bibinfo{author}{Rodr{\'i}guez, A.},
+  \bibinfo{author}{Ascencio-Pi{\~n}a, C.R.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{A survey of energy-efficient clustering routing
+  protocols for wireless sensor networks based on metaheuristic approaches}.
+\newblock \bibinfo{journal}{Artificial Intelligence Review}
+  \bibinfo{volume}{56}, \bibinfo{pages}{9699--9770}.
+\newblock \DOIprefix\doi{10.1007/s10462-023-10402-w}.
+%Type = Article
+\bibitem[{Dietrich and
+  Dressler(2009)}]{Dietrich_Dressler_On_Lifetime_TOSN_2009}
+\bibinfo{author}{Dietrich, I.}, \bibinfo{author}{Dressler, F.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{On the lifetime of wireless sensor networks}.
+\newblock \bibinfo{journal}{ACM Transactions on Sensor Networks}
+  \bibinfo{volume}{5}, \bibinfo{pages}{1--39}.
+\newblock \DOIprefix\doi{10.1145/1464420.1464425}.
+%Type = Article
+\bibitem[{Elhabyan and Yagoub(2015)}]{Elhabyan_TPSO_CR_JNCA_2015}
+\bibinfo{author}{Elhabyan, R.S.}, \bibinfo{author}{Yagoub, M.C.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Two-tier particle swarm optimization protocol for
+  clustering and routing in wireless sensor network}.
+\newblock \bibinfo{journal}{Journal of Network and Computer Applications}
+  \bibinfo{volume}{52}, \bibinfo{pages}{116--128}.
+\newblock \DOIprefix\doi{10.1016/j.jnca.2015.02.004}.
+%Type = Misc
+\bibitem[{{Europe PMC Consortium}(2026)}]{EuropePMC_API}
+\bibinfo{author}{{Europe PMC Consortium}}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Europe {PMC} {RESTful} web service}.
+\newblock
+  \bibinfo{howpublished}{\url{https://europepmc.org/RestfulWebService}}.
+\newblock \bibinfo{note}{Accessed 19--20 November 2026}.
+%Type = Inproceedings
+\bibitem[{Fedor and
+  Collier(2007)}]{Fedor_Collier_Multihop_vs_Onehop_AINAW_2007}
+\bibinfo{author}{Fedor, S.}, \bibinfo{author}{Collier, M.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{On the problem of energy efficiency of multi-hop vs
+  one-hop routing in wireless sensor networks}, in: \bibinfo{booktitle}{21st
+  International Conference on Advanced Information Networking and Applications
+  Workshops (AINAW'07)}, \bibinfo{publisher}{IEEE}. pp.
+  \bibinfo{pages}{380--385}.
+\newblock \DOIprefix\doi{10.1109/ainaw.2007.272}.
+%Type = Article
+\bibitem[{Halgamuge et~al.(2009)Halgamuge, Zukerman, Ramamohanarao and
+  Vu}]{Halgamuge_Estimation_Sensor_Energy_PIERB_2009}
+\bibinfo{author}{Halgamuge, M.N.}, \bibinfo{author}{Zukerman, M.},
+  \bibinfo{author}{Ramamohanarao, K.}, \bibinfo{author}{Vu, H.L.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{An estimation of sensor energy consumption}.
+\newblock \bibinfo{journal}{Progress In Electromagnetics Research B}
+  \bibinfo{volume}{12}, \bibinfo{pages}{259--295}.
+\newblock \DOIprefix\doi{10.2528/pierb08122303}.
+%Type = Article
+\bibitem[{Hartono et~al.(2026)Hartono, Mustika and
+  Sulistyo}]{Metaheuristic_Energy_WSN_Review_EAI_2026}
+\bibinfo{author}{Hartono, R.}, \bibinfo{author}{Mustika, I.W.},
+  \bibinfo{author}{Sulistyo, S.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Metaheuristic approaches for energy optimization in
+  wireless sensor networks: A systematic review of trends, challenges, and
+  future directions}.
+\newblock \bibinfo{journal}{EAI Endorsed Transactions on Internet of Things}
+  \bibinfo{volume}{11}.
+\newblock \DOIprefix\doi{10.4108/eetiot.10328}.
+%Type = Article
+\bibitem[{Heinzelman et~al.(2002)Heinzelman, Chandrakasan and
+  Balakrishnan}]{Heinzelman_LEACH_TWC_2002}
+\bibinfo{author}{Heinzelman, W.}, \bibinfo{author}{Chandrakasan, A.},
+  \bibinfo{author}{Balakrishnan, H.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{An application-specific protocol architecture for
+  wireless microsensor networks}.
+\newblock \bibinfo{journal}{IEEE Transactions on Wireless Communications}
+  \bibinfo{volume}{1}, \bibinfo{pages}{660--670}.
+\newblock \DOIprefix\doi{10.1109/twc.2002.804190}.
+%Type = Article
+\bibitem[{Hiranandani et~al.(2013)Hiranandani, Obraczka and
+  Garcia-Luna-Aceves}]{MANET_Simulations_Harmful_WCM_2013}
+\bibinfo{author}{Hiranandani, D.}, \bibinfo{author}{Obraczka, K.},
+  \bibinfo{author}{Garcia-Luna-Aceves, J.J.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Manet protocol simulations considered harmful: the
+  case for benchmarking}.
+\newblock \bibinfo{journal}{IEEE Wireless Communications} \bibinfo{volume}{20},
+  \bibinfo{pages}{82--90}.
+\newblock \DOIprefix\doi{10.1109/mwc.2013.6590054}.
+%Type = Article
+\bibitem[{Huangfu and Hall(2018)}]{HiGHS}
+\bibinfo{author}{Huangfu, Q.}, \bibinfo{author}{Hall, J.A.J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Parallelizing the dual revised simplex method}.
+\newblock \bibinfo{journal}{Mathematical Programming Computation}
+  \bibinfo{volume}{10}, \bibinfo{pages}{119--142}.
+\newblock \DOIprefix\doi{10.1007/s12532-017-0130-5}.
+%Type = Article
+\bibitem[{Khedhiri et~al.(2025)Khedhiri, Ben~Omrane, Djabour and
+  Cherif}]{Clustering_Lifetime_Enhancement_Telecom_2025}
+\bibinfo{author}{Khedhiri, K.}, \bibinfo{author}{Ben~Omrane, I.},
+  \bibinfo{author}{Djabour, D.}, \bibinfo{author}{Cherif, A.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Clustering for lifetime enhancement in wireless
+  sensor networks}.
+\newblock \bibinfo{journal}{Telecom} \bibinfo{volume}{6}, \bibinfo{pages}{30}.
+\newblock \DOIprefix\doi{10.3390/telecom6020030}.
+%Type = Article
+\bibitem[{Kuila and Jana(2014)}]{Kuila_Jana_PSO_Clustering_EAAI_2014}
+\bibinfo{author}{Kuila, P.}, \bibinfo{author}{Jana, P.K.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Energy efficient clustering and routing algorithms
+  for wireless sensor networks: Particle swarm optimization approach}.
+\newblock \bibinfo{journal}{Engineering Applications of Artificial
+  Intelligence} \bibinfo{volume}{33}, \bibinfo{pages}{127--140}.
+\newblock \DOIprefix\doi{10.1016/j.engappai.2014.04.009}.
+%Type = Article
+\bibitem[{Kurkowski et~al.(2005)Kurkowski, Camp and
+  Colagrosso}]{Kurkowski_MANET_Incredibles_MC2R_2005}
+\bibinfo{author}{Kurkowski, S.}, \bibinfo{author}{Camp, T.},
+  \bibinfo{author}{Colagrosso, M.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Manet simulation studies: the incredibles}.
+\newblock \bibinfo{journal}{ACM SIGMOBILE Mobile Computing and Communications
+  Review} \bibinfo{volume}{9}, \bibinfo{pages}{50--61}.
+\newblock \DOIprefix\doi{10.1145/1096166.1096174}.
+%Type = Inproceedings
+\bibitem[{Latiff et~al.(2007)Latiff, Tsimenidis and
+  Sharif}]{PSO_C_Latiff_PIMRC_2007}
+\bibinfo{author}{Latiff, N.M.A.}, \bibinfo{author}{Tsimenidis, C.C.},
+  \bibinfo{author}{Sharif, B.S.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Energy-aware clustering for wireless sensor networks
+  using particle swarm optimization}, in: \bibinfo{booktitle}{2007 IEEE 18th
+  International Symposium on Personal, Indoor and Mobile Radio Communications},
+  \bibinfo{publisher}{IEEE}. pp. \bibinfo{pages}{1--5}.
+\newblock \DOIprefix\doi{10.1109/pimrc.2007.4394521}.
+%Type = Article
+\bibitem[{Lin and Uster(2014)}]{Exact_Heuristic_Cluster_Design_ToN_2013}
+\bibinfo{author}{Lin, H.}, \bibinfo{author}{Uster, H.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Exact and heuristic algorithms for data-gathering
+  cluster-based wireless sensor network design problem}.
+\newblock \bibinfo{journal}{IEEE/ACM Transactions on Networking}
+  \bibinfo{volume}{22}, \bibinfo{pages}{903--916}.
+\newblock \DOIprefix\doi{10.1109/tnet.2013.2262153}.
+%Type = Article
+\bibitem[{Merabtine et~al.(2021)Merabtine, Djenouri and
+  Zegour}]{Energy_Clustering_Review_Access_2021}
+\bibinfo{author}{Merabtine, N.}, \bibinfo{author}{Djenouri, D.},
+  \bibinfo{author}{Zegour, D.E.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Towards energy efficient clustering in wireless
+  sensor networks: A comprehensive review}.
+\newblock \bibinfo{journal}{IEEE Access} \bibinfo{volume}{9},
+  \bibinfo{pages}{92688--92705}.
+\newblock \DOIprefix\doi{10.1109/access.2021.3092509}.
+%Type = Misc
+\bibitem[{{Nordic Semiconductor}(2021)}]{nRF52840_brief}
+\bibinfo{author}{{Nordic Semiconductor}}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{nRF52840} product brief, version 3.0}.
+%Type = Article
+\bibitem[{Sahoo et~al.(2020)Sahoo, Amgoth and
+  Pandey}]{PSO_Clustering_Sink_Mobility_AdHoc_2020}
+\bibinfo{author}{Sahoo, B.M.}, \bibinfo{author}{Amgoth, T.},
+  \bibinfo{author}{Pandey, H.M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Particle swarm optimization based energy efficient
+  clustering and sink mobility in heterogeneous wireless sensor network}.
+\newblock \bibinfo{journal}{Ad Hoc Networks} \bibinfo{volume}{106},
+  \bibinfo{pages}{102237}.
+\newblock \DOIprefix\doi{10.1016/j.adhoc.2020.102237}.
+%Type = Article
+\bibitem[{S{\"o}rensen(2015)}]{Sorensen_Metaphor_Exposed_ITOR_2015}
+\bibinfo{author}{S{\"o}rensen, K.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Metaheuristics---the metaphor exposed}.
+\newblock \bibinfo{journal}{International Transactions in Operational Research}
+  \bibinfo{volume}{22}, \bibinfo{pages}{3--18}.
+\newblock \DOIprefix\doi{10.1111/itor.12001}.
+%Type = Article
+\bibitem[{Swan et~al.(2022)Swan, Adriaensen, Brownlee, Hammond, Johnson,
+  Kheiri, Krawiec, Merelo, Minku, {\"O}zcan, Pappa, Garc{\'i}a-S{\'a}nchez,
+  S{\"o}rensen, Vo{\ss}, Wagner and
+  White}]{Metaheuristics_In_The_Large_EJOR_2021}
+\bibinfo{author}{Swan, J.}, \bibinfo{author}{Adriaensen, S.},
+  \bibinfo{author}{Brownlee, A.E.}, \bibinfo{author}{Hammond, K.},
+  \bibinfo{author}{Johnson, C.G.}, \bibinfo{author}{Kheiri, A.},
+  \bibinfo{author}{Krawiec, F.}, \bibinfo{author}{Merelo, J.},
+  \bibinfo{author}{Minku, L.L.}, \bibinfo{author}{{\"O}zcan, E.},
+  \bibinfo{author}{Pappa, G.L.}, \bibinfo{author}{Garc{\'i}a-S{\'a}nchez, P.},
+  \bibinfo{author}{S{\"o}rensen, K.}, \bibinfo{author}{Vo{\ss}, S.},
+  \bibinfo{author}{Wagner, M.}, \bibinfo{author}{White, D.R.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Metaheuristics ``in the large''}.
+\newblock \bibinfo{journal}{European Journal of Operational Research}
+  \bibinfo{volume}{297}, \bibinfo{pages}{393--406}.
+\newblock \DOIprefix\doi{10.1016/j.ejor.2021.05.042}.
+%Type = Misc
+\bibitem[{{Texas Instruments}(2013)}]{CC2420_datasheet}
+\bibinfo{author}{{Texas Instruments}}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{CC2420}: 2.4 {GHz} {IEEE} 802.15.4/{ZigBee}-ready
+  {RF} transceiver, data sheet {SWRS041C}}.
+%Type = Misc
+\bibitem[{{Texas Instruments}(2015)}]{CC1101_datasheet}
+\bibinfo{author}{{Texas Instruments}}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{CC1101}: low-power sub-1 {GHz} {RF} transceiver,
+  data sheet {SWRS061I}}.
+%Type = Article
+\bibitem[{T{\"u}rko{\u g}ullar{\i} et~al.(2010)T{\"u}rko{\u g}ullar{\i}, Aras,
+  Alt{\i}nel and Ersoy}]{CG_Placement_Scheduling_Routing_EJOR_2010}
+\bibinfo{author}{T{\"u}rko{\u g}ullar{\i}, Y.B.}, \bibinfo{author}{Aras, N.},
+  \bibinfo{author}{Alt{\i}nel, {\.I}.K.}, \bibinfo{author}{Ersoy, C.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{A column generation based heuristic for sensor
+  placement, activity scheduling and data routing in wireless sensor networks}.
+\newblock \bibinfo{journal}{European Journal of Operational Research}
+  \bibinfo{volume}{207}, \bibinfo{pages}{1014--1026}.
+\newblock \DOIprefix\doi{10.1016/j.ejor.2010.05.020}.
+%Type = Article
+\bibitem[{Yetgin et~al.(2015)Yetgin, Cheung, El-Hajjar and
+  Hanzo}]{Lifetime_Maximization_Access_2015}
+\bibinfo{author}{Yetgin, H.}, \bibinfo{author}{Cheung, K.T.K.},
+  \bibinfo{author}{El-Hajjar, M.}, \bibinfo{author}{Hanzo, L.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Network-lifetime maximization of wireless sensor
+  networks}.
+\newblock \bibinfo{journal}{IEEE Access} \bibinfo{volume}{3},
+  \bibinfo{pages}{2191--2226}.
+\newblock \DOIprefix\doi{10.1109/access.2015.2493779}.
+%Type = Article
+\bibitem[{Younis and Fahmy(2004)}]{HEED_TMC_2004}
+\bibinfo{author}{Younis, O.}, \bibinfo{author}{Fahmy, S.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Heed: a hybrid, energy-efficient, distributed
+  clustering approach for ad hoc sensor networks}.
+\newblock \bibinfo{journal}{IEEE Transactions on Mobile Computing}
+  \bibinfo{volume}{3}, \bibinfo{pages}{366--379}.
+\newblock \DOIprefix\doi{10.1109/tmc.2004.41}.
+%Type = Inproceedings
+\bibitem[{Zhang and Hou(2004)}]{Alpha_Lifetime_Bound_MobiHoc_2004}
+\bibinfo{author}{Zhang, H.}, \bibinfo{author}{Hou, J.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{On deriving the upper bound of $\alpha$-lifetime for
+  large sensor networks}, in: \bibinfo{booktitle}{Proceedings of the 5th ACM
+  international symposium on Mobile ad hoc networking and computing},
+  \bibinfo{publisher}{ACM}. pp. \bibinfo{pages}{121--132}.
+\newblock \DOIprefix\doi{10.1145/989459.989475}.
+%Type = Inproceedings
+\bibitem[{Zhou et~al.(2004)Zhou, He, Krishnamurthy and
+  Stankovic}]{Zhou_Radio_Irregularity_MobiSys_2004}
+\bibinfo{author}{Zhou, G.}, \bibinfo{author}{He, T.},
+  \bibinfo{author}{Krishnamurthy, S.}, \bibinfo{author}{Stankovic, J.A.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Impact of radio irregularity on wireless sensor
+  networks}, in: \bibinfo{booktitle}{Proceedings of the 2nd international
+  conference on Mobile systems, applications, and services},
+  \bibinfo{publisher}{ACM}. pp. \bibinfo{pages}{125--138}.
+\newblock \DOIprefix\doi{10.1145/990064.990081}.
+
+\end{thebibliography}
