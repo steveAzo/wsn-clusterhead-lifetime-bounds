@@ -83,8 +83,12 @@ def main():
                    f" & {ilb:.0f} & {lb:.0f} & {ub:.0f} & {min(iu):.3f} \\\\")
         var.append(f"{NAME[m]} & {s} & {np.mean(best):.2f} & {np.std(best, ddof=1):.3f} & {lo:.2f}--{hi:.2f} & "
                    f"{med:.2f} ({q1:.2f}--{q3:.2f}) & {min(best):.2f}--{max(best):.2f} & {PNAME[top]} ({wc[top]}/{len(R)}) "
-                   f"& {np.mean(pso):.2f} \\\\")
+                   f"& {np.mean(pso):.2f} & {np.mean([(max(r[p] for p in P) - 1) / r['ILB'] for r in R]):.2f} \\\\")
+        # conservative gap: ILB is a feasible whole-round schedule, so the best protocol loses at least 1 - (FND-1)/ILB
+        bilb = [(max(r[p] for p in P) - 1) / r["ILB"] for r in R]
+        capped = sum(1 for r in R if r["LB"] / r["UB"] < 0.98)
         txt[(m, s)] = dict(best=np.mean(best), bmin=min(best), bmax=max(best), top=top, wc=wc[top], n=len(R),
+                           bilb=np.mean(bilb), bilbmax=max(bilb), capped=capped,
                            pso=np.mean(pso), mean=mean, ilb=ilb, ub=ub)
     open("draft/tab_gap_body.tex", "w", encoding="utf-8").write("\n".join(gap) + "\n")
     open("draft/tab_var_body.tex", "w", encoding="utf-8").write("\n".join(var) + "\n")
@@ -121,7 +125,8 @@ def main():
             w = max(P, key=lambda p: np.mean([dn[k][p] for k in ks]))
             ps = np.mean([dn[k]["PSOC"] / dn[k]["UB"] for k in ks])
             rows.append(f"{nn} & {NAME[m]} & {s} & {np.mean([dn[k]['UB'] for k in ks]):.0f} & {np.mean(b):.2f} ({PNAME[w]}) & "
-                        f"{ps:.2f} & {min(dn[k]['ILB'] / dn[k]['UB'] for k in ks):.3f} \\\\")
+                        f"{ps:.2f} & {min(dn[k]['ILB'] / dn[k]['UB'] for k in ks):.3f} & "
+                        f"{np.mean([(max(dn[k][p] for p in P) - 1) / dn[k]['ILB'] for k in ks]):.2f} \\\\")
             print("DENS", rows[-1])
     open("draft/tab_density_body.tex", "w", encoding="utf-8").write("\n".join(rows) + "\n")
     # ---- LP schedule variants (layout 0) ----

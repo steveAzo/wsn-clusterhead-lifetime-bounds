@@ -114,8 +114,20 @@ def load_lp():
     return d
 
 
+def load_e13():
+    """E13 main grid (20 layouts): {(radio, sink, seed): (protocol FNDs, ILB, UB)}."""
+    d = {}
+    for l in open("results/e13_main.txt", encoding="utf-8"):
+        m = re.match(r"R13 (\S+) (\S+) seed (\d+) n 100 adv one: DIRECT=(\d+) LEACH=(\d+) KMRE=(\d+) PSOC=(\d+) "
+                     r"LB=\S+ UB=([\d.]+) ILB=(\d+)", l)
+        if m:
+            d[(m[1], m[2], int(m[3]))] = (dict(zip(["DIRECT", "LEACH", "KMRE", "PSOC"], map(int, m.groups()[3:7]))),
+                                          int(m[9]), float(m[8]))
+    return d
+
+
 def fig_gap():
-    e8, lp = load_e8(), load_lp()
+    e8, lp = load_e13(), load_lp()
     radios = [("FO", "First-order model"), ("CC2420", "CC2420 (2.4 GHz)"), ("nRF52840v3", "nRF52840 (2.4 GHz)"),
               ("CC1101-868", "CC1101 (868 MHz)")]
     sinks = ["far", "edge", "centre"]
@@ -124,7 +136,7 @@ def fig_gap():
     bw = 0.15
     for ax, (rad, title) in zip(axs, radios):
         for gi, s in enumerate(sinks):
-            keys = [(rad, s, i) for i in range(3) if (rad, s, i) in e8]
+            keys = [k for k in e8 if k[0] == rad and k[1] == s]
             if not keys:
                 ax.text(gi, 0.04, "not\nreachable", ha="center", va="bottom", fontsize=7, color=MUTED)
                 continue
@@ -138,13 +150,14 @@ def fig_gap():
                 x = gi + (si - 2) * bw
                 ax.bar(x, np.mean(vals), width=bw, color=C[st], ec="white", lw=0.8, hatch=HATCH[st],
                        label=LBL[st] if gi == 0 or (rad == "FO" and gi == 0) else None)
+                ax.scatter(np.full(len(vals), x), vals, s=2.5, color=INK, lw=0, alpha=0.55, zorder=3)
             lbub = np.mean([e8[k][1] / e8[k][2] for k in keys])
-            ax.plot([gi - 2.6 * bw, gi + 2.6 * bw], [lbub, lbub], color=INK, lw=0.9, ls="--")
+            ax.plot([gi - 2.6 * bw, gi + 2.6 * bw], [lbub, lbub], color=INK, lw=0.9, ls="--")  # mean ILB/UB
         ax.set_xticks(range(3), sinks); ax.set_title(title, color=INK); ax.set_ylim(0, 1.05)
         ax.grid(axis="x", visible=False)
     axs[0].set_ylabel("FND / UB (mean of layouts)")
     h, lab = axs[0].get_legend_handles_labels()
-    h.append(plt.Line2D([], [], color=INK, lw=0.9, ls="--")); lab.append("LB / UB")
+    h.append(plt.Line2D([], [], color=INK, lw=0.9, ls="--")); lab.append("ILB / UB")
     fig.legend(h, lab, loc="upper center", ncol=6, frameon=False, bbox_to_anchor=(0.5, 1.08))
     fig.tight_layout(); fig.savefig(f"{FIG}/fig_gap.pdf"); plt.close(fig)
 

@@ -1,0 +1,8 @@
+LPSCHED CC2420 centre seed 0 replan 50 noise 0.0 report-cost: FND 456
+LPSCHED CC2420 centre seed 0 replan 50 noise 0.1 report-cost delay miss 0.2: FND 404
+LPSCHED FO centre seed 0 replan 50 noise 0.0 report-cost: FND 1673
+LPSCHED FO centre seed 0 replan 50 noise 0.1 report-cost delay miss 0.2: FND 1486
+LPSCHED nRF52840v3 edge seed 0 replan 50 noise 0.0 report-cost: FND 1387
+LPSCHED nRF52840v3 edge seed 0 replan 50 noise 0.1 report-cost delay miss 0.2: FND 1322
+LPSCHED nRF52840v3 centre seed 0 replan 50 noise 0.0 report-cost: FND 1751
+LPSCHED nRF52840v3 centre seed 0 replan 50 noise 0.1 report-cost delay miss 0.2: FND 1530
