@@ -94,6 +94,9 @@ def main():
     open("draft/tab_var_body.tex", "w", encoding="utf-8").write("\n".join(var) + "\n")
     print(f"N={len(L)}  ILB/UB min {min(ilb_ub_all):.4f} median {np.median(ilb_ub_all):.4f}; "
           f"LB/UB min {min(lb_ub_all):.4f}; ILB/LB min {min(ilb_lb_all):.4f}; pricing calls not optimal: {nonopt}")
+    iu, lu = np.array(ilb_ub_all), np.array(lb_ub_all)
+    print(f"cases {len(iu)}: LB/UB >= 0.98 in {(lu >= 0.98).sum()}; ILB/UB >= 0.95 in {(iu >= 0.95).sum()}, "
+          f">= 0.98 in {(iu >= 0.98).sum()}; median ILB-UB gap {100 * (1 - np.median(iu)):.1f}%")
     for k, v in txt.items():
         print(k, {a: (round(b, 3) if isinstance(b, float) else b) for a, b in v.items() if a != "mean"},
               {p: round(x) for p, x in v["mean"].items()})

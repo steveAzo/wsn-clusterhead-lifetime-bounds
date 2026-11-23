@@ -23,9 +23,9 @@ so they can be matched after renumbering.
 | Prior exact approaches (`tab:prior`) | literature | none | none |
 | Radio models (`tab:radios`) | parameters | none | constants in `src/scoping/e1_radio_model_gate.py` (`RADIOS`) and `src/scoping/e8_model_v2.py` (`EXTRA_RADIOS`) |
 | nRF52840 power steps (`tab:nrf`) | parameters | none | constants as above; range and energy from the link budget in `e8_model_v2.Model` |
-| Audit (`tab:audit`) | E9 audit | `papers/audit/coding.csv` | `make_figures.py` (`fig_audit`) prints the counts and Wilson intervals |
+| Audit (`tab:audit`) | E9 audit | `papers/audit/coding.csv` | counts from the file; `make_figures.py` (`fig_audit`) plots the same counts with Wilson intervals |
 | Audit coding sheet (`tab:coding`, appendix) | E9 audit | `papers/audit/coding.csv` | `src/paper/make_audit_table.py` |
-| Coder agreement (text, Section 3.1) | second coder | `papers/audit/coding.csv`, `sample80.csv`, `second_coder/coder2.csv` | `src/lit/audit_kappa.py` |
+| Coder agreement (text, audit method) | second coder | `papers/audit/coding.csv`, `sample80.csv`, `second_coder/coder2.csv` | `src/lit/audit_kappa.py` |
 | FND and bounds (`tab:gap`) | E13, 20 layouts | `results/e13_main.txt` | `src/paper/e13_tables.py` |
 | Spread across layouts (`tab:var`) | E13 | `results/e13_main.txt` | `src/paper/e13_tables.py` |
 | Paired comparisons (`tab:paired`) | E13 | `results/e13_main.txt` | `src/paper/e15_paired.py` |
@@ -43,7 +43,7 @@ so they can be matched after renumbering.
 | Statement | Result file | Script |
 |---|---|---|
 | Bound gaps over the 220 cases (LB_LP/UB, ILB/LB_LP, ILB/UB) and pricing calls solved to optimality | `results/e13_main.txt` | `src/paper/e13_tables.py` (prints them) |
-| nRF52840 with the unscaled version 2.0 currents (Section 4.3) | `results/e14b_nrf_v2.txt`, `results/e13_main.txt` | `src/paper/e15_nrf_v2.py` |
+| nRF52840 with the unscaled version 2.0 currents (regime map) | `results/e14b_nrf_v2.txt`, `results/e13_main.txt` | `src/paper/e15_nrf_v2.py` |
 | Re-plan time per plan (median 8 s) | run logs (not published, machine-specific) | stderr of `src/scoping/e10_lp_protocol.py` |
 
 ## How the result files were produced

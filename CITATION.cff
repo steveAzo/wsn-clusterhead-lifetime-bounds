@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or these results, please cite the archive below (and the paper, once published)."
-title: "wsn-clusterhead-lifetime-bounds: code and results for 'Exact lifetime bounds and an audit of evaluation practice for cluster-head selection in wireless sensor networks'"
+title: "wsn-clusterhead-lifetime-bounds: code and results for 'Certified lifetime bounds and an audit of evaluation practice for cluster-head selection in wireless sensor networks'"
 version: v1.0.0
-date-released: 2026-11-21
+date-released: 2026-11-23
 license: MIT
 repository-code: "https://github.com/steveAzo/wsn-clusterhead-lifetime-bounds"
 authors:
