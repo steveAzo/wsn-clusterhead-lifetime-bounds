@@ -1,0 +1,5 @@
+key,year,batch,ch_protocol,energy_model,sink,datasheet_sim,bound_or_optimum,idle_listening_modelled,direct_baseline,note
+PMC8912138,2022,sens,1,FO,unstated,0,0,0,0,PSPCM; firefly CH selection inside routing; Cooja Z1 (CC2420) for packets but energy from Heinzelman first-order model
+PMC11244488,2024,sens,1,NONE,unstated,0,0,0,0,density-based CH selection in trust-based secure aggregation; no energy model stated
+PMC12789678,2025,sens,1,FO,unstated,0,0,0,0,CRSN CH selection; E_el / E_fs / E_mp form
+PMC9028440,2022,sens,1,NONE,centre,0,0,0,0,k-means clusters with CH in industrial safety IWSN; sink at network centre

@@ -1,0 +1,21 @@
+pmcid,doi,title,ch_protocol(1/0),energy_model(FO/other/none),sink(centre/edge/outside/none),datasheet_sim(1/0),bound_or_optimum(1/0),idle_listening_modelled(1/0),direct_baseline(1/0)
+PMC10007446,10.3390/s23052427,Machine Learning Analytic-Based Two-Staged Data Management Framework for Internet of Things.,0,,,,,,
+PMC10422326,10.3390/s23156759,AODV-EOCW: An Energy-Optimized Combined Weighting AODV Protocol for Mobile Ad Hoc Networks.,0,,,,,,
+PMC11623227,10.7717/peerj-cs.2269,Enhancing energy balance in wireless sensor networks through optimized minimum spanning tree.,1,FO,centre,0,0,0,0
+PMC11837279,10.1002/vms3.70252,Interpretable Artificial Intelligence for Analysing Changes in Gases in the Uterine Environment of Cows According to Physiological Structures in the Ovary.,0,,,,,,
+PMC11941670,10.3390/e27030256,Slot Allocation Protocol for UAV Swarm Ad Hoc Networks: A Distributed Coalition Formation Game Approach.,0,,,,,,
+PMC12559384,10.1038/s41598-025-21653-8,Optimized energy efficient clustering in WSNs through modified zebra optimization.,1,FO,centre,0,0,0,0
+PMC12569079,10.1038/s41598-025-21501-9,Quantum adaptive clonal genetic algorithm for low-energy clustering in agricultural WSNs.,1,FO,none,0,0,0,0
+PMC13013947,10.1038/s41598-026-40378-w,Intelligent fire detection in agriculture using machine learning and embedded systems for risk prevention and improved sustainability.,0,,,,,,
+PMC13168505,10.1038/s41598-026-45139-3,Intelligent power underwater wireless sensor networks for marine environmental monitoring using a hybrid marine predator-Henry gas solubility optimization approach.,1,FO,centre,0,0,1,0
+PMC13307351,10.3390/s26123915,An Event-Driven Self-Healing Routing and Topology Maintenance Mechanism for Surface-Deployed Wireless Sensor Networks in Ocean Environments.,1,other,edge,0,0,0,0
+PMC13365567,10.1038/s41598-026-47085-6,Adaptive tree-reinforced clustering using hierarchical social relations and Q-learning in dynamic data environments.,1,none,centre,0,0,0,0
+PMC13434459,10.1038/s41598-026-52619-z,Spatio-temporal multi-fault and severity aware diagnosis in WSN via GNN transformers.,0,,,,,,
+PMC13538490,10.1038/s41598-026-57702-z,Quantum-inspired hybrid optimization framework for energy-efficient clustering and routing in wireless sensor networks.,1,FO,edge,0,0,0,0
+PMC13708764,10.3390/s26206530,FlowerSec: An AI-Enhanced Security Framework for Clustered Wireless Sensor Networks.,1,other,none,0,0,0,0
+PMC7825674,10.3390/s21020359,Hyperledger Fabric Blockchain for Securing the Edge Internet of Things.,0,,,,,,
+PMC8380017,10.1007/s11277-021-08780-x,Performance Evaluation of Multilayer Clustering Network Using Distributed Energy Efficient Clustering with Enhanced Threshold Protocol.,1,FO,centre,0,0,0,0
+PMC8507477,10.7717/peerj-cs.673,A survey of Sybil attack countermeasures in IoT-based wireless sensor networks.,0,,,,,,
+PMC9019391,10.1155/2022/8173372,Hybrid Block-Based Lightweight Machine Learning-Based Predictive Models for Quality Preserving in the Internet of Things- (IoT-) Based Medical Images with Diagnostic Applications.,0,,,,,,
+PMC9028440,10.3390/s22082897,K-Means Clustering-Based Safety System in Large-Scale Industrial Site Using Industrial Wireless Sensor Networks.,1,none,centre,0,0,0,0
+PMC9331325,10.3390/s22155551,"Software-Defined Networking: Categories, Analysis, and Future Directions.",0,,,,,,

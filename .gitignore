@@ -5,6 +5,12 @@ papers/audit/*
 !papers/audit/audit.csv
 !papers/audit/coding.csv
 !papers/audit/sample.jsonl
+!papers/audit/all655_ids.txt
+!papers/audit/sample80.csv
+!papers/audit/coding_borderline.csv
+!papers/audit/second_coder/
+papers/audit/second_coder/*
+!papers/audit/second_coder/coder2.csv
 
 # ---- Datasets from early scoping (not used by the paper's results)
 data/
@@ -47,6 +53,11 @@ src/scoping/run_e12_now.sh
 src/scoping/run_e8_all.sh
 src/scoping/run_e8_verify.sh
 src/scoping/launch_all.sh
+src/scoping/run_e14.sh
+src/scoping/run_e14b.sh
+src/scoping/run_e14_all.sh
+src/scoping/launch_e14.sh
+src/scoping/launch_e14b.sh
 *.bak
 
 # ---- Run logs, locks, and status files (machine-specific)
@@ -54,6 +65,8 @@ results/logs/
 results/orch_*
 results/runner_*
 results/e10_last.log
+results/*_last.log
+results/claims/
 results/fig_data_run.log
 
 # ---- Manuscript sources and builds (not public before publication); the figures in draft/figs/ are published

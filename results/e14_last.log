@@ -1,3 +1,0 @@
-  round 0: plan value 381.1, columns 601, plan time 191.9s
-  round 200: plan value 166.4, columns 621, plan time 5.1s
-LPSCHED CC2420 edge seed 0 replan 200 noise 0.1 report-cost delay miss 0.2: FND 295
