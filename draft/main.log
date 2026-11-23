@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.23)  22 NOV 2026 20:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.23)  23 NOV 2026 07:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,7 +522,12 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 8.
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) (sec_background.tex [3] [4]) (sec_method.tex
+)) (sec_background.tex [3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+[4]) (sec_method.tex
 Underfull \hbox (badness 1354) in paragraph at lines 7--8
 \T1/ptm/m/n/12 PMC ([]Eu-rope PMC Con-sor-tium[], []2026[]) with pub-li-ca-tion
  years 2021--2026
@@ -534,79 +539,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[5]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
-[6]
-<figs/fig_deployment.pdf, id=312, 177.88394pt x 294.92453pt>
+[5] [6] [7]
+<figs/fig_deployment.pdf, id=323, 177.88394pt x 294.92453pt>
 File: figs/fig_deployment.pdf Graphic file (type pdf)
 <use figs/fig_deployment.pdf>
 Package pdftex.def Info: figs/fig_deployment.pdf  used on input line 43.
 (pdftex.def)             Requested size: 163.79929pt x 271.58136pt.
-[7] [8 <./figs/fig_deployment.pdf>] [9] [10]
-<figs/fig_cg.pdf, id=372, 438.27928pt x 166.60316pt>
+[8 <./figs/fig_deployment.pdf>] [9] [10] [11]
+<figs/fig_cg.pdf, id=390, 438.27928pt x 166.60316pt>
 File: figs/fig_cg.pdf Graphic file (type pdf)
 <use figs/fig_cg.pdf>
-Package pdftex.def Info: figs/fig_cg.pdf  used on input line 129.
+Package pdftex.def Info: figs/fig_cg.pdf  used on input line 149.
 (pdftex.def)             Requested size: 390.0pt x 148.25854pt.
-[11 <./figs/fig_cg.pdf>]) (sec_results.tex [12]
-<figs/fig_audit.pdf, id=395, 349.56537pt x 206.72797pt>
+[12] [13 <./figs/fig_cg.pdf>]) (sec_results.tex [14]
+<figs/fig_audit.pdf, id=426, 349.56537pt x 206.72797pt>
 File: figs/fig_audit.pdf Graphic file (type pdf)
 <use figs/fig_audit.pdf>
 Package pdftex.def Info: figs/fig_audit.pdf  used on input line 11.
 (pdftex.def)             Requested size: 312.00119pt x 184.51408pt.
-<figs/fig_gap.pdf, id=400, 438.2912pt x 184.3456pt>
+[15 <./figs/fig_audit.pdf>]
+<figs/fig_gap.pdf, id=446, 438.2912pt x 184.3456pt>
 File: figs/fig_gap.pdf Graphic file (type pdf)
 <use figs/fig_gap.pdf>
 Package pdftex.def Info: figs/fig_gap.pdf  used on input line 48.
 (pdftex.def)             Requested size: 390.0pt x 164.03612pt.
-[13 <./figs/fig_audit.pdf>] [14 <./figs/fig_gap.pdf>] (tab_gap_body.tex) (tab_v
-ar_body.tex) [15] [16]
-<figs/fig_alive.pdf, id=498, 437.28717pt x 191.66519pt>
+[16] (tab_gap_body.tex) (tab_var_body.tex) [17 <./figs/fig_gap.pdf>] [18] (tab_
+paired_body.tex)
+<figs/fig_alive.pdf, id=529, 437.28717pt x 191.66519pt>
 File: figs/fig_alive.pdf Graphic file (type pdf)
 <use figs/fig_alive.pdf>
-Package pdftex.def Info: figs/fig_alive.pdf  used on input line 93.
+Package pdftex.def Info: figs/fig_alive.pdf  used on input line 113.
 (pdftex.def)             Requested size: 390.0pt x 170.93828pt.
-[17 <./figs/fig_alive.pdf>] [18]
-<figs/fig_residual.pdf, id=523, 324.39569pt x 164.09761pt>
+[19] [20 <./figs/fig_alive.pdf>] (tab_baselines_body.tex) [21] [22]
+<figs/fig_residual.pdf, id=572, 324.39569pt x 164.09761pt>
 File: figs/fig_residual.pdf Graphic file (type pdf)
 <use figs/fig_residual.pdf>
-Package pdftex.def Info: figs/fig_residual.pdf  used on input line 143.
+Package pdftex.def Info: figs/fig_residual.pdf  used on input line 177.
 (pdftex.def)             Requested size: 292.5pt x 147.97192pt.
-[19 <./figs/fig_residual.pdf>] (tab_lpvar_body.tex) [20] [21] (tab_adv_body.tex
-) (tab_density_body.tex) [22]) (sec_discussion.tex [23]) (sec_conclusion.tex
-Underfull \hbox (badness 1142) in paragraph at lines 27--1
+[23 <./figs/fig_residual.pdf>] (tab_lpvar_body.tex) [24] (tab_replan_body.tex) 
+[25] (tab_adv_body.tex) (tab_density_body.tex) [26]) (sec_discussion.tex [27] [
+28] [29]
+Underfull \hbox (badness 1142) in paragraph at lines 29--30
 []\T1/ptm/m/n/12 Finally, the bound sched-ule was demon-strated in sim-u-la-tio
 n, not as a
  []
 
-[24]) (sec_backmatter.tex [25]) (sec_appendix.tex [26] (tab_audit_coding.tex)) 
-[27] [28] (main.bbl [29
+) (sec_conclusion.tex) (sec_backmatter.tex [30]) (sec_appendix.tex [31] (tab_au
+dit_coding.tex)) [32] [33] (main.bbl [34
 
 ]
-Underfull \hbox (badness 1430) in paragraph at lines 154--162
+Underfull \hbox (badness 1430) in paragraph at lines 169--177
 []\T1/ptm/m/n/12 Huangfu, Q., Hall, J.A.J., 2018.  Par-al-leliz-ing the dual re
 -vised sim-plex
  []
 
-[30] [31]) [32] (main.aux)
+[35] [36]) [37] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3E717FA131DF4DCD80F50FBA4BE09A15;5671.
+(rerunfilecheck)             Checksum: CBB49D3C91C5E2D3A48A406064B4CB50;5723.
  ) 
 Here is how much of TeX's memory you used:
- 12442 strings out of 467871
- 192899 string characters out of 5418859
- 621829 words of memory out of 5000000
- 40926 multiletter control sequences out of 15000+600000
- 709746 words of font info for 192 fonts, out of 8000000 for 9000
+ 12487 strings out of 467871
+ 193760 string characters out of 5418859
+ 626028 words of memory out of 5000000
+ 40943 multiletter control sequences out of 15000+600000
+ 711998 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1534b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,2263b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1
 200.pk><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -619,9 +621,9 @@ ms/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/User/AppData/Local/Programs
 iKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/User/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (32 pages, 527868 bytes).
+Output written on main.pdf (37 pages, 555856 bytes).
 PDF statistics:
- 810 PDF objects out of 1000 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
+ 876 PDF objects out of 1000 (max. 8388607)
+ 150 named destinations out of 1000 (max. 500000)
  279 words of extra memory for PDF output out of 10000 (max. 10000000)
 

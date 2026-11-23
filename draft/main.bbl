@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{36}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -97,6 +97,14 @@
 \newblock
   \bibinfo{howpublished}{\url{https://europepmc.org/RestfulWebService}}.
 \newblock \bibinfo{note}{Accessed 19--20 November 2026}.
+%Type = Article
+\bibitem[{Farley(1990)}]{Farley_Bound_OR_1990}
+\bibinfo{author}{Farley, A.A.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{A note on bounding a class of linear programming
+  problems, including cutting stock problems}.
+\newblock \bibinfo{journal}{Operations Research} \bibinfo{volume}{38},
+  \bibinfo{pages}{922--923}.
+\newblock \DOIprefix\doi{10.1287/opre.38.5.922}.
 %Type = Inproceedings
 \bibitem[{Fedor and
   Collier(2007)}]{Fedor_Collier_Multihop_vs_Onehop_AINAW_2007}
@@ -139,6 +147,13 @@
 \newblock \bibinfo{journal}{IEEE Transactions on Wireless Communications}
   \bibinfo{volume}{1}, \bibinfo{pages}{660--670}.
 \newblock \DOIprefix\doi{10.1109/twc.2002.804190}.
+%Type = Misc
+\bibitem[{{HiGHS development team}(2026)}]{HiGHS_software}
+\bibinfo{author}{{HiGHS development team}}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{{HiGHS}: high-performance software for linear
+  optimisation}.
+\newblock \bibinfo{howpublished}{\url{https://highs.dev}, used through {SciPy}
+  1.17.1}.
 %Type = Article
 \bibitem[{Hiranandani et~al.(2013)Hiranandani, Obraczka and
   Garcia-Luna-Aceves}]{MANET_Simulations_Harmful_WCM_2013}
@@ -273,6 +288,22 @@
 \newblock \bibinfo{journal}{European Journal of Operational Research}
   \bibinfo{volume}{207}, \bibinfo{pages}{1014--1026}.
 \newblock \DOIprefix\doi{10.1016/j.ejor.2010.05.020}.
+%Type = Article
+\bibitem[{Virtanen et~al.(2020)}]{SciPy_NM_2020}
+\bibinfo{author}{Virtanen, P.}, et~al., \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{SciPy} 1.0: fundamental algorithms for scientific
+  computing in {Python}}.
+\newblock \bibinfo{journal}{Nature Methods} \bibinfo{volume}{17},
+  \bibinfo{pages}{261--272}.
+\newblock \DOIprefix\doi{10.1038/s41592-019-0686-2}.
+%Type = Article
+\bibitem[{Wentges(1997)}]{Wentges_Smoothing_ITOR_1997}
+\bibinfo{author}{Wentges, P.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Weighted {Dantzig--Wolfe} decomposition for linear
+  mixed-integer programming}.
+\newblock \bibinfo{journal}{International Transactions in Operational Research}
+  \bibinfo{volume}{4}, \bibinfo{pages}{151--162}.
+\newblock \DOIprefix\doi{10.1111/j.1475-3995.1997.tb00071.x}.
 %Type = Article
 \bibitem[{Yetgin et~al.(2015)Yetgin, Cheung, El-Hajjar and
   Hanzo}]{Lifetime_Maximization_Access_2015}
