@@ -4,7 +4,7 @@ Code, data, and results for the paper "Certified lifetime bounds and an audit of
 wireless sensor networks" by Kofi Sarpong Adu-Manu and Stephen Kwaku Azongo (Department of Computer Science, University of Ghana),
 submitted to the Journal of Network and Computer Applications.
 
-Cite as: see `CITATION.cff`. Licence: MIT for the code; CC BY 4.0 for the results, the audit data, and the figures (see `LICENSE`).
+Cite as: see `CITATION.cff`. Archive of v1.0.0: https://doi.org/10.5281/zenodo.24459397 (all versions: https://doi.org/10.5281/zenodo.24459396). Licence: MIT for the code; CC BY 4.0 for the results, the audit data, and the figures (see `LICENSE`).
 `MANIFEST.md` links every table, figure, and number in the paper to its result file and script.
 
 ## In brief
