@@ -131,13 +131,13 @@ def main():
     open("draft/tab_density_body.tex", "w", encoding="utf-8").write("\n".join(rows) + "\n")
     # ---- LP schedule variants (layout 0) ----
     e10 = {}
-    for path in ("results/e10_lp_protocol.txt", "results/e13_lpsched.txt"):
+    for path in ("results/e10_lp_protocol.txt", "results/e13_lpsched.txt", "results/e14_replan.txt"):
         for l in (open(path, encoding="utf-8") if __import__("os").path.exists(path) else []):
             mm = re.match(r"LPSCHED (\S+) (\S+) seed (\d) replan 50 noise (\S+)(.*): FND (\d+)", l)
             if mm:
                 e10[(mm[1], mm[2], int(mm[3]), mm[4], mm[5].strip())] = int(mm[6])
     rows = []
-    for m, s in [("FO", "centre"), ("CC2420", "centre"), ("nRF52840v3", "edge"), ("nRF52840v3", "centre")]:
+    for m, s in [("FO", "centre"), ("CC2420", "edge"), ("CC2420", "centre"), ("nRF52840v3", "edge"), ("nRF52840v3", "centre")]:
         k = (m, s, 0)
         if k not in d:
             continue

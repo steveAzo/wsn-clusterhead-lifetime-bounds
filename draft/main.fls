@@ -440,10 +440,10 @@ INPUT .\tab_audit_coding.tex
 INPUT .\tab_audit_coding.tex
 INPUT tab_audit_coding.tex
 INPUT C:\Users\User\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\User\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT C:\Users\User\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

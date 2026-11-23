@@ -138,7 +138,10 @@ def fig_gap():
         for gi, s in enumerate(sinks):
             keys = [k for k in e8 if k[0] == rad and k[1] == s]
             if not keys:
-                ax.text(gi, 0.04, "not\nreachable", ha="center", va="bottom", fontsize=7, color=MUTED)
+                ax.axvspan(gi - 2.6 * bw, gi + 2.6 * bw, color=MUTED, alpha=0.12, lw=0)
+                ax.text(gi, 0.04, "infeasible:\nno node\nreaches\nthe sink", ha="center", va="bottom", fontsize=6.5,
+                        color=INK)
+
                 continue
             for si, st in enumerate(strat):
                 if st == "LP":

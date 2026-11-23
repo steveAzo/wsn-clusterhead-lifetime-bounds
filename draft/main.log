@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.23)  22 NOV 2026 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.23)  22 NOV 2026 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -583,13 +583,15 @@ n, not as a
  []
 
 [24]) (sec_backmatter.tex [25]) (sec_appendix.tex [26] (tab_audit_coding.tex)) 
-(main.bbl [27] [28]
+[27] [28] (main.bbl [29
+
+]
 Underfull \hbox (badness 1430) in paragraph at lines 154--162
 []\T1/ptm/m/n/12 Huangfu, Q., Hall, J.A.J., 2018.  Par-al-leliz-ing the dual re
 -vised sim-plex
  []
 
-[29] [30]) [31] (main.aux)
+[30] [31]) [32] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -598,9 +600,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3E717FA131DF4DCD80F50FBA4BE09A15;5671.
  ) 
 Here is how much of TeX's memory you used:
- 12441 strings out of 467871
- 192892 string characters out of 5418859
- 625829 words of memory out of 5000000
+ 12442 strings out of 467871
+ 192899 string characters out of 5418859
+ 621829 words of memory out of 5000000
  40926 multiletter control sequences out of 15000+600000
  709746 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -617,9 +619,9 @@ ms/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/User/AppData/Local/Programs
 iKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/User/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/MiK
 TeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (31 pages, 527389 bytes).
+Output written on main.pdf (32 pages, 527868 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
+ 810 PDF objects out of 1000 (max. 8388607)
+ 137 named destinations out of 1000 (max. 500000)
  279 words of extra memory for PDF output out of 10000 (max. 10000000)
 

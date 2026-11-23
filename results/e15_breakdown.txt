@@ -1,0 +1,45 @@
+layout 0: direct-to-sink power step needed by each node: {'-20 dBm (3.6 mA)': 3, '-8 dBm (4.4 mA)': 15, '-4 dBm (5.6 mA)': 27, '+0 dBm (6.4 mA)': 28, '+4 dBm (9.3 mA)': 25, '+8 dBm (16.4 mA)': 2}; farthest 109 m
+  DIRECT FND 636: network energy per round 32.3 mJ; first-dead node 51 at 109 m from sink
+    own report to sink     network   32.28 mJ/round (100.0%)  first-dead node  0.787 mJ/round (100.0%)
+    member report to CH    network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH reception           network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH packet to sink      network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+  PSOC   FND 953: network energy per round 51.4 mJ; first-dead node 94 at 47 m from sink
+    own report to sink     network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    member report to CH    network   19.48 mJ/round (37.9%)  first-dead node  0.191 mJ/round (36.4%)
+    CH reception           network   28.55 mJ/round (55.5%)  first-dead node  0.309 mJ/round (58.9%)
+    CH packet to sink      network    1.69 mJ/round ( 3.3%)  first-dead node  0.008 mJ/round ( 1.6%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    1.70 mJ/round ( 3.3%)  first-dead node  0.016 mJ/round ( 3.1%)
+layout 1: direct-to-sink power step needed by each node: {'-20 dBm (3.6 mA)': 4, '-8 dBm (4.4 mA)': 18, '-4 dBm (5.6 mA)': 20, '+0 dBm (6.4 mA)': 26, '+4 dBm (9.3 mA)': 31, '+8 dBm (16.4 mA)': 1}; farthest 107 m
+  DIRECT FND 636: network energy per round 32.5 mJ; first-dead node 28 at 107 m from sink
+    own report to sink     network   32.48 mJ/round (100.0%)  first-dead node  0.787 mJ/round (100.0%)
+    member report to CH    network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH reception           network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH packet to sink      network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+  PSOC   FND 955: network energy per round 51.5 mJ; first-dead node 13 at 56 m from sink
+    own report to sink     network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    member report to CH    network   19.62 mJ/round (38.1%)  first-dead node  0.196 mJ/round (37.3%)
+    CH reception           network   28.55 mJ/round (55.4%)  first-dead node  0.299 mJ/round (57.0%)
+    CH packet to sink      network    1.69 mJ/round ( 3.3%)  first-dead node  0.013 mJ/round ( 2.5%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    1.70 mJ/round ( 3.3%)  first-dead node  0.017 mJ/round ( 3.2%)
+layout 2: direct-to-sink power step needed by each node: {'-20 dBm (3.6 mA)': 3, '-8 dBm (4.4 mA)': 14, '-4 dBm (5.6 mA)': 17, '+0 dBm (6.4 mA)': 27, '+4 dBm (9.3 mA)': 35, '+8 dBm (16.4 mA)': 4}; farthest 105 m
+  DIRECT FND 636: network energy per round 35.1 mJ; first-dead node 35 at 103 m from sink
+    own report to sink     network   35.11 mJ/round (100.0%)  first-dead node  0.787 mJ/round (100.0%)
+    member report to CH    network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH reception           network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    CH packet to sink      network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+  PSOC   FND 953: network energy per round 51.5 mJ; first-dead node 29 at 69 m from sink
+    own report to sink     network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    member report to CH    network   19.56 mJ/round (38.0%)  first-dead node  0.197 mJ/round (37.4%)
+    CH reception           network   28.55 mJ/round (55.4%)  first-dead node  0.304 mJ/round (57.5%)
+    CH packet to sink      network    1.74 mJ/round ( 3.4%)  first-dead node  0.010 mJ/round ( 2.0%)
+    relaying               network    0.00 mJ/round ( 0.0%)  first-dead node  0.000 mJ/round ( 0.0%)
+    control                network    1.70 mJ/round ( 3.3%)  first-dead node  0.016 mJ/round ( 3.1%)

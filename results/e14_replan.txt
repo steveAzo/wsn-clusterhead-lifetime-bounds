@@ -1,0 +1,19 @@
+LPSCHED FO centre seed 0 replan 10 noise 0.0: FND 1663 wall=1071s
+LPSCHED FO centre seed 0 replan 25 noise 0.0: FND 1674 wall=792s
+LPSCHED FO centre seed 0 replan 100 noise 0.0: FND 1672 wall=252s
+LPSCHED FO centre seed 0 replan 200 noise 0.0: FND 1672 wall=184s
+LPSCHED CC2420 edge seed 0 replan 10 noise 0.0: FND 367 wall=11042s
+LPSCHED CC2420 edge seed 0 replan 25 noise 0.0: FND 368 wall=1503s
+LPSCHED CC2420 edge seed 0 replan 100 noise 0.0: FND 357 wall=260s
+LPSCHED CC2420 edge seed 0 replan 200 noise 0.0: FND 359 wall=250s
+LPSCHED CC2420 edge seed 0 replan 50 noise 0.0 report-cost: FND 362 wall=359s
+LPSCHED CC2420 edge seed 0 replan 50 noise 0.1 report-cost delay miss 0.2: FND 351 wall=264s
+LPSCHED FO centre seed 0 replan 10 noise 0.1 report-cost delay miss 0.2: FND 1548 wall=3023s
+LPSCHED FO centre seed 0 replan 25 noise 0.1 report-cost delay miss 0.2: FND 1524 wall=747s
+LPSCHED FO centre seed 0 replan 100 noise 0.1 report-cost delay miss 0.2: FND 1390 wall=237s
+LPSCHED FO centre seed 0 replan 200 noise 0.1 report-cost delay miss 0.2: FND 1401 wall=239s
+LPSCHED CC2420 edge seed 0 replan 10 noise 0.1 report-cost delay miss 0.2: FND 356 wall=624s
+LPSCHED CC2420 edge seed 0 replan 25 noise 0.1 report-cost delay miss 0.2: FND 352 wall=308s
+LPSCHED CC2420 edge seed 0 replan 100 noise 0.1 report-cost delay miss 0.2: FND 322 wall=174s
+LPSCHED CC2420 edge seed 0 replan 200 noise 0.1 report-cost delay miss 0.2: FND 295 wall=203s
+E14 DONE Mon Nov 23 05:32:29 2026
